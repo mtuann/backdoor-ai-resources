@@ -166,7 +166,7 @@ If our repo or survey is useful for your research, please cite our work as follo
 | 134 | Mitigating Backdoor Attacks in Federated Learning | CoRR abs/2011.01767 (2020) | 2020 | Chen Wu, Xian Yang, Sencun Zhu, Prasenjit Mitra |
 | 135 | Dynamic backdoor attacks against federated learning | CoRR abs/2011.07429 (2020) | 2020 | Anbu Huang |
 | 136 | Can You Really Backdoor Federated Learning | CoRR abs/1911.07963 (2019) | 2019 | Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, H. Brendan McMahan |
-# Natural language processing (NLP)
+# Natural Language Processing (NLP)
 |No. | Title | Venue | Year | Author |
 |----|-------|-------|------|--------|
 | 1 | NLPSweep: A comprehensive defense scheme for mitigating NLP backdoor attacks | Inf. Sci. 661: 120176 (2024) | 2024 | Tao Xiang, Fei Ouyang, Di Zhang, Chunlong Xie, Hao Wang |
@@ -225,7 +225,7 @@ If our repo or survey is useful for your research, please cite our work as follo
 | 54 | RAP: Robustness-Aware Perturbations for Defending against Backdoor Attacks on NLP Models | EMNLP (1) 2021: 8365-8381 | 2021 | Wenkai Yang, Yankai Lin, Peng Li, Jie Zhou, Xu Sun |
 | 55 | BadNL: Backdoor Attacks Against NLP Models | CoRR abs/2006.01043 (2020) | 2020 | Xiaoyi Chen, Ahmed Salem, Michael Backes, Shiqing Ma, Yang Zhang |
 | 56 | On Backdoors to Tractable Constraint Languages | CP 2014: 224-239 | 2014 | Clément Carbonnel, Martin C. Cooper, Emmanuel Hebrard |
-# Automatic speech recognition (ASR)
+# Automatic Speech Recognition (ASR)
 |No. | Title | Venue | Year | Author |
 |----|-------|-------|------|--------|
 | 1 | Data Poisoning and Backdoor Attacks on Audio Intelligence Systems | IEEE Commun. Mag. 61(12): 176-182 (2023) | 2023 | Yunjie Ge, Qian Wang, Jiayuan Yu, Chao Shen, Qi Li |
@@ -444,6 +444,27 @@ If our repo or survey is useful for your research, please cite our work as follo
 | 3 | Influencer Backdoor Attack on Semantic Segmentation | CoRR abs/2303.12054 (2023) | 2023 | Haoheng Lan, Jindong Gu, Philip H. S. Torr, Hengshuang Zhao |
 | 4 | Hidden Backdoor Attack against Semantic Segmentation Models | CoRR abs/2103.04038 (2021) | 2021 | Yiming Li, Yanjie Li, Yalei Lv, Yong Jiang, Shu-Tao Xia |
 | 5 | Segmentation Based Backdoor Attack Detection | ICMLC 2020: 298-302 | 2020 | Natasha Kees, Yaxuan Wang, Yiling Jiang, Fang Lue, Patrick P. K. Chan |
+# Machine Learning (ML)
+|No. | Title | Venue | Year | Author |
+|----|-------|-------|------|--------|
+| 1 | Towards Backdoor Attacks and Defense in Robust Machine Learning Models | Comput. Secur. 127: 103101 (2023) | 2023 | Ezekiel O. Soremekun, Sakshi Udeshi, Sudipta Chattopadhyay |
+| 2 | Dataset Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses | IEEE Trans. Pattern Anal. Mach. Intell. 45(2): 1563-1580 (2023) | 2023 | Micah Goldblum, Dimitris Tsipras, Chulin Xie, Xinyun Chen, Avi Schwarzschild, Dawn Song, Aleksander Madry, Bo Li, Tom Goldstein |
+| 3 | B3: Backdoor Attacks against Black-box Machine Learning Models | ACM Trans. Priv. Secur. 26(4): 43:1-43:24 (2023) | 2023 | Xueluan Gong, Yanjiao Chen, Wenbin Yang, Huayang Huang, Qian Wang |
+| 4 | TRAPDOOR: Repurposing neural network backdoors to detect dataset bias in machine learning-based genomic analysis | VLSI-SoC 2023: 1-6 | 2023 | Esha Sarkar, Constantine Doumanidis, Michail Maniatakos |
+| 5 | Evil from Within: Machine Learning Backdoors through Hardware Trojans | CoRR abs/2304.08411 (2023) | 2023 | Alexander Warnecke, Julian Speith, Jan-Niklas Möller, Konrad Rieck, Christof Paar |
+| 6 | VulnerGAN: a backdoor attack through vulnerability amplification against machine learning-based network intrusion detection systems | Sci. China Inf. Sci. 65(7): 1-19 (2022) | 2022 | Guangrui Liu, Weizhe Zhang, Xinjie Li, Kaisheng Fan, Shui Yu |
+| 7 | Backdoor Attack on Machine Learning Based Android Malware Detectors | IEEE Trans. Dependable Secur. Comput. 19(5): 3357-3370 (2022) | 2022 | Chaoran Li, Xiao Chen, Derui Wang, Sheng Wen, Muhammad Ejaz Ahmed, Seyit Camtepe, Yang Xiang |
+| 8 | Model Agnostic Defence Against Backdoor Attacks in Machine Learning | IEEE Trans. Reliab. 71(2): 880-895 (2022) | 2022 | Sakshi Udeshi, Shanshan Peng, Gerald Woo, Lionell Loh, Louth Rawshan, Sudipta Chattopadhyay |
+| 9 | Dynamic Backdoor Attacks Against Machine Learning Models | EuroS&P 2022: 703-718 | 2022 | Ahmed Salem, Rui Wen, Michael Backes, Shiqing Ma, Yang Zhang |
+| 10 | Planting Undetectable Backdoors in Machine Learning Models : [Extended Abstract] | FOCS 2022: 931-942 | 2022 | Shafi Goldwasser, Michael P. Kim, Vinod Vaikuntanathan, Or Zamir |
+| 11 | Planting Undetectable Backdoors in Machine Learning Models | CoRR abs/2204.06974 (2022) | 2022 | Shafi Goldwasser, Michael P. Kim, Vinod Vaikuntanathan, Or Zamir |
+| 12 | Backdooring Explainable Machine Learning | CoRR abs/2204.09498 (2022) | 2022 | Maximilian Noppel, Lukas Peter, Christian Wressnegger |
+| 13 | Selective Amnesia: On Efficient, High-Fidelity and Blind Suppression of Backdoor Effects in Trojaned Machine Learning Models | CoRR abs/2212.04687 (2022) | 2022 | Rui Zhu, Di Tang, Siyuan Tang, XiaoFeng Wang, Haixu Tang |
+| 14 | Machine Learning with Electronic Health Records is vulnerable to Backdoor Trigger Attacks | CoRR abs/2106.07925 (2021) | 2021 | Byunggill Joe, Akshay Mehra, Insik Shin, Jihun Hamm |
+| 15 | TRAPDOOR: Repurposing backdoors to detect dataset bias in machine learning-based genomic analysis | CoRR abs/2108.10132 (2021) | 2021 | Esha Sarkar, Michail Maniatakos |
+| 16 | Exposing Backdoors in Robust Machine Learning Models | CoRR abs/2003.00865 (2020) | 2020 | Ezekiel O. Soremekun, Sakshi Udeshi, Sudipta Chattopadhyay, Andreas Zeller |
+| 17 | BAAAN: Backdoor Attacks Against Autoencoder and GAN-Based Machine Learning Models | CoRR abs/2010.03007 (2020) | 2020 | Ahmed Salem, Yannick Sautter, Michael Backes, Mathias Humbert, Yang Zhang |
+| 18 | On Embedding Backdoor in Malware Detectors Using Machine Learning | PST 2019: 1-5 | 2019 | Shoichiro Sasaki, Seira Hidano, Toshihiro Uchibayashi, Takuo Suganuma, Masahiro Hiji, Shinsaku Kiyomoto |
 # RSA
 |No. | Title | Venue | Year | Author |
 |----|-------|-------|------|--------|
@@ -501,9 +522,6 @@ If our repo or survey is useful for your research, please cite our work as follo
 | 52 | A Space Efficient Backdoor in RSA and Its Applications | Selected Areas in Cryptography 2005: 128-143 | 2005 | Adam L. Young, Moti Yung |
 | 53 | Simple Backdoors for RSA Key Generation | CT-RSA 2003: 403-416 | 2003 | Claude Crépeau, Alain Slakmon |
 | 54 | Simple backdoors to RSA key generation | IACR Cryptol. ePrint Arch. 2002: 183 (2002) | 2002 | Claude Crépeau, Alain Slakmon |
-# Machine Learning (ML)
-|No. | Title | Venue | Year | Author |
-|----|-------|-------|------|--------|
 # Others
 |No. | Title | Venue | Year | Author |
 |----|-------|-------|------|--------|
@@ -594,711 +612,693 @@ If our repo or survey is useful for your research, please cite our work as follo
 | 85 | Compression-resistant backdoor attack against deep neural networks | Appl. Intell. 53(17): 20402-20417 (2023) | 2023 | Mingfu Xue, Xin Wang, Shichang Sun, Yushu Zhang, Jian Wang, Weiqiang Liu |
 | 86 | Active poisoning: efficient backdoor attacks on transfer learning-based brain-computer interfaces | Sci. China Inf. Sci. 66(8) (2023) | 2023 | Xue Jiang, Lubin Meng, Siyang Li, Dongrui Wu |
 | 87 | DIHBA: Dynamic, invisible and high attack success rate boundary backdoor attack with low poison ratio | Comput. Secur. 129: 103212 (2023) | 2023 | Binhao Ma, Can Zhao, Dejun Wang, Bo Meng |
-| 88 | Towards Backdoor Attacks and Defense in Robust Machine Learning Models | Comput. Secur. 127: 103101 (2023) | 2023 | Ezekiel O. Soremekun, Sakshi Udeshi, Sudipta Chattopadhyay |
-| 89 | DLP: towards active defense against backdoor attacks with decoupled learning process | Cybersecur. 6(1): 9 (2023) | 2023 | Zonghao Ying, Bin Wu |
-| 90 | NBA: defensive distillation for backdoor removal via neural behavior alignment | Cybersecur. 6(1): 20 (2023) | 2023 | Zonghao Ying, Bin Wu |
-| 91 | A Textual Backdoor Defense Method Based on Deep Feature Classification | Entropy 25(2): 220 (2023) | 2023 | Kun Shao, Jun-an Yang, Pengjiang Hu, Xiaoshuai Li |
-| 92 | Backdoor Attack against Face Sketch Synthesis | Entropy 25(7): 974 (2023) | 2023 | Shengchuan Zhang, Suhang Ye |
-| 93 | A defense method against backdoor attacks on neural networks | Expert Syst. Appl. 213(Part): 118990 (2023) | 2023 | Sara Kaviani, Samaneh Shamshiri, Insoo Sohn |
-| 94 | A lightweight backdoor defense framework based on image inpainting | Neurocomputing 537: 22-36 (2023) | 2023 | Yier Wei, Haichang Gao, Yufei Wang, Yipeng Gao, Huan Liu |
-| 95 | A Triggerless Backdoor Attack and Defense Mechanism for Intelligent Task Offloading in Multi-UAV Systems | IEEE Internet Things J. 10(7): 5719-5732 (2023) | 2023 | Shafkat Islam, Shahriar Badsha, Ibrahim Khalil, Mohammed Atiquzzaman, Charalambos Konstantinou |
-| 96 | Backdoor-Resistant Public Data Integrity Verification Scheme Based on Smart Contracts | IEEE Internet Things J. 10(16): 14269-14284 (2023) | 2023 | Shanshan Li, Chunxiang Xu, Yuan Zhang, Yicong Du, Anjia Yang, Xinsheng Wen, Kefei Chen |
-| 97 | Turning backdoors for efficient privacy protection against image retrieval violations | Inf. Process. Manag. 60(5): 103471 (2023) | 2023 | Qiang Liu, Tongqing Zhou, Zhiping Cai, Yuan Yuan, Ming Xu, Jiaohua Qin, Wentao Ma |
-| 98 | Unlabeled backdoor poisoning on trained-from-scratch semi-supervised learning | Inf. Sci. 647: 119453 (2023) | 2023 | Le Feng, Zhenxing Qian, Xinpeng Zhang, Sheng Li |
-| 99 | Debiasing backdoor attack: A benign application of backdoor attack in eliminating data bias | Inf. Sci. 643: 119171 (2023) | 2023 | Shangxi Wu, Qiuyang He, Yi Zhang, Dongyuan Lu, Jitao Sang |
-| 100 | Multidomain active defense: Detecting multidomain backdoor poisoned samples via ALL-to-ALL decoupling training without clean datasets | Neural Networks 168: 350-362 (2023) | 2023 | Binhao Ma, Jiahui Wang, Dejun Wang, Bo Meng |
-| 101 | How to backdoor split learning | Neural Networks 168: 326-336 (2023) | 2023 | Fangchao Yu, Lina Wang, Bo Zeng, Kai Zhao, Zhi Pang, Tian Wu |
-| 102 | Dataset Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses | IEEE Trans. Pattern Anal. Mach. Intell. 45(2): 1563-1580 (2023) | 2023 | Micah Goldblum, Dimitris Tsipras, Chulin Xie, Xinyun Chen, Avi Schwarzschild, Dawn Song, Aleksander Madry, Bo Li, Tom Goldstein |
-| 103 | TAT: Targeted backdoor attacks against visual object tracking | Pattern Recognit. 142: 109629 (2023) | 2023 | Ziyi Cheng, Baoyuan Wu, Zhenya Zhang, Jianjun Zhao |
-| 104 | Backdoor Attack on Deep Neural Networks Triggered by Fault Injection Attack on Image Sensor Interface | Sensors 23(10): 4742 (2023) | 2023 | Tatsuya Oyama, Shunsuke Okura, Kota Yoshida, Takeshi Fujino |
-| 105 | Backdoor Attack on Deep Neural Networks Triggered by Fault Injection Attack on Image Sensor Interface | ASHES@CCS 2021: 63-72 | 2021 | Tatsuya Oyama, Shunsuke Okura, Kota Yoshida, Takeshi Fujino |
-| 106 | Backdoor Pony: Evaluating backdoor attacks and defenses in different domains | SoftwareX 22: 101387 (2023) | 2023 | Arthur Mercier, Nikita Smolin, Oliver Sihlovec, Stefanos Koffas, Stjepan Picek |
-| 107 | Stealthy Frequency-Domain Backdoor Attacks: Fourier Decomposition and Fundamental Frequency Injection | IEEE Signal Process. Lett. 30: 1677-1681 (2023) | 2023 | Qianli Ma, Junping Qin, Kai Yan, Lei Wang, Hao Sun |
-| 108 | Stealthy Backdoor Attack Against Speaker Recognition Using Phase-Injection Hidden Trigger | IEEE Signal Process. Lett. 30: 1057-1061 (2023) | 2023 | Zhe Ye, Diqun Yan, Li Dong, Jiacheng Deng, Shui Yu |
-| 109 | FooBaR: Fault Fooling Backdoor Attack on Neural Network Training | IEEE Trans. Dependable Secur. Comput. 20(3): 1895-1908 (2023) | 2023 | Jakub Breier, Xiaolu Hou, Martín Ochoa, Jesus Solano |
-| 110 | Enhancing Backdoor Attacks With Multi-Level MMD Regularization | IEEE Trans. Dependable Secur. Comput. 20(2): 1675-1686 (2023) | 2023 | Pengfei Xia, Hongjing Niu, Ziqiang Li, Bin Li |
-| 111 | Backdoor Attacks for Remote Sensing Data With Wavelet Transform | IEEE Trans. Geosci. Remote. Sens. 61: 1-15 (2023) | 2023 | Nikolaus Dräger, Yonghao Xu, Pedram Ghamisi |
-| 112 | Differential Analysis of Triggers and Benign Features for Black-Box DNN Backdoor Detection | IEEE Trans. Inf. Forensics Secur. 18: 4668-4680 (2023) | 2023 | Hao Fu, Prashanth Krishnamurthy, Siddharth Garg, Farshad Khorrami |
-| 113 | B3: Backdoor Attacks against Black-box Machine Learning Models | ACM Trans. Priv. Secur. 26(4): 43:1-43:24 (2023) | 2023 | Xueluan Gong, Yanjiao Chen, Wenbin Yang, Huayang Huang, Qian Wang |
-| 114 | Bayesian Causal Bandits with Backdoor Adjustment Prior | Trans. Mach. Learn. Res. 2023 (2023) | 2023 | Jireh Huang, Qing Zhou |
-| 115 | Pied-Piper: Revealing the Backdoor Threats in Ethereum ERC Token Contracts | ACM Trans. Softw. Eng. Methodol. 32(3): 61:1-61:24 (2023) | 2023 | Fuchen Ma, Meng Ren, Lerong Ouyang, Yuanliang Chen, Juan Zhu, Ting Chen, Yingli Zheng, Xiao Dai, Yu Jiang, Jiaguang Sun |
-| 116 | Hidden Backdoor Attack Against Deep Learning-Based Wireless Signal Modulation Classifiers | IEEE Trans. Veh. Technol. 72(9): 12396-12400 (2023) | 2023 | Yunsong Huang, Weicheng Liu, Hui-Ming Wang |
-| 117 | A stealthy and robust backdoor attack via frequency domain transform | World Wide Web (WWW) 26(5): 2767-2783 (2023) | 2023 | Ruitao Hou, Teng Huang, Hongyang Yan, Lishan Ke, Weixuan Tang |
-| 118 | Backdoor Attack Detection in Computer Vision by Applying Matrix Factorization on the Weights of Deep Networks | SafeAI@AAAI 2023 | 2023 | Khondoker Murad Hossain, Tim Oates |
-| 119 | Poisoning-Based Backdoor Attacks in Computer Vision | AAAI 2023: 16121-16122 | 2023 | Yiming Li |
-| 120 | Towards Understanding How Self-training Tolerates Data Backdoor Poisoning | SafeAI@AAAI 2023 | 2023 | Soumyadeep Pal, Ren Wang, Yuguang Yao, Sijia Liu |
-| 121 | Probabilistic Generalization of Backdoor Trees with Application to SAT | AAAI 2023: 4095-4103 | 2023 | Alexander A. Semenov, Daniil Chivilikhin, Stepan Kochemazov, Ibragim Dzhiblavi |
-| 122 | BITE: Textual Backdoor Attacks with Iterative Trigger Injection | ACL (1) 2023: 12951-12968 | 2023 | Jun Yan, Vansh Gupta, Xiang Ren |
-| 123 | A Gradient Control Method for Backdoor Attacks on Parameter-Efficient Tuning | ACL (1) 2023: 3508-3520 | 2023 | Naibin Gu, Peng Fu, Xiyu Liu, Zhengxiao Liu, Zheng Lin, Weiping Wang |
-| 124 | Defending against Insertion-based Textual Backdoor Attacks via Attribution | ACL (Findings) 2023: 8818-8833 | 2023 | Jiazhao Li, Zhuofeng Wu, Wei Ping, Chaowei Xiao, V. G. Vinod Vydiswaran |
-| 125 | Multi-target Backdoor Attacks for Code Pre-trained Models | ACL (1) 2023: 7236-7254 | 2023 | Yanzhou Li, Shangqing Liu, Kangjie Chen, Xiaofei Xie, Tianwei Zhang, Yang Liu |
-| 126 | Backdooring Neural Code Search | ACL (1) 2023: 9692-9708 | 2023 | Weisong Sun, Yuchen Chen, Guanhong Tao, Chunrong Fang, Xiangyu Zhang, Quanjun Zhang, Bin Luo |
-| 127 | Exploiting a Benign Loudspeaker as Magnetic Backdoor for Practical Injection Attacks | ACM TUR-C 2023: 145-147 | 2023 | Tiantian Liu, Feng Lin |
-| 128 | DFaP: Data Filtering and Purification Against Backdoor Attacks | AIS&P (1) 2023: 81-97 | 2023 | Haochen Wang, Tianshi Mu, Guocong Feng, ShangBo Wu, Yuanzhang Li |
-| 129 | CASSOCK: Viable Backdoor Attacks against DNN in the Wall of Source-Specific Backdoor Defenses | AsiaCCS 2023: 938-950 | 2023 | Shang Wang, Yansong Gao, Anmin Fu, Zhi Zhang, Yuqing Zhang, Willy Susilo, Dongxi Liu |
-| 130 | SolScope: Effectively Hunting Potential Permission Backdoor Threats in Smart Contracts | BIGCOM 2023: 88-95 | 2023 | Renjie Ji, Wansen Wang, Yan Xiong, Wenchao Huang |
-| 131 | Lookin' Out My Backdoor! Investigating Backdooring Attacks Against DL-driven Malware Detectors | AISec@CCS 2023: 209-220 | 2023 | Mario D'Onghia, Federico Di Cesare, Luigi Gallo, Michele Carminati, Mario Polino, Stefano Zanero |
-| 132 | Poster: Fooling XAI with Explanation-Aware Backdoors | CCS 2023: 3612-3614 | 2023 | Maximilian Noppel, Christian Wressnegger |
-| 133 | Poster: Backdoor Attack on Extreme Learning Machines | CCS 2023: 3588-3590 | 2023 | Behrad Tajalli, Gorka Abad, Stjepan Picek |
-| 134 | Attacking Neural Networks with Neural Networks: Towards Deep Synchronization for Backdoor Attacks | CIKM 2023: 608-618 | 2023 | Zihan Guan, Lichao Sun, Mengnan Du, Ninghao Liu |
-| 135 | TRGE: A Backdoor Detection After Quantization | Inscrypt (2) 2023: 394-398 | 2023 | Renhua Xie, Xuxin Fang, Bo Ma, Chuanhuang Li, Xiaoyong Yuan |
-| 136 | Vulnerabilities of Deep Learning-Driven Semantic Communications to Backdoor (Trojan) Attacks | CISS 2023: 1-6 | 2023 | Yalin E. Sagduyu, Tugba Erpek, Sennur Ulukus, Aylin Yener |
-| 137 | Blind Concealment from Reconstruction-based Attack Detectors for Industrial Control Systems via Backdoor Attacks | CPSS@AsiaCCS 2023: 36-47 | 2023 | Tim Walita, Alessandro Erba, John Henry Castellanos, Nils Ole Tippenhauer |
-| 138 | Detecting Backdoors in Pre-trained Encoders | CVPR 2023: 16352-16362 | 2023 | Shiwei Feng, Guanhong Tao, Siyuan Cheng, Guangyu Shen, Xiangzhe Xu, Yingqi Liu, Kaiyuan Zhang, Shiqing Ma, Xiangyu Zhang |
-| 139 | Backdoor Cleansing with Unlabeled Data | CVPR 2023: 12218-12227 | 2023 | Lu Pang, Tao Sun, Haibin Ling, Chao Chen |
-| 140 | Architectural Backdoors in Neural Networks | CVPR 2023: 24595-24604 | 2023 | Mikel Bober-Irizar, Ilia Shumailov, Yiren Zhao, Robert D. Mullins, Nicolas Papernot |
-| 141 | The Dark Side of Dynamic Routing Neural Networks: Towards Efficiency Backdoor Injection | CVPR 2023: 24585-24594 | 2023 | Simin Chen, Hanlin Chen, Mirazul Haque, Cong Liu, Wei Yang |
-| 142 | Backdoor Defense via Adaptively Splitting Poisoned Dataset | CVPR 2023: 4005-4014 | 2023 | Kuofeng Gao, Yang Bai, Jindong Gu, Yong Yang, Shu-Tao Xia |
-| 143 | Don't FREAK Out: A Frequency-Inspired Approach to Detecting Backdoor Poisoned Samples in DNNs | CVPR Workshops 2023: 2338-2345 | 2023 | Hasan Abed Al Kader Hammoud, Adel Bibi, Philip H. S. Torr, Bernard Ghanem |
-| 144 | Color Backdoor: A Robust Poisoning Attack in Color Space | CVPR 2023: 8133-8142 | 2023 | Wenbo Jiang, Hongwei Li, Guowen Xu, Tianwei Zhang |
-| 145 | Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency | CVPR 2023: 16363-16372 | 2023 | Xiaogeng Liu, Minghui Li, Haoyu Wang, Shengshan Hu, Dengpan Ye, Hai Jin, Libing Wu, Chaowei Xiao |
-| 146 | Single Image Backdoor Inversion via Robust Smoothed Classifiers | CVPR 2023: 8113-8122 | 2023 | Mingjie Sun, Zico Kolter |
-| 147 | Defending Against Patch-based Backdoor Attacks on Self-Supervised Learning | CVPR 2023: 12239-12249 | 2023 | Ajinkya Tejankar, Maziar Sanjabi, Qifan Wang, Sinong Wang, Hamed Firooz, Hamed Pirsiavash, Liang Tan |
-| 148 | MEDIC: Remove Model Backdoors via Importance Driven Cloning | CVPR 2023: 20485-20494 | 2023 | Qiuling Xu, Guanhong Tao, Jean Honorio, Yingqi Liu, Shengwei An, Guangyu Shen, Siyuan Cheng, Xiangyu Zhang |
-| 149 | Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger | CVPR 2023: 12250-12259 | 2023 | Yi Yu, Yufei Wang, Wenhan Yang, Shijian Lu, Yap-Peng Tan, Alex C. Kot |
-| 150 | Backdoor Defense via Deconfounded Representation Learning | CVPR 2023: 12228-12238 | 2023 | Zaixi Zhang, Qi Liu, Zhicai Wang, Zepu Lu, Qingyong Hu |
-| 151 | Don't Knock! Rowhammer at the Backdoor of DNN Models | DSN 2023: 109-122 | 2023 | M. Caner Tol, Saad Islam, Andrew J. Adiletta, Berk Sunar, Ziming Zhang |
-| 152 | Invisible Backdoor Attacks Using Data Poisoning in Frequency Domain | ECAI 2023: 2954-2961 | 2023 | Chang Yue, Peizhuo Lv, Ruigang Liang, Kai Chen |
-| 153 | Mitigating Backdoor Poisoning Attacks through the Lens of Spurious Correlation | EMNLP 2023: 953-967 | 2023 | Xuanli He, Qiongkai Xu, Jun Wang, Benjamin I. P. Rubinstein, Trevor Cohn |
-| 154 | Attention-Enhancing Backdoor Attacks Against BERT-based Models | EMNLP (Findings) 2023: 10672-10690 | 2023 | Weimin Lyu, Songzhu Zheng, Lu Pang, Haibin Ling, Chao Chen |
-| 155 | Backdoor Attacks Leveraging Latent Representation in Competitive Learning | ESORICS Workshops (2) 2023: 700-718 | 2023 | Kazuki Iwahana, Naoto Yanai, Toru Fujiwara |
-| 156 | Backdoor Mitigation in Deep Neural Networks via Strategic Retraining | FM 2023: 635-647 | 2023 | Akshay Dhonthi, Ernst Moritz Hahn, Vahid Hashemi |
-| 157 | Backdoor Attacks Against Deep Learning-Based Massive MIMO Localization | GLOBECOM 2023: 2796-2801 | 2023 | Tianya Zhao, Xuyu Wang, Shiwen Mao |
-| 158 | Fully Hidden Dynamic Trigger Backdoor Attacks | ICAART (3) 2023: 81-91 | 2023 | Shintaro Narisada, Seira Hidano, Kazuhide Fukushima |
-| 159 | QTROJAN: A Circuit Backdoor Against Quantum Neural Networks | ICASSP 2023: 1-5 | 2023 | Cheng Chu, Lei Jiang, Martin Swany, Fan Chen |
-| 160 | BadRes: Reveal the Backdoors Through Residual Connection | ICASSP 2023: 1-5 | 2023 | Mingrui He, Tianyu Chen, Haoyi Zhou, Shanghang Zhang, Jianxin Li |
-| 161 | Untargeted Backdoor Attack Against Object Detection | ICASSP 2023: 1-5 | 2023 | Chengxiao Luo, Yiming Li, Yong Jiang, Shu-Tao Xia |
-| 162 | Training Set Cleansing of Backdoor Poisoning by Self-Supervised Representation Learning | ICASSP 2023: 1-5 | 2023 | Hang Wang, Sahar Karami, Ousmane Dia, Hippolyt Ritter, Ehsan Emamjomeh-Zadeh, Jiahui Chen, Zhen Xiang, David J. Miller, George Kesidis |
-| 163 | BATT: Backdoor Attack with Transformation-Based Triggers | ICASSP 2023: 1-5 | 2023 | Tong Xu, Yiming Li, Yong Jiang, Shu-Tao Xia |
-| 164 | Backdoor Defense via Suppressing Model Shortcuts | ICASSP 2023: 1-5 | 2023 | Sheng Yang, Yiming Li, Yong Jiang, Shu-Tao Xia |
-| 165 | NCL: Textual Backdoor Defense Using Noise-Augmented Contrastive Learning | ICASSP 2023: 1-5 | 2023 | Shengfang Zhai, Qingni Shen, Xiaoyi Chen, Weilong Wang, Cong Li, Yuejian Fang, Zhonghai Wu |
-| 166 | An Empirical Study of Backdoor Attacks on Masked Auto Encoders | ICASSP 2023: 1-5 | 2023 | Shuli Zhuang, Pengfei Xia, Bin Li |
-| 167 | Random Location Poisoning Backdoor Attack Against Automatic Modulation Classification in Wireless Networks | ICCC 2023: 1-6 | 2023 | Zixin Li, Hang Jiang, Sicheng Zhang, Wei Xiang, Yun Lin |
-| 168 | Stealthy Backdoor Attack on RF Signal Classification | ICCCN 2023: 1-10 | 2023 | Tianming Zhao, Zijie Tang, Tianfang Zhang, Huy Phan, Yan Wang, Cong Shi, Bo Yuan, Yingying Chen |
-| 169 | Countermeasure against Backdoor Attack for Deep Learning-Based Phishing Detection | ICCE-Taiwan 2023: 651-652 | 2023 | Koko Nishiura, Tomotaka Kimura, Jun Cheng |
-| 170 | Invisible Encoded Backdoor attack on DNNs using Conditional GAN | ICCE 2023: 1-5 | 2023 | Iram Arshad, Yuansong Qiao, Brian Lee, Yuhang Ye |
-| 171 | An Embarrassingly Simple Backdoor Attack on Self-supervised Learning | ICCV 2023: 4344-4355 | 2023 | Changjiang Li, Ren Pang, Zhaohan Xi, Tianyu Du, Shouling Ji, Yuan Yao, Ting Wang |
-| 172 | Beating Backdoor Attack at Its Own Game | ICCV 2023: 4597-4606 | 2023 | Min Liu, Alberto L. Sangiovanni-Vincentelli, Xiangyu Yue |
-| 173 | The Perils of Learning From Unlabeled Data: Backdoor Attacks on Semi-supervised Learning | ICCV 2023: 4707-4717 | 2023 | Virat Shejwalkar, Lingjuan Lyu, Amir Houmansadr |
-| 174 | Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis | ICCV 2023: 4561-4573 | 2023 | Lukas Struppek, Dominik Hintersdorf, Kristian Kersting |
-| 175 | TIJO: Trigger Inversion with Joint Optimization for Defending Multimodal Backdoored Models | ICCV 2023: 165-175 | 2023 | Indranil Sur, Karan Sikka, Matthew Walmer, Kaushik Koneripalli, Anirban Roy, Xiao Lin, Ajay Divakaran, Susmit Jha |
-| 176 | Computation and Data Efficient Backdoor Attacks | ICCV 2023: 4782-4791 | 2023 | Yutong Wu, Xingshuo Han, Han Qiu, Tianwei Zhang |
-| 177 | Enhancing Fine-Tuning based Backdoor Defense with Sharpness-Aware Minimization | ICCV 2023: 4443-4454 | 2023 | Mingli Zhu, Shaokui Wei, Li Shen, Yanbo Fan, Baoyuan Wu |
-| 178 | BHAC-MRI: Backdoor and Hybrid Attacks on MRI Brain Tumor Classification Using CNN | ICIAP (2) 2023: 332-344 | 2023 | Muhammad Imran, Hassaan Khaliq Qureshi, Irene Amerini |
-| 179 | Neural Network Backdoor Attacks Fully Controlled by Composite Natural Utterance Fragments | ICICS 2023: 451-466 | 2023 | Xubo Yang, Linsen Li, Yenan Chen |
-| 180 | Efficient any-Target Backdoor Attack with Pseudo Poisoned Samples | ICIP 2023: 3319-3323 | 2023 | Bin Huang, Zhi Wang |
-| 181 | CSSBA: A Clean Label Sample-Specific Backdoor Attack | ICIP 2023: 965-969 | 2023 | Zihan Shen, Wei Hou, Yun Li |
-| 182 | Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only | ICLR 2023 | 2023 | Kangjie Chen, Xiaoxuan Lou, Guowen Xu, Jiwei Li, Tianwei Zhang |
-| 183 | SCALE-UP: An Efficient Black-box Input-level Backdoor Detection via Analyzing Scaled Prediction Consistency | ICLR 2023 | 2023 | Junfeng Guo, Yiming Li, Xun Chen, Hanqing Guo, Lichao Sun, Cong Liu |
-| 184 | Distilling Cognitive Backdoor Patterns within an Image | ICLR 2023 | 2023 | Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, James Bailey |
-| 185 | Incompatibility Clustering as a Defense Against Backdoor Poisoning Attacks | ICLR 2023 | 2023 | Charles Jin, Melinda Sun, Martin C. Rinard |
-| 186 | The Dark Side of AutoML: Towards Architectural Backdoor Search | ICLR 2023 | 2023 | Ren Pang, Changjiang Li, Zhaohan Xi, Shouling Ji, Ting Wang |
-| 187 | Revisiting the Assumption of Latent Separability for Backdoor Defenses | ICLR 2023 | 2023 | Xiangyu Qi, Tinghao Xie, Yiming Li, Saeed Mahloujifar, Prateek Mittal |
-| 188 | UNICORN: A Unified Backdoor Trigger Inversion Framework | ICLR 2023 | 2023 | Zhenting Wang, Kai Mei, Juan Zhai, Shiqing Ma |
-| 189 | Rethinking Backdoor Attacks | ICML 2023: 16216-16236 | 2023 | Alaa Khaddaj, Guillaume Leclerc, Aleksandar Makelov, Kristian Georgiev, Hadi Salman, Andrew Ilyas, Aleksander Madry |
-| 190 | Reconstructive Neuron Pruning for Backdoor Defense | ICML 2023: 19837-19854 | 2023 | Yige Li, Xixiang Lyu, Xingjun Ma, Nodens Koren, Lingjuan Lyu, Bo Li, Yu-Gang Jiang |
-| 191 | Understanding Backdoor Attacks through the Adaptability Hypothesis | ICML 2023: 37952-37976 | 2023 | Xun Xian, Ganghua Wang, Jayanth Srinivasa, Ashish Kundu, Xuan Bi, Mingyi Hong, Jie Ding |
-| 192 | UMD: Unsupervised Model Detection for X2X Backdoor Attacks | ICML 2023: 38013-38038 | 2023 | Zhen Xiang, Zidi Xiong, Bo Li |
-| 193 | SDBC: A Novel and Effective Self-Distillation Backdoor Cleansing Approach | ICONIP (12) 2023: 285-297 | 2023 | Sheng Ran, Baolin Zheng, Mingwei Sun |
-| 194 | MIC: An Effective Defense Against Word-Level Textual Backdoor Attacks | ICONIP (6) 2023: 3-18 | 2023 | Shufan Yang, Qianmu Li, Zhichao Lian, Pengchuan Wang, Jun Hou |
-| 195 | X-HDNN: Explainable Hybrid DNN for Industrial Internet of Things Backdoor Attack Detection | ICTC 2023: 1053-1057 | 2023 | Love Allen Chijioke Ahakonye, Cosmas Ifeanyi Nwakanma, Jae Min Lee, Dong-Seong Kim |
-| 196 | Orion: Online Backdoor Sample Detection via Evolution Deviance | IJCAI 2023: 864-874 | 2023 | Huayang Huang, Qian Wang, Xueluan Gong, Tao Wang |
-| 197 | Backdoor Attack on Deep Neural Networks in Perception Domain | IJCNN 2023: 1-8 | 2023 | Xiaoxing Mo, Leo Yu Zhang, Nan Sun, Wei Luo, Shang Gao |
-| 198 | Computational Color Constancy-Based Backdoor Attacks | ISPA 2023: 1-6 | 2023 | Donik Vrsnak, Ivan Sabolic, Marko Subasic, Sven Loncaric |
-| 199 | SDN Application Backdoor: Disrupting the Service via Poisoning the Topology | INFOCOM 2023: 1-10 | 2023 | Shuhua Deng, Xian Qing, Xiaofan Li, Xing Gao, Xieping Gao |
-| 200 | Mind Your Heart: Stealthy Backdoor Attack on Dynamic Deep Neural Network in Edge Computing | INFOCOM 2023: 1-10 | 2023 | Tian Dong, Ziyuan Zhang, Han Qiu, Tianwei Zhang, Hewu Li, Terry Wang |
-| 201 | SEBD: Sensor Emulation Based Backdoor for Autopilot | IoT 2023: 265-269 | 2023 | Yue Wang, Chao Yang, Ning Xi, Yulong Shen, Jianfeng Ma |
-| 202 | DUBIOUS: Detecting Unknown Backdoored Input by Observing Unusual Signatures | MILCOM 2023: 696-702 | 2023 | Matthew Yudin, Rauf Izmailov |
-| 203 | Robust Sentiment Classification Based on the Backdoor Adjustment | MLNLP 2023: 41-47 | 2023 | Lulu Dai, Mingyue Han |
-| 204 | PatchBackdoor: Backdoor Attack against Deep Neural Networks without Model Modification | ACM Multimedia 2023: 9134-9142 | 2023 | Yizhen Yuan, Rui Kong, Shenghao Xie, Yuanchun Li, Yunxin Liu |
-| 205 | Model-Contrastive Learning for Backdoor Elimination | ACM Multimedia 2023: 8869-8880 | 2023 | Zhihao Yue, Jun Xia, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Chen |
-| 206 | MASTERKEY: Practical Backdoor Attack Against Speaker Verification Systems | MobiCom 2023: 48:1-48:15 | 2023 | Hanqing Guo, Xun Chen, Junfeng Guo, Li Xiao, Qiben Yan |
-| 207 | BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | NDSS 2023 | 2023 | Siyuan Cheng, Guanhong Tao, Yingqi Liu, Shengwei An, Xiangzhe Xu, Shiwei Feng, Guangyu Shen, Kaiyuan Zhang, Qiuling Xu, Shiqing Ma, Xiangyu Zhang |
-| 208 | Backdoor Attacks Against Dataset Distillation | NDSS 2023 | 2023 | Yugeng Liu, Zheng Li, Michael Backes, Yun Shen, Yang Zhang |
-| 209 | The "Beatrix" Resurrections: Robust Backdoor Detection via Gram Matrices | NDSS 2023 | 2023 | Wanlun Ma, Derui Wang, Ruoxi Sun, Minhui Xue, Sheng Wen, Yang Xiang |
-| 210 | BadTrack: A Poison-Only Backdoor Attack on Visual Object Tracking | NeurIPS 2023 | 2023 | Bin Huang, Jiaqian Yu, Yiwei Chen, Siyang Pan, Qiang Wang, Zhi Wang |
-| 211 | Towards Stable Backdoor Purification through Feature Shift Tuning | NeurIPS 2023 | 2023 | Rui Min, Zeyu Qin, Li Shen, Minhao Cheng |
-| 212 | A Unified Detection Framework for Inference-Stage Backdoor Defenses | NeurIPS 2023 | 2023 | Xun Xian, Ganghua Wang, Jayanth Srinivasa, Ashish Kundu, Xuan Bi, Mingyi Hong, Jie Ding |
-| 213 | CBD: A Certified Backdoor Detector Based on Local Dominant Probability | NeurIPS 2023 | 2023 | Zhen Xiang, Zidi Xiong, Bo Li |
-| 214 | Neural Polarizer: A Lightweight and Effective Backdoor Defense via Purifying Poisoned Features | NeurIPS 2023 | 2023 | Mingli Zhu, Shaokui Wei, Hongyuan Zha, Baoyuan Wu |
-| 215 | IMTM: Invisible Multi-trigger Multimodal Backdoor Attack | NLPCC (2) 2023: 533-545 | 2023 | Zhicheng Li, Piji Li, Xuan Sheng, Changchun Yin, Lu Zhou |
-| 216 | Defending Against Backdoor Attacks by Layer-wise Feature Analysis | PAKDD (2) 2023: 428-440 | 2023 | Najeeb Moharram Jebreel, Josep Domingo-Ferrer, Yiming Li |
-| 217 | QDoor: Exploiting Approximate Synthesis for Backdoor Attacks in Quantum Neural Networks | QCE 2023: 1098-1106 | 2023 | Cheng Chu, Fan Chen, Philip Richerme, Lei Jiang |
-| 218 | Redeem Myself: Purifying Backdoors in Deep Learning Models using Self Attention Distillation | SP 2023: 755-772 | 2023 | Xueluan Gong, Yanjiao Chen, Wang Yang, Qian Wang, Yuzhe Gu, Huayang Huang, Chao Shen |
-| 219 | MagBackdoor: Beware of Your Loudspeaker as A Backdoor For Magnetic Injection Attacks | SP 2023: 3416-3431 | 2023 | Tiantian Liu, Feng Lin, Zhangsen Wang, Chao Wang, Zhongjie Ba, Li Lu, Wenyao Xu, Kui Ren |
-| 220 | Disguising Attacks with Explanation-Aware Backdoors | SP 2023: 664-681 | 2023 | Maximilian Noppel, Lukas Peter, Christian Wressnegger |
-| 221 | On Feasibility of Server-side Backdoor Attacks on Split Learning | SP (Workshops) 2023: 84-93 | 2023 | Behrad Tajalli, Oguzhan Ersoy, Stjepan Picek |
-| 222 | RAB: Provable Robustness Against Backdoor Attacks | SP 2023: 1311-1328 | 2023 | Maurice Weber, Xiaojun Xu, Bojan Karlas, Ce Zhang, Bo Li |
-| 223 | Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | SP 2023: 719-736 | 2023 | Limin Yang, Zhi Chen, Jacopo Cortellazzi, Feargus Pendlebury, Kevin Tu, Fabio Pierazzi, Lorenzo Cavallaro, Gang Wang |
-| 224 | TransCAB: Transferable Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World | SRDS 2023: 82-92 | 2023 | Hua Ma, Yinshan Li, Yansong Gao, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said F. Al-Sarawi, Surya Nepal, Derek Abbott |
-| 225 | Training Data Leakage via Imperceptible Backdoor Attack | SSCI 2023: 1553-1559 | 2023 | Xiangkai Yang, Wenjian Luo, Qi Zhou, Zhijian Chen |
-| 226 | Immunizing Backdoored PRGs | TCC (3) 2023: 153-182 | 2023 | Marshall Ball, Yevgeniy Dodis, Eli Goldin |
-| 227 | Immunizing Backdoored PRGs | IACR Cryptol. ePrint Arch. 2023: 1778 (2023) | 2023 | Marshall Ball, Yevgeniy Dodis, Eli Goldin |
-| 228 | PELICAN: Exploiting Backdoors of Naturally Trained Deep Learning Models In Binary Code Analysis | USENIX Security Symposium 2023: 2365-2382 | 2023 | Zhuo Zhang, Guanhong Tao, Guangyu Shen, Shengwei An, Qiuling Xu, Yingqi Liu, Yapeng Ye, Yaoxuan Wu, Xiangyu Zhang |
-| 229 | VILLAIN: Backdoor Attacks Against Vertical Split Learning | USENIX Security Symposium 2023: 2743-2760 | 2023 | Yijie Bai, Yanjiao Chen, Hanlei Zhang, Wenyuan Xu, Haiqin Weng, Dou Goodman |
-| 230 | A Data-free Backdoor Injection Approach in Neural Networks | USENIX Security Symposium 2023: 2671-2688 | 2023 | Peizhuo Lv, Chang Yue, Ruigang Liang, Yunfei Yang, Shengzhi Zhang, Hualong Ma, Kai Chen |
-| 231 | ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms | USENIX Security Symposium 2023: 2725-2742 | 2023 | Minzhou Pan, Yi Zeng, Lingjuan Lyu, Xue Lin, Ruoxi Jia |
-| 232 | Towards A Proactive ML Approach for Detecting Backdoor Poison Samples | USENIX Security Symposium 2023: 1685-1702 | 2023 | Xiangyu Qi, Tinghao Xie, Jiachen T. Wang, Tong Wu, Saeed Mahloujifar, Prateek Mittal |
-| 233 | Sparsity Brings Vulnerabilities: Exploring New Metrics in Backdoor Attacks | USENIX Security Symposium 2023: 2689-2706 | 2023 | Jianwen Tian, Kefan Qiu, Debin Gao, Zhi Wang, Xiaohui Kuang, Gang Zhao |
-| 234 | Aliasing Backdoor Attacks on Pre-trained Models | USENIX Security Symposium 2023: 2707-2724 | 2023 | Cheng'an Wei, Yeonjoon Lee, Kai Chen, Guozhu Meng, Peizhuo Lv |
-| 235 | TRAPDOOR: Repurposing neural network backdoors to detect dataset bias in machine learning-based genomic analysis | VLSI-SoC 2023: 1-6 | 2023 | Esha Sarkar, Constantine Doumanidis, Michail Maniatakos |
-| 236 | Silent Killer: Optimizing Backdoor Trigger Yields a Stealthy and Powerful Data Poisoning Attack | CoRR abs/2301.02615 (2023) | 2023 | Tzvi Lederer, Gallil Maimon, Lior Rokach |
-| 237 | PECAN: A Deterministic Certified Defense Against Backdoor Attacks | CoRR abs/2301.11824 (2023) | 2023 | Yuhao Zhang, Aws Albarghouthi, Loris D'Antoni |
-| 238 | Gradient Shaping: Enhancing Backdoor Attack Against Reverse Engineering | CoRR abs/2301.12318 (2023) | 2023 | Rui Zhu, Di Tang, Siyuan Tang, Guanhong Tao, Shiqing Ma, XiaoFeng Wang, Haixu Tang |
-| 239 | A Systematic Evaluation of Backdoor Trigger Characteristics in Image Classification | CoRR abs/2302.01740 (2023) | 2023 | Gorka Abad, Jing Xu, Stefanos Koffas, Behrad Tajalli, Stjepan Picek |
-| 240 | BackdoorBox: A Python Toolbox for Backdoor Learning | CoRR abs/2302.01762 (2023) | 2023 | Yiming Li, Mengxi Ya, Yang Bai, Yong Jiang, Shu-Tao Xia |
-| 241 | Imperceptible Sample-Specific Backdoor to DNN with Denoising Autoencoder | CoRR abs/2302.04457 (2023) | 2023 | Jiliang Zhang, Jing Xu, Zhi Zhang, Yansong Gao |
-| 242 | Hyperparameter Search Is All You Need For Training-Agnostic Backdoor Robustness | CoRR abs/2302.04977 (2023) | 2023 | Eugene Bagdasaryan, Vitaly Shmatikov |
-| 243 | Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data | CoRR abs/2302.06279 (2023) | 2023 | Gorka Abad, Oguzhan Ersoy, Stjepan Picek, Aitor Urbieta |
-| 244 | Backdoor Attacks to Pre-trained Unified Foundation Models | CoRR abs/2302.09360 (2023) | 2023 | Zenghui Yuan, Yixin Liu, Kai Zhang, Pan Zhou, Lichao Sun |
-| 245 | SATBA: An Invisible Backdoor Attack Based On Spatial Attention | CoRR abs/2302.13056 (2023) | 2023 | Huasong Zhou, Zhenyu Wang, Xiaowei Xu |
-| 246 | Backdoor for Debias: Mitigating Model Bias with Backdoor Attack-based Artificial Bias | CoRR abs/2303.01504 (2023) | 2023 | Shangxi Wu, Qiuyang He, Fangzhao Wu, Jitao Sang, Yaowei Wang, Changsheng Xu |
-| 247 | Do Backdoors Assist Membership Inference Attacks | CoRR abs/2303.12589 (2023) | 2023 | Yumeki Goto, Nami Ashizawa, Toshiki Shibahara, Naoto Yanai |
-| 248 | Mask and Restore: Blind Backdoor Defense at Test Time with Masked Autoencoder | CoRR abs/2303.15564 (2023) | 2023 | Tao Sun, Lu Pang, Chao Chen, Haibin Ling |
-| 249 | Evil from Within: Machine Learning Backdoors through Hardware Trojans | CoRR abs/2304.08411 (2023) | 2023 | Alexander Warnecke, Julian Speith, Jan-Niklas Möller, Konrad Rieck, Christof Paar |
-| 250 | Launching a Robust Backdoor Attack under Capability Constrained Scenarios | CoRR abs/2304.10985 (2023) | 2023 | Ming Yi, Yixiao Xu, Kangyi Ding, Mingyong Yin, Xiaolei Liu |
-| 251 | BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT | CoRR abs/2304.12298 (2023) | 2023 | Jiawen Shi, Yixin Liu, Pan Zhou, Lichao Sun |
-| 252 | ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger | CoRR abs/2304.14475 (2023) | 2023 | Jiazhao Li, Yijin Yang, Zhuofeng Wu, V. G. Vinod Vydiswaran, Chaowei Xiao |
-| 253 | Backdoor Learning on Sequence to Sequence Models | CoRR abs/2305.02424 (2023) | 2023 | Lichang Chen, Minhao Cheng, Heng Huang |
-| 254 | BadSAM: Exploring Security Vulnerabilities of SAM via Backdoor Attacks | CoRR abs/2305.03289 (2023) | 2023 | Zihan Guan, Mengxuan Hu, Zhongliang Zhou, Jielu Zhang, Sheng Li, Ninghao Liu |
-| 255 | BadCS: A Backdoor Attack Framework for Code search | CoRR abs/2305.05503 (2023) | 2023 | Shiyi Qi, Yuanhang Yang, Shuzheng Gao, Cuiyun Gao, Zenglin Xu |
-| 256 | Backdoor to the Hidden Ground State: Planted Vertex Cover Example | CoRR abs/2305.06610 (2023) | 2023 | Xin-Yi Fan, Hai-Jun Zhou |
-| 257 | Stealthy Low-frequency Backdoor Attack against Deep Neural Networks | CoRR abs/2305.09677 (2023) | 2023 | Xinrui Liu, Yu-an Tan, Yajie Wang, Kefan Qiu, Yuanzhang Li |
-| 258 | Towards Invisible Backdoor Attacks in the Frequency Domain against Deep Neural Networks | CoRR abs/2305.10596 (2023) | 2023 | Xinrui Liu, Yajie Wang, Yu-An Tan, Kefan Qiu, Yuanzhang Li |
-| 259 | From Shortcuts to Triggers: Backdoor Defense with Denoised PoE | CoRR abs/2305.14910 (2023) | 2023 | Qin Liu, Fei Wang, Chaowei Xiao, Muhao Chen |
-| 260 | IMBERT: Making BERT Immune to Insertion-based Backdoor Attacks | CoRR abs/2305.16503 (2023) | 2023 | Xuanli He, Jun Wang, Benjamin I. P. Rubinstein, Trevor Cohn |
-| 261 | Backdoor Attacks Against Incremental Learners: An Empirical Evaluation Study | CoRR abs/2305.18384 (2023) | 2023 | Yiqi Zhong, Xianming Liu, Deming Zhai, Junjun Jiang, Xiangyang Ji |
-| 262 | Robust Backdoor Attack with Visible, Semantic, Sample-Specific, and Compatible Triggers | CoRR abs/2306.00816 (2023) | 2023 | Ruotong Wang, Hongrui Chen, Zihao Zhu, Li Liu, Yong Zhang, Yanbo Fan, Baoyuan Wu |
-| 263 | Mitigating Backdoor Attack Via Prerequisite Transformation | CoRR abs/2306.01983 (2023) | 2023 | Han Gao |
-| 264 | Backdoor Attack with Sparse and Invisible Trigger | CoRR abs/2306.06209 (2023) | 2023 | Yinghua Gao, Yiming Li, Xueluan Gong, Shu-Tao Xia, Qian Wang |
-| 265 | A Proxy-Free Strategy for Practically Improving the Poisoning Efficiency in Backdoor Attacks | CoRR abs/2306.08313 (2023) | 2023 | Ziqiang Li, Hong Sun, Pengfei Xia, Beihao Xia, Xue Rui, Wei Zhang, Bin Li |
-| 266 | Efficient Backdoor Attacks for Deep Neural Networks in Real-world Scenarios | CoRR abs/2306.08386 (2023) | 2023 | Hong Sun, Ziqiang Li, Pengfei Xia, Heng Li, Beihao Xia, Yi Wu, Bin Li |
-| 267 | IMPOSITION: Implicit Backdoor Attack through Scenario Injection | CoRR abs/2306.15755 (2023) | 2023 | Mozhgan PourKeshavarz, Mohammad Sabokrou, Amir Rasouli |
-| 268 | Efficient Backdoor Removal Through Natural Gradient Fine-tuning | CoRR abs/2306.17441 (2023) | 2023 | Nazmul Karim, Abdullah Al Arafat, Umar Khalid, Zhishan Guo, Nazanin Rahnavard |
-| 269 | Boosting Backdoor Attack with A Learnable Poisoning Sample Selection Strategy | CoRR abs/2307.07328 (2023) | 2023 | Zihao Zhu, Mingda Zhang, Shaokui Wei, Li Shen, Yanbo Fan, Baoyuan Wu |
-| 270 | Backdoor Attack against Object Detection with Clean Annotation | CoRR abs/2307.10487 (2023) | 2023 | Yize Cheng, Wenbin Hu, Minhao Cheng |
-| 271 | FMT: Removing Backdoor Feature Maps via Feature Map Testing in Deep Neural Networks | CoRR abs/2307.11565 (2023) | 2023 | Dong Huang, Qingwen Bu, Yahao Qing, Yichao Fu, Heming Cui |
-| 272 | BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models | CoRR abs/2307.16489 (2023) | 2023 | Jordan Vice, Naveed Akhtar, Richard Hartley, Ajmal Mian |
-| 273 | Test-Time Adaptation for Backdoor Defense | CoRR abs/2308.06107 (2023) | 2023 | Jiyang Guan, Jian Liang, Ran He |
-| 274 | Backdoor Mitigation by Correcting the Distribution of Neural Activations | CoRR abs/2308.09850 (2023) | 2023 | Xi Li, Zhen Xiang, David J. Miller, George Kesidis |
-| 275 | Hiding Backdoors within Event Sequence Data via Poisoning Attacks | CoRR abs/2308.10201 (2023) | 2023 | Elizaveta Kovtun, Alina Ermilova, Dmitry Berestnev, Alexey Zaytsev |
-| 276 | Backdooring Textual Inversion for Concept Censorship | CoRR abs/2308.10718 (2023) | 2023 | Yutong Wu, Jie Zhang, Florian Kerschbaum, Tianwei Zhang |
-| 277 | BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection | CoRR abs/2308.12439 (2023) | 2023 | Tinghao Xie, Xiangyu Qi, Ping He, Yiming Li, Jiachen T. Wang, Prateek Mittal |
-| 278 | LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors | CoRR abs/2308.13904 (2023) | 2023 | Chengkun Wei, Wenlong Meng, Zhikun Zhang, Min Chen, Minghu Zhao, Wenjing Fang, Lei Wang, Zihui Zhang, Wenzhi Chen |
-| 279 | Everyone Can Attack: Repurpose Lossy Compression as a Natural Backdoor Attack | CoRR abs/2308.16684 (2023) | 2023 | Sze Jue Yang, Quang H. Nguyen, Chee Seng Chan, Khoa Doan |
-| 280 | Robust Backdoor Attacks on Object Detection in Real World | CoRR abs/2309.08953 (2023) | 2023 | Yaguan Qian, Boyuan Ji, Shuke He, Shenhui Huang, Xiang Ling, Bin Wang, Wei Wang |
-| 281 | Horizontal Class Backdoor to Deep Learning | CoRR abs/2310.00542 (2023) | 2023 | Hua Ma, Shang Wang, Yansong Gao |
-| 282 | GhostEncoder: Stealthy Backdoor Attacks with Dynamic Triggers to Pre-trained Encoders in Self-supervised Learning | CoRR abs/2310.00626 (2023) | 2023 | Qiannan Wang, Changchun Yin, Zhe Liu, Liming Fang, Run Wang, Chenhao Lin |
-| 283 | Backdoor Adjustment of Confounding by Provenance for Robust Text Classification of Multi-institutional Clinical Notes | CoRR abs/2310.02451 (2023) | 2023 | Xiruo Ding, Zhecheng Sheng, Meliha Yetisgen, Serguei Pakhomov, Trevor Cohen |
-| 284 | Confidence-driven Sampling for Backdoor Attacks | CoRR abs/2310.05263 (2023) | 2023 | Pengfei He, Han Xu, Yue Xing, Jie Ren, Yingqian Cui, Shenglai Zeng, Jiliang Tang, Makoto Yamada, Mohammad Sabokrou |
-| 285 | Better Safe than Sorry: Pre-training CLIP against Targeted Data Poisoning and Backdoor Attacks | CoRR abs/2310.05862 (2023) | 2023 | Wenhan Yang, Jingdong Gao, Baharan Mirzasoleiman |
-| 286 | High Dimensional Causal Inference with Variational Backdoor Adjustment | CoRR abs/2310.06100 (2023) | 2023 | Daniel Israel, Aditya Grover, Guy Van den Broeck |
-| 287 | Prompt Backdoors in Visual Prompt Learning | CoRR abs/2310.07632 (2023) | 2023 | Hai Huang, Zhengyu Zhao, Michael Backes, Yun Shen, Yang Zhang |
-| 288 | Invisible Threats: Backdoor Attack in OCR Systems | CoRR abs/2310.08259 (2023) | 2023 | Mauro Conti, Nicola Farronato, Stefanos Koffas, Luca Pajola, Stjepan Picek |
-| 289 | Defending Our Privacy With Backdoors | CoRR abs/2310.08320 (2023) | 2023 | Dominik Hintersdorf, Lukas Struppek, Daniel Neider, Kristian Kersting |
-| 290 | Explore the Effect of Data Selection on Poison Efficiency in Backdoor Attacks | CoRR abs/2310.09744 (2023) | 2023 | Ziqiang Li, Pengfei Xia, Hong Sun, Yueqi Zeng, Wei Zhang, Bin Li |
-| 291 | Demystifying Poisoning Backdoor Attacks from a Statistical Perspective | CoRR abs/2310.10780 (2023) | 2023 | Ganghua Wang, Xun Xian, Jayanth Srinivasa, Ashish Kundu, Xuan Bi, Mingyi Hong, Jie Ding |
-| 292 | WaveAttack: Asymmetric Frequency Obfuscation-based Backdoor Attacks Against Deep Neural Networks | CoRR abs/2310.11595 (2023) | 2023 | Jun Xia, Zhihao Yue, Yingbo Zhou, Zhiwei Ling, Xian Wei, Mingsong Chen |
-| 293 | Does Differential Privacy Prevent Backdoor Attacks in Practice | CoRR abs/2311.06227 (2023) | 2023 | Fereshteh Razmi, Jian Lou, Li Xiong |
-| 294 | Mitigating Backdoors within Deep Neural Networks in Data-limited Configuration | CoRR abs/2311.07417 (2023) | 2023 | Soroush Hashemifar, Saeed Parsa, Morteza Zakeri Nasrabadi |
-| 295 | TextGuard: Provable Defense against Backdoor Attacks on Text Classification | CoRR abs/2311.11225 (2023) | 2023 | Hengzhi Pei, Jinyuan Jia, Wenbo Guo, Bo Li, Dawn Song |
-| 296 | Effective Backdoor Mitigation Depends on the Pre-training Objective | CoRR abs/2311.14948 (2023) | 2023 | Sahil Verma, Gantavya Bhatt, Avi Schwarzschild, Soumye Singhal, Arnav Mohanty Das, Chirag Shah, John P. Dickerson, Jeff A. Bilmes |
-| 297 | BadCLIP: Trigger-Aware Prompt Learning for Backdoor Attacks on CLIP | CoRR abs/2311.16194 (2023) | 2023 | Jiawang Bai, Kuofeng Gao, Shaobo Min, Shu-Tao Xia, Zhifeng Li, Wei Liu |
-| 298 | Rethinking Backdoor Attacks on Dataset Distillation: A Kernel Method Perspective | CoRR abs/2311.16646 (2023) | 2023 | Ming-Yu Chung, Sheng-Yen Chou, Chia-Mu Yu, Pin-Yu Chen, Sy-Yen Kuo, Tsung-Yi Ho |
-| 299 | Robust Backdoor Detection for Deep Learning via Topological Evolution Dynamics | CoRR abs/2312.02673 (2023) | 2023 | Xiaoxing Mo, Yechao Zhang, Leo Yu Zhang, Wei Luo, Nan Sun, Shengshan Hu, Shang Gao, Yang Xiang |
-| 300 | Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger | CoRR abs/2312.04584 (2023) | 2023 | Yiming Li, Mingyan Zhu, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin |
-| 301 | BELT: Old-School Backdoor Attacks can Evade the State-of-the-Art Defense with Backdoor Exclusivity Lifting | CoRR abs/2312.04902 (2023) | 2023 | Huming Qiu, Junjie Sun, Mi Zhang, Xudong Pan, Min Yang |
-| 302 | Activation Gradient based Poisoned Sample Detection Against Backdoor Attacks | CoRR abs/2312.06230 (2023) | 2023 | Danni Yuan, Shaokui Wei, Mingda Zhang, Li Liu, Baoyuan Wu |
-| 303 | Erasing Self-Supervised Learning Backdoor by Cluster Activation Masking | CoRR abs/2312.07955 (2023) | 2023 | Shengsheng Qian, Yifei Wang, Dizhan Xue, Shengjie Zhang, Huaiwen Zhang, Changsheng Xu |
-| 304 | On the Difficulty of Defending Contrastive Learning against Backdoor Attacks | CoRR abs/2312.09057 (2023) | 2023 | Changjiang Li, Ren Pang, Bochuan Cao, Zhaohan Xi, Jinghui Chen, Shouling Ji, Ting Wang |
-| 305 | UltraClean: A Simple Framework to Train Robust Neural Networks against Backdoor Attacks | CoRR abs/2312.10657 (2023) | 2023 | Bingyin Zhao, Yingjie Lao |
-| 306 | Manipulating Trajectory Prediction with Backdoors | CoRR abs/2312.13863 (2023) | 2023 | Kaouther Messaoud, Kathrin Grosse, Mickaël Chen, Matthieu Cord, Patrick Pérez, Alexandre Alahi |
-| 307 | (Withdrawn) BadCLIP: Dual-Embedding Guided Backdoor Attack on Multimodal Contrastive Learning | CoRR abs/2311.12075 (2023) | 2023 | Siyuan Liang, Mingli Zhu, Aishan Liu, Baoyuan Wu, Xiaochun Cao, Ee-Chien Chang |
-| 308 | A collaborative deep learning microservice for backdoor defenses in Industrial IoT networks | Ad Hoc Networks 124: 102727 (2022) | 2022 | Qin Liu, Liqiong Chen, Hongbo Jiang, Jie Wu, Tian Wang, Tao Peng, Guojun Wang |
-| 309 | Boosting the Performance of CDCL-Based SAT Solvers by Exploiting Backbones and Backdoors | Algorithms 15(9): 302 (2022) | 2022 | Tasniem Nasser Al-Yahya, Mohamed El Bachir Menai, Hassan Mathkour |
-| 310 | Active intellectual property protection for deep neural networks through stealthy backdoor and users' identities authentication | Appl. Intell. 52(14): 16497-16511 (2022) | 2022 | Mingfu Xue, Shichang Sun, Yushu Zhang, Jian Wang, Weiqiang Liu |
-| 311 | VulnerGAN: a backdoor attack through vulnerability amplification against machine learning-based network intrusion detection systems | Sci. China Inf. Sci. 65(7): 1-19 (2022) | 2022 | Guangrui Liu, Weizhe Zhang, Xinjie Li, Kaisheng Fan, Shui Yu |
-| 312 | Backdoor smoothing: Demystifying backdoor attacks on deep neural networks | Comput. Secur. 120: 102814 (2022) | 2022 | Kathrin Grosse, Taesung Lee, Battista Biggio, Youngja Park, Michael Backes, Ian M. Molloy |
-| 313 | Experimental Study of Fault Injection Attack on Image Sensor Interface for Triggering Backdoored DNN Models | IEICE Trans. Fundam. Electron. Commun. Comput. Sci. 105-A(3): 336-343 (2022) | 2022 | Tatsuya Oyama, Shunsuke Okura, Kota Yoshida, Takeshi Fujino |
-| 314 | Multi-Model Selective Backdoor Attack with Different Trigger Positions | IEICE Trans. Inf. Syst. 105-D(1): 170-174 (2022) | 2022 | Hyun Kwon |
-| 315 | A multitarget backdooring attack on deep neural networks with random location trigger | Int. J. Intell. Syst. 37(3): 2567-2583 (2022) | 2022 | Xiao Yu, Liu Cong, Mingwen Zheng, Yajie Wang, Xinrui Liu, Song Shuxiao, Ma Yuexuan, Zheng Jun |
-| 316 | Susceptibility & defense of satellite image-trained convolutional networks to backdoor attacks | Inf. Sci. 603: 244-261 (2022) | 2022 | Ethan Brewer, Jason Lin, Daniel S. Miller Runfola |
-| 317 | Robust backdoor injection with the capability of resisting network transfer | Inf. Sci. 612: 594-611 (2022) | 2022 | Le Feng, Sheng Li, Zhenxing Qian, Xinpeng Zhang |
-| 318 | Backdoor-resistant identity-based proxy re-encryption for cloud-assisted wireless body area networks | Inf. Sci. 604: 80-96 (2022) | 2022 | Yuyang Zhou, Liang Zhao, Yuqiao Jin, Fagen Li |
-| 319 | BlindNet backdoor: Attack on deep neural network using blind watermark | Multim. Tools Appl. 81(5): 6217-6234 (2022) | 2022 | Hyun Kwon, Yongchul Kim |
-| 320 | MP-BADNet+: Secure and effective backdoor attack detection and mitigation protocols among multi-participants in private DNNs | Peer-to-Peer Netw. Appl. 15(6): 2457-2473 (2022) | 2022 | Congcong Chen, Lifei Wei, Lei Zhang, Ya Peng, Jianting Ning |
-| 321 | IBD: An Interpretable Backdoor-Detection Method via Multivariate Interactions | Sensors 22(22): 8697 (2022) | 2022 | Yixiao Xu, Xiaolei Liu, Kangyi Ding, Bangzhou Xin |
-| 322 | Are Backdoor Mandates Ethical? - A Position Paper | IEEE Technol. Soc. Mag. 41(4): 63-70 (2022) | 2022 | Raphaël Khoury, Sylvain Hallé |
-| 323 | Interpretability-Guided Defense Against Backdoor Attacks to Deep Neural Networks | IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 41(8): 2611-2624 (2022) | 2022 | Wei Jiang, Xiangyu Wen, Jinyu Zhan, Xupeng Wang, Ziwei Song |
-| 324 | Backdoor Attack on Machine Learning Based Android Malware Detectors | IEEE Trans. Dependable Secur. Comput. 19(5): 3357-3370 (2022) | 2022 | Chaoran Li, Xiao Chen, Derui Wang, Sheng Wen, Muhammad Ejaz Ahmed, Seyit Camtepe, Yang Xiang |
-| 325 | One-to-N & N-to-One: Two Advanced Backdoor Attacks Against Deep Learning Models | IEEE Trans. Dependable Secur. Comput. 19(3): 1562-1578 (2022) | 2022 | Mingfu Xue, Can He, Jian Wang, Weiqiang Liu |
-| 326 | LinkBreaker: Breaking the Backdoor-Trigger Link in DNNs via Neurons Consistency Check | IEEE Trans. Inf. Forensics Secur. 17: 2000-2014 (2022) | 2022 | Zhenzhu Chen, Shang Wang, Anmin Fu, Yansong Gao, Shui Yu, Robert H. Deng |
-| 327 | Stealthy Backdoors as Compression Artifacts | IEEE Trans. Inf. Forensics Secur. 17: 1372-1387 (2022) | 2022 | Yulong Tian, Fnu Suya, Fengyuan Xu, David Evans |
-| 328 | Dispersed Pixel Perturbation-Based Imperceptible Backdoor Trigger for Image Classifier Models | IEEE Trans. Inf. Forensics Secur. 17: 3091-3106 (2022) | 2022 | Yulong Wang, Minghui Zhao, Shenghong Li, Xin Yuan, Wei Ni |
-| 329 | Poison Ink: Robust and Invisible Backdoor Attack | IEEE Trans. Image Process. 31: 5691-5705 (2022) | 2022 | Jie Zhang, Dongdong Chen, Qidong Huang, Jing Liao, Weiming Zhang, Huamin Feng, Gang Hua, Nenghai Yu |
-| 330 | Detection of Backdoors in Trained Classifiers Without Access to the Training Set | IEEE Trans. Neural Networks Learn. Syst. 33(3): 1177-1191 (2022) | 2022 | Zhen Xiang, David J. Miller, George Kesidis |
-| 331 | Model Agnostic Defence Against Backdoor Attacks in Machine Learning | IEEE Trans. Reliab. 71(2): 880-895 (2022) | 2022 | Sakshi Udeshi, Shanshan Peng, Gerald Woo, Lionell Loh, Louth Rawshan, Sudipta Chattopadhyay |
-| 332 | Backdoor Attacks Against Transfer Learning With Pre-Trained Deep Learning Models | IEEE Trans. Serv. Comput. 15(3): 1526-1539 (2022) | 2022 | Shuo Wang, Surya Nepal, Carsten Rudolph, Marthie Grobler, Shangyu Chen, Tianle Chen |
-| 333 | Tractable Abstract Argumentation via Backdoor-Treewidth | AAAI 2022: 5608-5615 | 2022 | Wolfgang Dvorák, Markus Hecher, Matthias König, André Schidler, Stefan Szeider, Stefan Woltran |
-| 334 | Backdoor Attacks on the DNN Interpretation System | AAAI 2022: 561-570 | 2022 | Shihong Fang, Anna Choromanska |
-| 335 | Faster Algorithms for Weak Backdoors | AAAI 2022: 3741-3748 | 2022 | Serge Gaspers, Andrew Kaploun |
-| 336 | Certified Robustness of Nearest Neighbors against Data Poisoning and Backdoor Attacks | AAAI 2022: 9575-9583 | 2022 | Jinyuan Jia, Yupei Liu, Xiaoyu Cao, Neil Zhenqiang Gong |
-| 337 | Finding Backdoors to Integer Programs: A Monte Carlo Tree Search Framework | AAAI 2022: 3786-3795 | 2022 | Elias B. Khalil, Pashootan Vaezipoor, Bistra Dilkina |
-| 338 | Hibernated Backdoor: A Mutual Information Empowered Backdoor Attack to Deep Neural Networks | AAAI 2022: 10309-10318 | 2022 | Rui Ning, Jiang Li, Chunsheng Xin, Hongyi Wu, Chonggang Wang |
-| 339 | On Probabilistic Generalization of Backdoors in Boolean Satisfiability | AAAI 2022: 10353-10361 | 2022 | Alexander A. Semenov, Artem Pavlenko, Daniil Chivilikhin, Stepan Kochemazov |
-| 340 | COLLIDER: A Robust Training Framework for Backdoor Data | ACCV (6) 2022: 681-698 | 2022 | Hadi M. Dolatabadi, Sarah M. Erfani, Christopher Leckie |
-| 341 | Make Data Reliable: An Explanation-powered Cleaning on Malware Dataset Against Backdoor Poisoning Attacks | ACSAC 2022: 267-278 | 2022 | Xutong Wang, Chaoge Liu, Xiaohui Hu, Zhi Wang, Jie Yin, Xiang Cui |
-| 342 | An Approach to Generation Triggers for Parrying Backdoor in Neural Networks | AGI 2022: 304-314 | 2022 | Menisov Artem |
-| 343 | Dynamic Backdoors with Global Average Pooling | AICAS 2022: 320-323 | 2022 | Stefanos Koffas, Stjepan Picek, Mauro Conti |
-| 344 | Sample-Specific Backdoor based Active Intellectual Property Protection for Deep Neural Networks | AICAS 2022: 316-319 | 2022 | Yinghao Wu, Mingfu Xue, Dujuan Gu, Yushu Zhang, Weiqiang Liu |
-| 345 | Triggerability of Backdoor Attacks in Multi-Source Transfer Learning-based Intrusion Detection | BDCAT 2022: 40-47 | 2022 | Nour Alhussien, Ahmed Aleroud, Reza Rahaeimehr, Alexander Schwarzmann |
-| 346 | SentMod: Hidden Backdoor Attack on Unstructured Textual Data | BigDataSecurity/HPSC/IDS 2022: 224-231 | 2022 | Saquib Irtiza, Latifur Khan, Kevin W. Hamlen |
-| 347 | An anomaly detection approach for backdoored neural networks: face recognition as a case study | BIOSIG 2022: 80-88 | 2022 | Alexander Unnervik, Sébastien Marcel |
-| 348 | Check Your Other Door! Creating Backdoor Attacks in the Frequency Domain | BMVC 2022: 259 | 2022 | Hasan Abed Al Kader Hammoud, Bernard Ghanem |
-| 349 | Verifying Neural Networks Against Backdoor Attacks | CAV (1) 2022: 171-192 | 2022 | Long H. Pham, Jun Sun |
-| 350 | Poster: Backdoor Attacks on Spiking NNs and Neuromorphic Datasets | CCS 2022: 3315-3317 | 2022 | Gorka Abad, Oguzhan Ersoy, Stjepan Picek, Víctor Julio Ramírez-Durán, Aitor Urbieta |
-| 351 | Just Rotate it: Deploying Backdoor Attacks via Rotation Transformation | AISec@CCS 2022: 91-102 | 2022 | Tong Wu, Tianhao Wang, Vikash Sehwag, Saeed Mahloujifar, Prateek Mittal |
-| 352 | Asynchronous Evolutionary Algorithm for Finding Backdoors in Boolean Satisfiability | CEC 2022: 1-8 | 2022 | Artem Pavlenko, Daniil Chivilikhin, Alexander A. Semenov |
-| 353 | Efficient DNN Backdoor Detection Guided by Static Weight Analysis | Inscrypt 2022: 408-428 | 2022 | Qi Wang, Wenxin Li, Kang Yang, Yiru Zhao, Lei Zhao, Lina Wang |
-| 354 | Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications | COLING 2022: 984-993 | 2022 | Heng-Yang Lu, Chenyou Fan, Jun Yang, Cong Hu, Wei Fang, Xiao-Jun Wu |
-| 355 | Deletion-Backdoors for Argumentation Frameworks with Collective Attacks | SAFA@COMMA 2022: 98-110 | 2022 | Wolfgang Dvorák, Matthias König, Stefan Woltran |
-| 356 | Learning Pseudo-Backdoors for Mixed Integer Programs | CPAIOR 2022: 91-102 | 2022 | Aaron M. Ferber, Jialin Song, Bistra Dilkina, Yisong Yue |
-| 357 | Learning Pseudo-Backdoors for Mixed Integer Programs | SOCS 2021: 170-172 | 2021 | Aaron M. Ferber, Jialin Song, Bistra Dilkina, Yisong Yue |
-| 358 | FIBA: Frequency-Injection based Backdoor Attack in Medical Image Analysis | CVPR 2022: 20844-20853 | 2022 | Yu Feng, Benteng Ma, Jing Zhang, Shanshan Zhao, Yong Xia, Dacheng Tao |
-| 359 | Complex Backdoor Detection by Symmetric Feature Differencing | CVPR 2022: 14983-14993 | 2022 | Yingqi Liu, Guangyu Shen, Guanhong Tao, Zhenting Wang, Shiqing Ma, Xiangyu Zhang |
-| 360 | Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks | CVPR 2022: 13337-13347 | 2022 | Xiangyu Qi, Tinghao Xie, Ruizhe Pan, Jifeng Zhu, Yong Yang, Kai Bu |
-| 361 | Backdoor Attacks on Self-Supervised Learning | CVPR 2022: 13327-13336 | 2022 | Aniruddha Saha, Ajinkya Tejankar, Soroush Abbasi Koohpayegani, Hamed Pirsiavash |
-| 362 | Better Trigger Inversion Optimization in Backdoor Scanning | CVPR 2022: 13358-13368 | 2022 | Guanhong Tao, Guangyu Shen, Yingqi Liu, Shengwei An, Qiuling Xu, Shiqing Ma, Pan Li, Xiangyu Zhang |
-| 363 | Dual-Key Multimodal Backdoors for Visual Question Answering | CVPR 2022: 15354-15364 | 2022 | Matthew Walmer, Karan Sikka, Indranil Sur, Abhinav Shrivastava, Susmit Jha |
-| 364 | DEFEAT: Deep Hidden Feature Backdoor Attacks by Imperceptible Perturbation and Latent Representation Constraints | CVPR 2022: 15192-15201 | 2022 | Zhendong Zhao, Xiaojun Chen, Yuexin Xuan, Ye Dong, Dakui Wang, Kaitai Liang |
-| 365 | Combining Defences Against Data-Poisoning Based Backdoor Attacks on Neural Networks | DBSec 2022: 28-47 | 2022 | Andrea Milakovic, Rudolf Mayer |
-| 366 | BadDet: Backdoor Attacks on Object Detection | ECCV Workshops (1) 2022: 396-412 | 2022 | Shih-Han Chan, Yinpeng Dong, Jun Zhu, Xiaolu Zhang, Jun Zhou |
-| 367 | RIBAC: Towards Robust and Imperceptible Backdoor Attack against Compact DNN | ECCV (4) 2022: 708-724 | 2022 | Huy Phan, Cong Shi, Yi Xie, Tianfang Zhang, Zhuohang Li, Tianming Zhao, Jian Liu, Yan Wang, Yingying Chen, Bo Yuan |
-| 368 | An Invisible Black-Box Backdoor Attack Through Frequency Domain | ECCV (13) 2022: 396-413 | 2022 | Tong Wang, Yuan Yao, Feng Xu, Shengwei An, Hanghang Tong, Ting Wang |
-| 369 | Data-Free Backdoor Removal Based on Channel Lipschitzness | ECCV (5) 2022: 175-191 | 2022 | Runkai Zheng, Rongjun Tang, Jianze Li, Li Liu |
-| 370 | Textual Backdoor Attacks Can Be More Harmful via Two Simple Tricks | EMNLP 2022: 11215-11221 | 2022 | Yangyi Chen, Fanchao Qi, Hongcheng Gao, Zhiyuan Liu, Maosong Sun |
-| 371 | Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks | EMNLP (Findings) 2022: 668-683 | 2022 | Sishuo Chen, Wenkai Yang, Zhiyuan Zhang, Xiaohan Bi, Xu Sun |
-| 372 | WeDef: Weakly Supervised Backdoor Defense for Text Classification | EMNLP 2022: 11614-11626 | 2022 | Lesheng Jin, Zihan Wang, Jingbo Shang |
-| 373 | SAT Backdoors: Depth Beats Size | ESA 2022: 46:1-46:18 | 2022 | Jan Dreier, Sebastian Ordyniak, Stefan Szeider |
-| 374 | The Devil Is in the GAN: Backdoor Attacks and Defenses in Deep Generative Models | ESORICS (3) 2022: 776-783 | 2022 | Ambrish Rawat, Killian Levacher, Mathieu Sinn |
-| 375 | TrojanZoo: Towards Unified, Holistic, and Practical Evaluation of Neural Backdoors | EuroS&P 2022: 684-702 | 2022 | Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, Xiapu Luo, Ting Wang |
-| 376 | Dynamic Backdoor Attacks Against Machine Learning Models | EuroS&P 2022: 703-718 | 2022 | Ahmed Salem, Rui Wen, Michael Backes, Shiqing Ma, Yang Zhang |
-| 377 | A Pragmatic Label-Specific Backdoor Attack | FCS 2022: 149-162 | 2022 | Yu Wang, Haomiao Yang, Jiasheng Li, Mengyu Ge |
-| 378 | Planting Undetectable Backdoors in Machine Learning Models : [Extended Abstract] | FOCS 2022: 931-942 | 2022 | Shafi Goldwasser, Michael P. Kim, Vinod Vaikuntanathan, Or Zamir |
-| 379 | Backdoor Sets on Nowhere Dense SAT | ICALP 2022: 91:1-91:20 | 2022 | Daniel Lokshtanov, Fahad Panolan, M. S. Ramanujan |
-| 380 | Test-Time Detection of Backdoor Triggers for Poisoned Deep Neural Networks | ICASSP 2022: 3333-3337 | 2022 | Xi Li, Zhen Xiang, David J. Miller, George Kesidis |
-| 381 | Invisible and Efficient Backdoor Attacks for Compressed Deep Neural Networks | ICASSP 2022: 96-100 | 2022 | Huy Phan, Yi Xie, Jian Liu, Yingying Chen, Bo Yuan |
-| 382 | When Does Backdoor Attack Succeed in Image Reconstruction? A Study of Heuristics vs | Bi-Level Solution. ICASSP 2022: 4398-4402 | 2022 | Vardaan Taneja, Pin-Yu Chen, Yuguang Yao, Sijia Liu |
-| 383 | Detecting Backdoor Attacks against Point Cloud Classifiers | ICASSP 2022: 3159-3163 | 2022 | Zhen Xiang, David J. Miller, Siheng Chen, Xi Li, George Kesidis |
-| 384 | Towards Backdoor Attack on Deep Learning based Time Series Classification | ICDE 2022: 1274-1287 | 2022 | Daizong Ding, Mi Zhang, Yuanmin Huang, Xudong Pan, Fuli Feng, Erling Jiang, Min Yang |
-| 385 | Data Leakage Attack via Backdoor Misclassification Triggers of Deep Learning Models | ICDIS 2022: 61-66 | 2022 | Xiangkai Yang, Wenjian Luo, Licai Zhang, Zhijian Chen, Jiahai Wang |
-| 386 | Backdoor Poisoning of Encrypted Traffic Classifiers | ICDM (Workshops) 2022: 577-585 | 2022 | John T. Holodnak, Olivia M. Brown, Jason Matterer, Andrew Lemke |
-| 387 | Fooling a Face Recognition System with a Marker-Free Label-Consistent Backdoor Attack | ICIAP (2) 2022: 176-185 | 2022 | Nino Cauli, Alessandro Ortis, Sebastiano Battiato |
-| 388 | CRAB: Certified Patch Robustness Against Poisoning-Based Backdoor Attacks | ICIP 2022: 2486-2490 | 2022 | Huxiao Ji, Jie Li, Chentao Wu |
-| 389 | Poisoning and Backdooring Contrastive Learning | ICLR 2022 | 2022 | Nicholas Carlini, Andreas Terzis |
-| 390 | Backdoor Defense via Decoupling the Training Process | ICLR 2022 | 2022 | Kunzhe Huang, Yiming Li, Baoyuan Wu, Zhan Qin, Kui Ren |
-| 391 | Post-Training Detection of Backdoor Attacks for Two-Class and Multi-Attack Scenarios | ICLR 2022 | 2022 | Zhen Xiang, David J. Miller, George Kesidis |
-| 392 | How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data | ICLR 2022 | 2022 | Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun |
-| 393 | Unlabeled Backdoor Poisoning in Semi-Supervised Learning | ICME 2022: 1-6 | 2022 | Le Feng, Sheng Li, Zhenxing Qian, Xinpeng Zhang |
-| 394 | A Generic Enhancer for Backdoor Attacks on Deep Neural Networks | ICONIP (7) 2022: 296-307 | 2022 | Bilal Hussain Abbasi, Qi Zhong, Leo Yu Zhang, Shang Gao, Antonio Robles-Kelly, Robin Doss |
-| 395 | Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers | ICONIP (3) 2022: 216-227 | 2022 | Zhibin Zheng, Zhongyun Hua, Leo Yu Zhang |
-| 396 | Backdoors in Neural Models of Source Code | ICPR 2022: 2892-2899 | 2022 | Goutham Ramakrishnan, Aws Albarghouthi |
-| 397 | Detecting Backdoor Attacks on Deep Neural Networks Based on Model Parameters Analysis | ICTAI 2022: 630-637 | 2022 | Mingyuan Ma, Hu Li, Xiaohui Kuang |
-| 398 | PPT: Backdoor Attacks on Pre-trained Models via Poisoned Prompt Tuning | IJCAI 2022: 680-686 | 2022 | Wei Du, Yichun Zhao, Boqun Li, Gongshen Liu, Shilin Wang |
-| 399 | Membership Inference via Backdooring | IJCAI 2022: 3832-3838 | 2022 | Hongsheng Hu, Zoran Salcic, Gillian Dobbie, Jinjun Chen, Lichao Sun, Xuyun Zhang |
-| 400 | Data-Efficient Backdoor Attacks | IJCAI 2022: 3992-3998 | 2022 | Pengfei Xia, Ziqiang Li, Wei Zhang, Bin Li |
-| 401 | Imperceptible Backdoor Attack: From Input Space to Feature Representation | IJCAI 2022: 1736-1742 | 2022 | Nan Zhong, Zhenxing Qian, Xinpeng Zhang |
-| 402 | Latent Space-Based Backdoor Attacks Against Deep Neural Networks | IJCNN 2022: 1-10 | 2022 | Adrian Kristanto, Shuo Wang, Carsten Rudolph |
-| 403 | ACTSS: Input Detection Defense against Backdoor Attacks via Activation Subset Scanning | IJCNN 2022: 1-8 | 2022 | Yuexin Xuan, Xiaojun Chen, Zhendong Zhao, Yangyang Ding, Jianming Lv |
-| 404 | TrojanFlow: A Neural Backdoor Attack to Deep Learning-based Network Traffic Classifiers | INFOCOM 2022: 1429-1438 | 2022 | Rui Ning, Chunsheng Xin, Hongyi Wu |
-| 405 | An Improved Method for Making CNN Immune to Backdoor Attack by Activating Clustering | ISCSIC 2022: 1-6 | 2022 | Yuang Zhou, Yichen Lei, Limin Yu, Xianyao Li, Dingding Chen, Tongpo Zhang |
-| 406 | Practical Backdoor Attack Against Speaker Recognition System | ISPEC 2022: 468-484 | 2022 | Yuxiao Luo, Jianwei Tai, Xiaoqi Jia, Shengzhi Zhang |
-| 407 | Energy-Based Learning for Preventing Backdoor Attack | KSEM (3) 2022: 706-721 | 2022 | Xiangyu Gao, Meikang Qiu |
-| 408 | I Know Your Triggers: Defending Against Textual Backdoor Attacks with Benign Backdoor Augmentation | MILCOM 2022: 442-449 | 2022 | Yue Gao, Jack W. Stokes, Manoj Ajith Prasad, Andrew T. Marshall, Kassem Fawaz, Emre Kiciman |
-| 409 | BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label | ACM Multimedia 2022: 678-686 | 2022 | Shengshan Hu, Ziqi Zhou, Yechao Zhang, Leo Yu Zhang, Yifeng Zheng, Yuanyuan He, Hai Jin |
-| 410 | Backdoor Attacks on Crowd Counting | ACM Multimedia 2022: 5351-5360 | 2022 | Yuhua Sun, Tailai Zhang, Xingjun Ma, Pan Zhou, Jian Lou, Zichuan Xu, Xing Di, Yu Cheng, Lichao Sun |
-| 411 | Purifier: Plug-and-play Backdoor Mitigation for Pre-trained Models Via Anomaly Activation Suppression | ACM Multimedia 2022: 4291-4299 | 2022 | Xiaoyu Zhang, Yulin Jin, Tao Wang, Jian Lou, Xiaofeng Chen |
-| 412 | ATTEQ-NN: Attention-based QoE-aware Evasive Backdoor Attacks | NDSS 2022 | 2022 | Xueluan Gong, Yanjiao Chen, Jianshuo Dong, Qian Wang |
-| 413 | Handcrafted Backdoors in Deep Neural Networks | NeurIPS 2022 | 2022 | Sanghyun Hong, Nicholas Carlini, Alexey Kurakin |
-| 414 | BadPrompt: Backdoor Attacks on Continuous Prompts | NeurIPS 2022 | 2022 | Xiangrui Cai, Haidong Xu, Sihan Xu, Ying Zhang, Xiaojie Yuan |
-| 415 | Randomized Channel Shuffling: Minimal-Overhead Backdoor Attack Detection without Clean Datasets | NeurIPS 2022 | 2022 | Ruisi Cai, Zhenyu Zhang, Tianlong Chen, Xiaohan Chen, Zhangyang Wang |
-| 416 | Effective Backdoor Defense by Exploiting Sensitivity of Poisoned Samples | NeurIPS 2022 | 2022 | Weixin Chen, Baoyuan Wu, Haoqian Wang |
-| 417 | A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks | NeurIPS 2022 | 2022 | Ganqu Cui, Lifan Yuan, Bingxiang He, Yangyi Chen, Zhiyuan Liu, Maosong Sun |
-| 418 | Marksman Backdoor: Backdoor Attacks with Arbitrary Target Class | NeurIPS 2022 | 2022 | Khoa D. Doan, Yingjie Lao, Ping Li |
-| 419 | Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection | NeurIPS 2022 | 2022 | Yiming Li, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, Bo Li |
-| 420 | Sleeper Agent: Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch | NeurIPS 2022 | 2022 | Hossein Souri, Liam Fowl, Rama Chellappa, Micah Goldblum, Tom Goldstein |
-| 421 | Training with More Confidence: Mitigating Injected and Natural Backdoors During Training | NeurIPS 2022 | 2022 | Zhenting Wang, Hailun Ding, Juan Zhai, Shiqing Ma |
-| 422 | Trap and Replace: Defending Backdoor Attacks by Trapping Them into an Easy-to-Replace Subnetwork | NeurIPS 2022 | 2022 | Haotao Wang, Junyuan Hong, Aston Zhang, Jiayu Zhou, Zhangyang Wang |
-| 423 | BackdoorBench: A Comprehensive Benchmark of Backdoor Learning | NeurIPS 2022 | 2022 | Baoyuan Wu, Hongrui Chen, Mingda Zhang, Zihao Zhu, Shaokui Wei, Danni Yuan, Chao Shen |
-| 424 | Pre-activation Distributions Expose Backdoor Neurons | NeurIPS 2022 | 2022 | Runkai Zheng, Rongjun Tang, Jianze Li, Li Liu |
-| 425 | How to Backdoor (Classic) McEliece and How to Guard Against Backdoors | PQCrypto 2022: 24-44 | 2022 | Tobias Hemmert, Alexander May, Johannes Mittmann, Carl Richard Theodor Schneider |
-| 426 | Un-Fair Trojan: Targeted Backdoor Attacks Against Model Fairness | SDS 2022: 1-9 | 2022 | Nicholas Furth, Abdallah Khreishah, Guanxiong Liu, NhatHai Phan, Yaser Jararweh |
-| 427 | Towards Backdoor Attacks against LiDAR Object Detection in Autonomous Driving | SenSys 2022: 533-547 | 2022 | Yan Zhang, Yi Zhu, Zihao Liu, Chenglin Miao, Foad Hajiaghajani, Lu Su, Chunming Qiao |
-| 428 | Energy-Based Learning for Polluted Outlier Detection in Backdoor | SmartCloud 2022: 47-52 | 2022 | Xiangyu Gao, Meikang Qiu |
-| 429 | Inconspicuous Data Augmentation Based Backdoor Attack on Deep Neural Networks | SOCC 2022: 1-6 | 2022 | Chaohui Xu, Wenye Liu, Yue Zheng, Si Wang, Chip-Hong Chang |
-| 430 | Patch-Based Backdoors Detection and Mitigation with Feature Masking | SocialSec 2022: 229-246 | 2022 | Tao Wang, Xiaoyu Zhang, Yulin Jin, Chenyang Chen, Fei Zhu |
-| 431 | BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning | SP 2022: 2043-2059 | 2022 | Jinyuan Jia, Yupei Liu, Neil Zhenqiang Gong |
-| 432 | Big Brother Is Watching You: A Closer Look at Backdoor Construction | SPACE 2022: 81-96 | 2022 | Anubhab Baksi, Arghya Bhattacharjee, Jakub Breier, Takanori Isobe, Mridul Nandi |
-| 433 | Big Brother Is Watching You: A Closer Look At Backdoor Construction | IACR Cryptol. ePrint Arch. 2022: 953 (2022) | 2022 | Anubhab Baksi, Arghya Bhattacharjee, Jakub Breier, Takanori Isobe, Mridul Nandi |
-| 434 | A Novel Backdoor Attack Adapted to Transfer Learning | SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta 2022: 1730-1735 | 2022 | Peihao Li, Jie Huang, Shuaishuai Zhang, Chunyang Qi, Chuang Liang, Yang Peng |
-| 435 | Low-Poisoning Rate Invisible Backdoor Attack Based on Important Neurons | WASA (2) 2022: 375-383 | 2022 | Xiugui Yang, Xiangyun Qian, Rui Zhang, Ning Huang, Hui Xia |
-| 436 | Extracting a Minimal Trigger for an Efficient Backdoor Poisoning Attack Using the Activation Values of a Deep Neural Network | WDC@AsiaCCS 2022: 3-6 | 2022 | Hyunsik Na, Daeseon Choi |
-| 437 | Can You Hear It?: Backdoor Attacks via Ultrasonic Triggers | WiseML@WiSec 2022: 57-62 | 2022 | Stefanos Koffas, Jing Xu, Mauro Conti, Stjepan Picek |
-| 438 | Deep Learning Backdoors | Security and Artificial Intelligence 2022: 313-334 | 2022 | Shaofeng Li, Shiqing Ma, Minhui Xue, Benjamin Zi Hao Zhao |
-| 439 | Hiding Behind Backdoors: Self-Obfuscation Against Generative Models | CoRR abs/2201.09774 (2022) | 2022 | Siddhartha Datta, Nigel Shadbolt |
-| 440 | Backdoors Stuck At The Frontdoor: Multi-Agent Backdoor Attacks That Backfire | CoRR abs/2201.12211 (2022) | 2022 | Siddhartha Datta, Nigel Shadbolt |
-| 441 | Imperceptible and Multi-channel Backdoor Attack against Deep Neural Networks | CoRR abs/2201.13164 (2022) | 2022 | Mingfu Xue, Shifeng Ni, Yinghao Wu, Yushu Zhang, Jian Wang, Weiqiang Liu |
-| 442 | False Memory Formation in Continual Learners Through Imperceptible Backdoor Trigger | CoRR abs/2202.04479 (2022) | 2022 | Muhammad Umer, Robi Polikar |
-| 443 | Resurrecting Trust in Facial Recognition: Mitigating Backdoor Attacks in Face Recognition to Prevent Potential Privacy Breaches | CoRR abs/2202.10320 (2022) | 2022 | Reena Zelenkova, Jack Swallow, M. A. P. Chamikara, Dongxi Liu, Mohan Baruwal Chhetri, Seyit Camtepe, Marthie Grobler, Mahathir Almashor |
-| 444 | Label-Smoothed Backdoor Attack | CoRR abs/2202.11203 (2022) | 2022 | Minlong Peng, Zidi Xiong, Mingming Sun, Ping Li |
-| 445 | Clean-Annotation Backdoor Attack against Lane Detection Systems in the Wild | CoRR abs/2203.00858 (2022) | 2022 | Xingshuo Han, Guowen Xu, Yuan Zhou, Xuehuan Yang, Jiwei Li, Tianwei Zhang |
-| 446 | Low-Loss Subspace Compression for Clean Gains against Multi-Agent Backdoor Attacks | CoRR abs/2203.03692 (2022) | 2022 | Siddhartha Datta, Nigel Shadbolt |
-| 447 | PiDAn: A Coherence Optimization Approach for Backdoor Attack Detection and Mitigation in Deep Neural Networks | CoRR abs/2203.09289 (2022) | 2022 | Yue Wang, Wenqing Li, Esha Sarkar, Muhammad Shafique, Michail Maniatakos, Saif Eddin Jabari |
-| 448 | Trojan Horse Training for Breaking Defenses against Backdoor Attacks in Deep Learning | CoRR abs/2203.15506 (2022) | 2022 | Arezoo Rajabi, Bhaskar Ramasubramanian, Radha Poovendran |
-| 449 | An Adaptive Black-box Backdoor Detection Method for Deep Neural Networks | CoRR abs/2204.04329 (2022) | 2022 | Xinqiao Zhang, Huili Chen, Ke Huang, Farinaz Koushanfar |
-| 450 | Towards A Critical Evaluation of Robustness for Deep Learning Backdoor Countermeasures | CoRR abs/2204.06273 (2022) | 2022 | Huming Qiu, Hua Ma, Zhi Zhang, Alsharif Abuadbba, Wei Kang, Anmin Fu, Yansong Gao |
-| 451 | Planting Undetectable Backdoors in Machine Learning Models | CoRR abs/2204.06974 (2022) | 2022 | Shafi Goldwasser, Michael P. Kim, Vinod Vaikuntanathan, Or Zamir |
-| 452 | Backdooring Explainable Machine Learning | CoRR abs/2204.09498 (2022) | 2022 | Maximilian Noppel, Lukas Peter, Christian Wressnegger |
-| 453 | Detecting Backdoor Poisoning Attacks on Deep Neural Networks by Heatmap Clustering | CoRR abs/2204.12848 (2022) | 2022 | Lukas Schulth, Christian Berghoff, Matthias Neu |
-| 454 | Model-Contrastive Learning for Backdoor Defense | CoRR abs/2205.04411 (2022) | 2022 | Zhihao Yue, Jun Xia, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Chen |
-| 455 | Backdoor Attacks on Bayesian Neural Networks using Reverse Distribution | CoRR abs/2205.09167 (2022) | 2022 | Zhixin Pan, Prabhat Mishra |
-| 456 | Textual Backdoor Attacks with Iterative Trigger Injection | CoRR abs/2205.12700 (2022) | 2022 | Jun Yan, Vansh Gupta, Xiang Ren |
-| 457 | Circumventing Backdoor Defenses That Are Based on Latent Separability | CoRR abs/2205.13613 (2022) | 2022 | Xiangyu Qi, Tinghao Xie, Saeed Mahloujifar, Prateek Mittal |
-| 458 | Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations | CoRR abs/2205.13616 (2022) | 2022 | Xiangyu Qi, Tinghao Xie, Saeed Mahloujifar, Prateek Mittal |
-| 459 | Defending Against Stealthy Backdoor Attacks | CoRR abs/2205.14246 (2022) | 2022 | Sangeet Sagar, Abhinav Bhatt, Abhijith Srinivas Bidaralli |
-| 460 | CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Backdoor Defences | CoRR abs/2206.00145 (2022) | 2022 | Shang Wang, Yansong Gao, Anmin Fu, Zhi Zhang, Yuqing Zhang, Willy Susilo |
-| 461 | Can Backdoor Attacks Survive Time-Varying Models | CoRR abs/2206.04677 (2022) | 2022 | Huiying Li, Arjun Nitin Bhagoji, Ben Y. Zhao, Haitao Zheng |
-| 462 | Enhancing Clean Label Backdoor Attack with Two-phase Specific Triggers | CoRR abs/2206.04881 (2022) | 2022 | Nan Luo, Yuanzhang Li, Yajie Wang, Shangbo Wu, Yu-An Tan, Quanxin Zhang |
-| 463 | DECK: Model Hardening for Defending Pervasive Backdoors | CoRR abs/2206.09272 (2022) | 2022 | Guanhong Tao, Yingqi Liu, Siyuan Cheng, Shengwei An, Zhuo Zhang, Qiuling Xu, Guangyu Shen, Xiangyu Zhang |
-| 464 | Natural Backdoor Datasets | CoRR abs/2206.10673 (2022) | 2022 | Emily Wenger, Roma Bhattacharjee, Arjun Nitin Bhagoji, Josephine Passananti, Emilio Andere, Haitao Zheng, Ben Y. Zhao |
-| 465 | Invisible Backdoor Attacks Using Data Poisoning in the Frequency Domain | CoRR abs/2207.04209 (2022) | 2022 | Chang Yue, Peizhuo Lv, Ruigang Liang, Kai Chen |
-| 466 | FRIB: Low-poisoning Rate Invisible Backdoor Attack based on Feature Repair | CoRR abs/2207.12863 (2022) | 2022 | Hui Xia, Xiugui Yang, Xiangyun Qian, Rui Zhang |
-| 467 | Defense against Backdoor Attacks via Identifying and Purifying Bad Neurons | CoRR abs/2208.06537 (2022) | 2022 | Mingyuan Fan, Yang Liu, Cen Chen, Ximeng Liu, Wenzhong Guo |
-| 468 | Confidence Matters: Inspecting Backdoors in Deep Neural Networks via Distribution Transfer | CoRR abs/2208.06592 (2022) | 2022 | Tong Wang, Yuan Yao, Feng Xu, Miao Xu, Shengwei An, Ting Wang |
-| 469 | MACAB: Model-Agnostic Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World | CoRR abs/2209.02339 (2022) | 2022 | Hua Ma, Yinshan Li, Yansong Gao, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said F. Al-Sarawi, Surya Nepal, Derek Abbott |
-| 470 | Adaptive Perturbation Generation for Multiple Backdoors Detection | CoRR abs/2209.05244 (2022) | 2022 | Yuhang Wang, Huafeng Shi, Rui Min, Ruijia Wu, Siyuan Liang, Yichao Wu, Ding Liang, Aishan Liu |
-| 471 | Augmentation Backdoors | CoRR abs/2209.15139 (2022) | 2022 | Joseph Rance, Yiren Zhao, Ilia Shumailov, Robert D. Mullins |
-| 472 | ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks | CoRR abs/2210.00108 (2022) | 2022 | Tim Clifford, Ilia Shumailov, Yiren Zhao, Ross J. Anderson, Robert D. Mullins |
-| 473 | Backdoor Attacks in the Supply Chain of Masked Image Modeling | CoRR abs/2210.01632 (2022) | 2022 | Xinyue Shen, Xinlei He, Zheng Li, Yun Shen, Michael Backes, Yang Zhang |
-| 474 | Understanding Impacts of Task Similarity on Backdoor Attack and Detection | CoRR abs/2210.06509 (2022) | 2022 | Di Tang, Rui Zhu, XiaoFeng Wang, Haixu Tang, Yi Chen |
-| 475 | Apple of Sodom: Hidden Backdoors in Superior Sentence Embeddings via Contrastive Learning | CoRR abs/2210.11082 (2022) | 2022 | Xiaoyi Chen, Baisong Xin, Shengfang Zhai, Shiqing Ma, Qingni Shen, Zhonghai Wu |
-| 476 | Detecting Backdoors in Deep Text Classifiers | CoRR abs/2210.11264 (2022) | 2022 | You Guo, Jun Wang, Trevor Cohn |
-| 477 | M-to-N Backdoor Paradigm: A Stealthy and Fuzzy Attack to Deep Learning Models | CoRR abs/2211.01875 (2022) | 2022 | Linshan Hou, Zhongyun Hua, Yuhong Li, Leo Yu Zhang |
-| 478 | Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models | CoRR abs/2211.02408 (2022) | 2022 | Lukas Struppek, Dominik Hintersdorf, Kristian Kersting |
-| 479 | Physics-Constrained Backdoor Attacks on Power System Fault Localization | CoRR abs/2211.04445 (2022) | 2022 | Jianing Bai, Ren Wang, Zuyi Li |
-| 480 | Backdoor Attacks on Time Series: A Generative Approach | CoRR abs/2211.07915 (2022) | 2022 | Yujing Jiang, Xingjun Ma, Sarah Monazam Erfani, James Bailey |
-| 481 | CorruptEncoder: Data Poisoning based Backdoor Attacks to Contrastive Learning | CoRR abs/2211.08229 (2022) | 2022 | Jinghuai Zhang, Hongbin Liu, Jinyuan Jia, Neil Zhenqiang Gong |
-| 482 | PBSM: Backdoor attack against Keyword spotting based on pitch boosting and sound masking | CoRR abs/2211.08697 (2022) | 2022 | Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Shunhui Ji |
-| 483 | Backdoor Attacks on Multiagent Collaborative Systems | CoRR abs/2211.11455 (2022) | 2022 | Shuo Chen, Yue Qiu, Jie Zhang |
-| 484 | Backdoor Vulnerabilities in Normally Trained Deep Learning Models | CoRR abs/2211.15929 (2022) | 2022 | Guanhong Tao, Zhenting Wang, Siyuan Cheng, Shiqing Ma, Shengwei An, Yingqi Liu, Guangyu Shen, Zhuo Zhang, Yunshu Mao, Xiangyu Zhang |
-| 485 | Rethinking Backdoor Data Poisoning Attacks in the Context of Semi-Supervised Learning | CoRR abs/2212.02582 (2022) | 2022 | Marissa Connor, Vincent Emanuele |
-| 486 | Selective Amnesia: On Efficient, High-Fidelity and Blind Suppression of Backdoor Effects in Trojaned Machine Learning Models | CoRR abs/2212.04687 (2022) | 2022 | Rui Zhu, Di Tang, Siyuan Tang, XiaoFeng Wang, Haixu Tang |
-| 487 | Fine-Tuning Is All You Need to Mitigate Backdoor Attacks | CoRR abs/2212.09067 (2022) | 2022 | Zeyang Sha, Xinlei He, Pascal Berrang, Mathias Humbert, Yang Zhang |
-| 488 | Flareon: Stealthy any2any Backdoor Injection via Poisoned Augmentation | CoRR abs/2212.09979 (2022) | 2022 | Tianrui Qin, Xianghuan He, Xitong Gao, Yiren Zhao, Kejiang Ye, Cheng-Zhong Xu |
-| 489 | How to backdoor LWE-like cryptosystems | IACR Cryptol. ePrint Arch. 2022: 1381 (2022) | 2022 | Tobias Hemmert |
-| 490 | How to Backdoor (Classical) McEliece and How to Guard Against Backdoors | IACR Cryptol. ePrint Arch. 2022: 362 (2022) | 2022 | Alexander May, Carl Richard Theodor Schneider |
-| 491 | Use Procedural Noise to Achieve Backdoor Attack | IEEE Access 9: 127204-127216 (2021) | 2021 | Xuan Chen, Yuena Ma, Shiwei Lu |
-| 492 | BDDR: An Effective Defense Against Textual Backdoor Attacks | Comput. Secur. 110: 102433 (2021) | 2021 | Kun Shao, Junan Yang, Yang Ai, Hui Liu, Yu Zhang |
-| 493 | Reverse engineering imperceptible backdoor attacks on deep neural networks for detection and training set cleansing | Comput. Secur. 106: 102280 (2021) | 2021 | Zhen Xiang, David J. Miller, George Kesidis |
-| 494 | Internet of Things backdoors: Resource management issues, security challenges, and detection methods | Trans. Emerg. Telecommun. Technol. 32(2) (2021) | 2021 | Soheil Hashemi, Mani Zarei |
-| 495 | Study of scale-free structures in feed-forward neural networks against backdoor attacks | ICT Express 7(2): 265-268 (2021) | 2021 | Sara Kaviani, Insoo Sohn |
-| 496 | Mitigating backdoor attacks in LSTM-based text classification systems by Backdoor Keyword Identification | Neurocomputing 452: 253-262 (2021) | 2021 | Chuanshuai Chen, Jiazhu Dai |
-| 497 | Defense-Resistant Backdoor Attacks Against Deep Neural Networks in Outsourced Cloud Environment | IEEE J. Sel. Areas Commun. 39(8): 2617-2631 (2021) | 2021 | Xueluan Gong, Yanjiao Chen, Qian Wang, Huayang Huang, Lingshuo Meng, Chao Shen, Qian Zhang |
-| 498 | Detecting Scene-Plausible Perceptible Backdoors in Trained DNNs Without Access to the Training Set | Neural Comput. 33(5): 1329-1371 (2021) | 2021 | Zhen Xiang, David J. Miller, Hang Wang, George Kesidis |
-| 499 | Stability-Based Analysis and Defense against Backdoor Attacks on Edge Computing Services | IEEE Netw. 35(1): 163-169 (2021) | 2021 | Yi Zhao, Ke Xu, Haiyang Wang, Bo Li, Ruoxi Jia |
-| 500 | Existence versus exploitation: the opacity of backdoors and backbones | Prog. Artif. Intell. 10(3): 297-308 (2021) | 2021 | Lane A. Hemaspaandra, David E. Narváez |
-| 501 | Backdoors hidden in facial features: a novel invisible backdoor attack against face recognition systems | Peer-to-Peer Netw. Appl. 14(3): 1458-1474 (2021) | 2021 | Mingfu Xue, Can He, Jian Wang, Weiqiang Liu |
-| 502 | PBDT: Python Backdoor Detection Model Based on Combined Features | Secur. Commun. Networks 2021: 9923234:1-9923234:13 (2021) | 2021 | Yong Fang, Mingyu Xie, Cheng Huang |
-| 503 | Text Backdoor Detection Using an Interpretable RNN Abstract Model | IEEE Trans. Inf. Forensics Secur. 16: 4117-4132 (2021) | 2021 | Ming Fan, Ziliang Si, Xiaofei Xie, Yang Liu, Ting Liu |
-| 504 | Deep Neural Backdoor in Semi-Supervised Learning: Threats and Countermeasures | IEEE Trans. Inf. Forensics Secur. 16: 4827-4842 (2021) | 2021 | Zhicong Yan, Jun Wu, Gaolei Li, Shenghong Li, Mohsen Guizani |
-| 505 | Backdoor Decomposable Monotone Circuits and Propagation Complete Encodings | AAAI 2021: 3832-3840 | 2021 | Petr Kucera, Petr Savický |
-| 506 | Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger | ACL/IJCNLP (1) 2021: 443-453 | 2021 | Fanchao Qi, Mukai Li, Yangyi Chen, Zhengyan Zhang, Zhiyuan Liu, Yasheng Wang, Maosong Sun |
-| 507 | Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution | ACL/IJCNLP (1) 2021: 4873-4883 | 2021 | Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu, Maosong Sun |
-| 508 | MP-BADNet: A Backdoor-Attack Detection and Identification Protocol among Multi-Participants in Private Deep Neural Networks | ACM TUR-C 2021: 104-109 | 2021 | Congcong Chen, Lifei Wei, Lei Zhang, Jianting Ning |
-| 509 | DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation | AsiaCCS 2021: 363-377 | 2021 | Han Qiu, Yi Zeng, Shangwei Guo, Tianwei Zhang, Meikang Qiu, Bhavani Thuraisingham |
-| 510 | Covid-19 digital Contact-tracing: a doorway to well-being or a backdoor to security vulnerabilities | IEEE BigData 2021: 4297-4302 | 2021 | Nishit Patel, David Cancel, Moitrayee Chatterjee, Md Shahinoor Rahman |
-| 511 | Countermeasures Against Backdoor Attacks Towards Malware Detectors | CANS 2021: 295-314 | 2021 | Shintaro Narisada, Yuki Matsumoto, Seira Hidano, Toshihiro Uchibayashi, Takuo Suganuma, Masahiro Hiji, Shinsaku Kiyomoto |
-| 512 | Backdoor Pre-trained Models Can Transfer to All | CCS 2021: 3141-3158 | 2021 | Lujia Shen, Shouling Ji, Xuhong Zhang, Jinfeng Li, Jing Chen, Jie Shi, Chengfang Fang, Jianwei Yin, Ting Wang |
-| 513 | A Trigger Exploration Method for Backdoor Attacks on Deep Learning-Based Traffic Control Systems | CDC 2021: 4394-4399 | 2021 | Yue Wang, Michail Maniatakos, Saif Eddin Jabari |
-| 514 | Reasoning Short Cuts in Infinite Domain Constraint Satisfaction: Algorithms and Lower Bounds for Backdoors | CP 2021: 32:1-32:20 | 2021 | Peter Jonsson, Victor Lagerkvist, Sebastian Ordyniak |
-| 515 | Protecting Deep Cerebrospinal Fluid Cell Image Processing Models with Backdoor and Semi-Distillation | DICTA 2021: 1-7 | 2021 | Fang-Qi Li, Shi-Lin Wang, Zhen-Hai Wang |
-| 516 | A Random Multi-target Backdooring Attack on Deep Neural Networks | DMBD (2) 2021: 45-52 | 2021 | Xinrui Liu, Xiao Yu, Zhibin Zhang, Quanxin Zhang, Yuanzhang Li, Yu-an Tan |
-| 517 | Backdoor Filter: Mitigating Visible Backdoor Triggers in Dataset | DTPI 2021: 102-105 | 2021 | Ziqi Wei, Junjian Shi, Yihe Duan, Ranyang Liu, Ye Han, Zheli Liu |
-| 518 | BFClass: A Backdoor-free Text Classification Framework | EMNLP (Findings) 2021: 444-453 | 2021 | Zichao Li, Dheeraj Mekala, Chengyu Dong, Jingbo Shang |
-| 519 | Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning | EMNLP (1) 2021: 3023-3032 | 2021 | Linyang Li, Demin Song, Xiaonan Li, Jiehang Zeng, Ruotian Ma, Xipeng Qiu |
-| 520 | ONION: A Simple and Effective Defense Against Textual Backdoor Attacks | EMNLP (1) 2021: 9558-9566 | 2021 | Fanchao Qi, Yangyi Chen, Mukai Li, Yuan Yao, Zhiyuan Liu, Maosong Sun |
-| 521 | Pixdoor: A Pixel-space Backdoor Attack on Deep Learning Models | EUSIPCO 2021: 681-685 | 2021 | Iram Arshad, Mamoona Naveed Asghar, Yuansong Qiao, Brian Lee, Yuhang Ye |
-| 522 | Stand-in Backdoor: A Stealthy and Powerful Backdoor Attack | GLOBECOM 2021: 1-6 | 2021 | Shuang Li, Hongwei Li, Hanxiao Chen |
-| 523 | Why is Your Trojan NOT Responding? A Quantitative Analysis of Failures in Backdoor Attacks of Neural Networks | ICA3PP (3) 2021: 754-771 | 2021 | Xingbo Hu, Yibing Lan, Ruimin Gao, Guozhu Meng, Kai Chen |
-| 524 | Strong Data Augmentation Sanitizes Poisoning and Backdoor Attacks Without an Accuracy Tradeoff | ICASSP 2021: 3855-3859 | 2021 | Eitan Borgnia, Valeriia Cherepanova, Liam Fowl, Amin Ghiasi, Jonas Geiping, Micah Goldblum, Tom Goldstein, Arjun Gupta |
-| 525 | L-Red: Efficient Post-Training Detection of Imperceptible Backdoor Attacks Without Access to the Training Set | ICASSP 2021: 3745-3749 | 2021 | Zhen Xiang, David J. Miller, George Kesidis |
-| 526 | Backdoor Attack Against Speaker Verification | ICASSP 2021: 2560-2564 | 2021 | Tongqing Zhai, Yiming Li, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia |
-| 527 | LIRA: Learnable, Imperceptible and Robust Backdoor Attacks | ICCV 2021: 11946-11956 | 2021 | Khoa D. Doan, Yingjie Lao, Weijie Zhao, Ping Li |
-| 528 | Black-box Detection of Backdoor Attacks with Limited Information and Data | ICCV 2021: 16462-16471 | 2021 | Yinpeng Dong, Xiao Yang, Zhijie Deng, Tianyu Pang, Zihao Xiao, Hang Su, Jun Zhu |
-| 529 | Invisible Backdoor Attack with Sample-Specific Triggers | ICCV 2021: 16443-16452 | 2021 | Yuezun Li, Yiming Li, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu |
-| 530 | Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective | ICCV 2021: 16453-16461 | 2021 | Yi Zeng, Won Park, Z. Morley Mao, Ruoxi Jia |
-| 531 | CLEAR: Clean-up Sample-Targeted Backdoor in Neural Networks | ICCV 2021: 16433-16442 | 2021 | Liuwan Zhu, Rui Ning, Chunsheng Xin, Chonggang Wang, Hongyi Wu |
-| 532 | Backdoor Investigation and Incident Response: From Zero to Profit | ICDF2C 2021: 229-247 | 2021 | Anthony Cheuk Tung Lai, Ken Wai Kin Wong, Johnny Tsz Wun Wong, Austin Tsz Wai Lau, Alan Po Lun Ho, Shuai Wang, Jogesh Muppala |
-| 533 | Simtrojan: Stealthy Backdoor Attack | ICIP 2021: 819-823 | 2021 | Yankun Ren, Longfei Li, Jun Zhou |
-| 534 | Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks | ICLR 2021 | 2021 | Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, Xingjun Ma |
-| 535 | WaNet - Imperceptible Warping-based Backdoor Attack | ICLR 2021 | 2021 | Tuan Anh Nguyen, Anh Tuan Tran |
-| 536 | Defense against backdoor attacks via robust covariance estimation | ICML 2021: 4129-4139 | 2021 | Jonathan Hayase, Weihao Kong, Raghav Somani, Sewoong Oh |
-| 537 | Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks | ICML 2021: 9389-9398 | 2021 | Avi Schwarzschild, Micah Goldblum, Arjun Gupta, John P. Dickerson, Tom Goldstein |
-| 538 | Backdoor Scanning for Deep Neural Networks through K-Arm Optimization | ICML 2021: 9525-9536 | 2021 | Guangyu Shen, Yingqi Liu, Guanhong Tao, Shengwei An, Qiuling Xu, Siyuan Cheng, Shiqing Ma, Xiangyu Zhang |
-| 539 | DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection | ICSE 2021: 263-274 | 2021 | Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, Yunxin Liu |
-| 540 | Backdoor DNFs | IJCAI 2021: 1403-1409 | 2021 | Sebastian Ordyniak, André Schidler, Stefan Szeider |
-| 541 | Invisible Poison: A Blackbox Clean Label Backdoor Attack to Deep Neural Networks | INFOCOM 2021: 1-10 | 2021 | Rui Ning, Jiang Li, Chunsheng Xin, Hongyi Wu |
-| 542 | TridentShell: a Covert and Scalable Backdoor Injection Attack on Web Applications | ISC 2021: 177-194 | 2021 | Xiaobo Yu, Weizhi Meng, Lei Zhao, Yining Liu |
-| 543 | On-line Functional Testing of Memristor-mapped Deep Neural Networks using Backdoored Checksums | ITC 2021: 83-92 | 2021 | Ching-Yuan Chen, Krishnendu Chakrabarty |
-| 544 | The Design and Development of a Game to Study Backdoor Poisoning Attacks: The Backdoor Game | IUI 2021: 423-433 | 2021 | Zahra Ashktorab, Casey Dugan, James Johnson, Aabhas Sharma, Dustin Ramsey Torres, Ingrid Lange, Benjamin Hoover, Heiko Ludwig, Bryant Chen, Nathalie Baracaldo, Werner Geyer, Qian Pan |
-| 545 | What Do You See?: Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors | KDD 2021: 1027-1035 | 2021 | Yi-Shan Lin, Wen-Chuan Lee, Z. Berkay Celik |
-| 546 | Recursive Backdoors for SAT | MFCS 2021: 73:1-73:18 | 2021 | Nikolas Mählmann, Sebastian Siebertz, Alexandre Vigny |
-| 547 | Anti-Distillation Backdoor Attacks: Backdoors Can Really Survive in Knowledge Distillation | ACM Multimedia 2021: 826-834 | 2021 | Yunjie Ge, Qian Wang, Baolin Zheng, Xinlu Zhuang, Qi Li, Chao Shen, Cong Wang |
-| 548 | Backdoor Attack with Imperceptible Input and Latent Modification | NeurIPS 2021: 18944-18957 | 2021 | Khoa D. Doan, Yingjie Lao, Ping Li |
-| 549 | Anti-Backdoor Learning: Training Clean Models on Poisoned Data | NeurIPS 2021: 14900-14912 | 2021 | Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, Xingjun Ma |
-| 550 | Excess Capacity and Backdoor Poisoning | NeurIPS 2021: 20373-20384 | 2021 | Naren Manoj, Avrim Blum |
-| 551 | Identifying and blocking the backdoors in Linux | RTA-CSIT 2021: 193-197 | 2021 | Enkli Ylli, Julian Fejzaj, Igli Tafa |
-| 552 | A Backdoor Embedding Method for Backdoor Detection in Deep Neural Networks | UbiSec 2021: 1-12 | 2021 | Meirong Liu, Hong Zheng, Qin Liu, Xiaofei Xing, Yinglong Dai |
-| 553 | Blind Backdoors in Deep Learning Models | USENIX Security Symposium 2021: 1505-1521 | 2021 | Eugene Bagdasaryan, Vitaly Shmatikov |
-| 554 | Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers | USENIX Security Symposium 2021: 1487-1504 | 2021 | Giorgio Severi, Jim Meyer, Scott E. Coull, Alina Oprea |
-| 555 | Demon in the Variant: Statistical Analysis of DNNs for Robust Backdoor Contamination Detection | USENIX Security Symposium 2021: 1541-1558 | 2021 | Di Tang, XiaoFeng Wang, Haixu Tang, Kehuan Zhang |
-| 556 | Explainability Matters: Backdoor Attacks on Medical Imaging | CoRR abs/2101.00008 (2021) | 2021 | Munachiso Nwadike, Takumi Miyawaki, Esha Sarkar, Michail Maniatakos, Farah Shamout |
-| 557 | On Provable Backdoor Defense in Collaborative Learning | CoRR abs/2101.08177 (2021) | 2021 | Ximing Qiao, Yuhua Bai, Siping Hu, Ang Li, Yiran Chen, Hai Li |
-| 558 | DP-InstaHide: Provably Defusing Poisoning and Backdoor Attacks with Differentially Private Data Augmentations | CoRR abs/2103.02079 (2021) | 2021 | Eitan Borgnia, Jonas Geiping, Valeriia Cherepanova, Liam Fowl, Arjun Gupta, Amin Ghiasi, Furong Huang, Micah Goldblum, Tom Goldstein |
-| 559 | EX-RAY: Distinguishing Injected Backdoor from Natural Features in Neural Networks by Examining Differential Feature Symmetry | CoRR abs/2103.08820 (2021) | 2021 | Yingqi Liu, Guangyu Shen, Guanhong Tao, Zhenting Wang, Shiqing Ma, Xiangyu Zhang |
-| 560 | TOP: Backdoor Detection in Neural Networks via Transferability of Perturbation | CoRR abs/2103.10274 (2021) | 2021 | Todd Huster, Emmanuel Ekwedike |
-| 561 | RABA: A Robust Avatar Backdoor Attack on Deep Neural Network | CoRR abs/2104.01026 (2021) | 2021 | Ying He, Zhili Shen, Chang Xia, Jingyu Hua, Wei Tong, Sheng Zhong |
-| 562 | SPECTRE: Defending Against Backdoor Attacks Using Robust Statistics | CoRR abs/2104.11315 (2021) | 2021 | Jonathan Hayase, Weihao Kong, Raghav Somani, Sewoong Oh |
-| 563 | Backdoor Learning Curves: Explaining Backdoor Poisoning Beyond Influence Functions | CoRR abs/2106.07214 (2021) | 2021 | Antonio Emanuele Cinà, Kathrin Grosse, Sebastiano Vascon, Ambra Demontis, Battista Biggio, Fabio Roli, Marcello Pelillo |
-| 564 | Machine Learning with Electronic Health Records is vulnerable to Backdoor Trigger Attacks | CoRR abs/2106.07925 (2021) | 2021 | Byunggill Joe, Akshay Mehra, Insik Shin, Jihun Hamm |
-| 565 | Subnet Replacement: Deployment-stage backdoor attack against deep neural networks in gray-box setting | CoRR abs/2107.07240 (2021) | 2021 | Xiangyu Qi, Jifeng Zhu, Chulin Xie, Yong Yang |
-| 566 | Can You Hear It? Backdoor Attacks via Ultrasonic Triggers | CoRR abs/2107.14569 (2021) | 2021 | Stefanos Koffas, Jing Xu, Mauro Conti, Stjepan Picek |
-| 567 | The Devil is in the GAN: Defending Deep Generative Models Against Backdoor Attacks | CoRR abs/2108.01644 (2021) | 2021 | Ambrish Rawat, Killian Levacher, Mathieu Sinn |
-| 568 | Quantization Backdoors to Deep Learning Models | CoRR abs/2108.09187 (2021) | 2021 | Hua Ma, Huming Qiu, Yansong Gao, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said F. Al-Sarawi, Derek Abbott |
-| 569 | TRAPDOOR: Repurposing backdoors to detect dataset bias in machine learning-based genomic analysis | CoRR abs/2108.10132 (2021) | 2021 | Esha Sarkar, Michail Maniatakos |
-| 570 | Backdoor Attacks on Network Certification via Data Poisoning | CoRR abs/2108.11299 (2021) | 2021 | Tobias Lorenz, Marta Kwiatkowska, Mario Fritz |
-| 571 | Backdoor Attack and Defense for Deep Regression | CoRR abs/2109.02381 (2021) | 2021 | Xi Li, George Kesidis, David J. Miller, Vladimir Lucic |
-| 572 | Check Your Other Door! Establishing Backdoor Attacks in the Frequency Domain | CoRR abs/2109.05507 (2021) | 2021 | Hasan Abed Al Kader Hammoud, Bernard Ghanem |
-| 573 | Widen The Backdoor To Let More Attackers In | CoRR abs/2110.04571 (2021) | 2021 | Siddhartha Datta, Giulio Lovisotto, Ivan Martinovic, Nigel Shadbolt |
-| 574 | An Optimization Perspective on Realizing Backdoor Injection Attacks on Deep Neural Networks in Hardware | CoRR abs/2110.07683 (2021) | 2021 | M. Caner Tol, Saad Islam, Berk Sunar, Ziming Zhang |
-| 575 | A Statistical Difference Reduction Method for Escaping Backdoor Detection | CoRR abs/2111.05077 (2021) | 2021 | Pengfei Xia, Hongjing Niu, Ziqiang Li, Bin Li |
-| 576 | An Overview of Backdoor Attacks Against Deep Neural Networks and Possible Defences | CoRR abs/2111.08429 (2021) | 2021 | Wei Guo, Benedetta Tondi, Mauro Barni |
-| 577 | Backdoor Attack through Frequency Domain | CoRR abs/2111.10991 (2021) | 2021 | Tong Wang, Yuan Yao, Feng Xu, Shengwei An, Hanghang Tong, Ting Wang |
-| 578 | NTD: Non-Transferability Enabled Backdoor Detection | CoRR abs/2111.11157 (2021) | 2021 | Yinshan Li, Hua Ma, Zhi Zhang, Yansong Gao, Alsharif Abuadbba, Anmin Fu, Yifeng Zheng, Said F. Al-Sarawi, Derek Abbott |
-| 579 | How to Backdoor a Cipher | IACR Cryptol. ePrint Arch. 2021: 442 (2021) | 2021 | Raluca Posteuca, Tomer Ashur |
-| 580 | Factoring Primes to Factor Moduli: Backdooring and Distributed Generation of Semiprimes | IACR Cryptol. ePrint Arch. 2021: 1610 (2021) | 2021 | Giuseppe Vitto |
-| 581 | (Withdrawn) Spinning Sequence-to-Sequence Models with Meta-Backdoors | CoRR abs/2107.10443 (2021) | 2021 | Eugene Bagdasaryan, Vitaly Shmatikov |
-| 582 | (Withdrawn) CatchBackdoor: Backdoor Testing by Critical Trojan Neural Path Identification via Differential Fuzzing | CoRR abs/2112.13064 (2021) | 2021 | Haibo Jin, Ruoxi Chen, Jinyin Chen, Yao Cheng, Chong Fu, Ting Wang, Yue Yu, Zhaoyan Ming |
-| 583 | Detecting Backdoor Attacks via Class Difference in Deep Neural Networks | IEEE Access 8: 191049-191056 (2020) | 2020 | Hyun Kwon |
-| 584 | Backdoor Suppression in Neural Networks using Input Fuzzing and Majority Voting | IEEE Des. Test 37(2): 103-110 (2020) | 2020 | Esha Sarkar, Yousif Alkindi, Michail Maniatakos |
-| 585 | Trembling triggers: exploring the sensitivity of backdoors in DNN-based face recognition | EURASIP J. Inf. Secur. 2020: 12 (2020) | 2020 | Cecilia Pasquini, Rainer Böhme |
-| 586 | Multi-Targeted Backdoor: Indentifying Backdoor Attack for Multiple Deep Neural Networks | IEICE Trans. Inf. Syst. 103-D(4): 883-887 (2020) | 2020 | Hyun Kwon, Hyunsoo Yoon, Ki-Woong Park |
-| 587 | Backdoors into Two Occurrences | J. Satisf. Boolean Model. Comput. 12(1): 1-15 (2020) | 2020 | Jan Johannsen |
-| 588 | Backdoor Attacks and Defenses for Deep Neural Networks in Outsourced Cloud Environments | IEEE Netw. 34(5): 141-147 (2020) | 2020 | Yanjiao Chen, Xueluan Gong, Qian Wang, Xing Di, Huayang Huang |
-| 589 | Hidden Trigger Backdoor Attacks | AAAI 2020: 11957-11965 | 2020 | Aniruddha Saha, Akshayvarun Subramanya, Hamed Pirsiavash |
-| 590 | Embedding Backdoors as the Facial Features: Invisible Backdoor Attacks Against Face Recognition Systems | ACM TUR-C 2020: 231-235 | 2020 | Can He, Mingfu Xue, Jian Wang, Weiqiang Liu |
-| 591 | Differentiable Causal Backdoor Discovery | AISTATS 2020: 3970-3979 | 2020 | Limor Gultchin, Matt J. Kusner, Varun Kanade, Ricardo Silva |
-| 592 | Composite Backdoor Attack for Deep Neural Network by Mixing Existing Benign Features | CCS 2020: 113-131 | 2020 | Junyu Lin, Lei Xu, Yingqi Liu, Xiangyu Zhang |
-| 593 | Disabling Backdoor and Identifying Poison Data by using Knowledge Distillation in Backdoor Attacks on Deep Neural Networks | AISec@CCS 2020: 117-127 | 2020 | Kota Yoshida, Takeshi Fujino |
-| 594 | Backdoor Embedding in Convolutional Neural Network Models via Invisible Perturbation | CODASPY 2020: 97-108 | 2020 | Haoti Zhong, Cong Liao, Anna Cinzia Squicciarini, Sencun Zhu, David J. Miller |
-| 595 | The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers | CRYPTO (3) 2020: 249-278 | 2020 | Thomas Peyrin, Haoyang Wang |
-| 596 | The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers | IACR Cryptol. ePrint Arch. 2020: 986 (2020) | 2020 | Thomas Peyrin, Haoyang Wang |
-| 597 | Systematic Evaluation of Backdoor Data Poisoning Attacks on Image Classifiers | CVPR Workshops 2020: 3422-3431 | 2020 | Loc Truong, Chace Jones, Brian Hutchinson, Andrew August, Brenda Praggastis, Robert Jasper, Nicole Nichols, Aaron Tuor |
-| 598 | One-Pixel Signature: Characterizing CNN Models for Backdoor Detection | ECCV (27) 2020: 326-341 | 2020 | Shanjiaoyang Huang, Weiqi Peng, Zhiwei Jia, Zhuowen Tu |
-| 599 | Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks | ECCV (10) 2020: 182-199 | 2020 | Yunfei Liu, Xingjun Ma, James Bailey, Feng Lu |
-| 600 | Interpretability Derived Backdoor Attacks Detection in Deep Neural Networks: Work-in-Progress | EMSOFT 2020: 13-14 | 2020 | Xiangyu Wen, Wei Jiang, Jinyu Zhan, Xupeng Wang, Zhiyuan He |
-| 601 | Biometric Backdoors: A Poisoning Attack Against Unsupervised Template Updating | EuroS&P 2020: 184-197 | 2020 | Giulio Lovisotto, Simon Eberz, Ivan Martinovic |
-| 602 | Bypassing Backdoor Detection Algorithms in Deep Learning | EuroS&P 2020: 175-183 | 2020 | Te Juin Lester Tan, Reza Shokri |
-| 603 | Revealing Backdoors, Post-Training, in DNN Classifiers via Novel Inference on Optimized Perturbations Inducing Group Misclassification | ICASSP 2020: 3827-3831 | 2020 | Zhen Xiang, David J. Miller, George Kesidis |
-| 604 | Backdooring Convolutional Neural Networks via Targeted Weight Perturbations | IJCB 2020: 1-9 | 2020 | Jacob Dumford, Walter J. Scheirer |
-| 605 | Towards Inspecting and Eliminating Trojan Backdoors in Deep Neural Networks | ICDM 2020: 162-171 | 2020 | Wenbo Guo, Lun Wang, Yan Xu, Xinyu Xing, Min Du, Dawn Song |
-| 606 | TargetNet Backdoor: Attack on Deep Neural Network with Use of Different Triggers | ICIIT 2020: 140-145 | 2020 | Hyun Kwon, Jungmin Roh, Hyunsoo Yoon, Ki-Woong Park |
-| 607 | A Defence Against Input-Agnostic Backdoor Attacks on Deep Neural Networks | ICISS 2020: 69-80 | 2020 | Yansong Gao, Surya Nepal |
-| 608 | Backdooring Deep Learning Architectures: Threats and (some) Opportunities | ICISSP 2020: 15-16 | 2020 | Mauro Barni |
-| 609 | Robust anomaly detection and backdoor attack detection via differential privacy | ICLR 2020 | 2020 | Min Du, Ruoxi Jia, Dawn Song |
-| 610 | FriendNet Backdoor: Indentifying Backdoor Attack that is safe for Friendly Deep Neural Network | ICSIM 2020: 53-57 | 2020 | Hyun Kwon, Hyunsoo Yoon, Ki-Woong Park |
-| 611 | Application of complex systems in neural networks against Backdoor attacks | ICTC 2020: 57-59 | 2020 | Sara Kaviani, Insoo Sohn, Huaping Liu |
-| 612 | A Causally Formulated Hazard Ratio Estimation through Backdoor Adjustment on Structural Causal Model | MLHC 2020: 376-396 | 2020 | Riddhiman Adib, Paul M. Griffin, Sheikh Iqbal Ahamed, Mohammad Adibuzzaman |
-| 613 | Revealing Perceptible Backdoors in DNNs, Without the Training Set, via the Maximum Achievable Misclassification Fraction Statistic | MLSP 2020: 1-6 | 2020 | Zhen Xiang, David J. Miller, Hang Wang, George Kesidis |
-| 614 | GangSweep: Sweep out Neural Backdoors by GAN | ACM Multimedia 2020: 3173-3181 | 2020 | Liuwan Zhu, Rui Ning, Cong Wang, Chunsheng Xin, Hongyi Wu |
-| 615 | Input-Aware Dynamic Backdoor Attack | NeurIPS 2020 | 2020 | Tuan Anh Nguyen, Anh Tuan Tran |
-| 616 | Scalable Backdoor Detection in Neural Networks | ECML/PKDD (2) 2020: 289-304 | 2020 | Haripriya Harikumar, Vuong Le, Santu Rana, Sourangshu Bhattacharya, Sunil Gupta, Svetha Venkatesh |
-| 617 | Escaping Backdoor Attack Detection of Deep Learning | SEC 2020: 431-445 | 2020 | Yayuan Xiong, Fengyuan Xu, Sheng Zhong, Qun Li |
-| 618 | Backdooring and Poisoning Neural Networks with Image-Scaling Attacks | SP (Workshops) 2020: 41-47 | 2020 | Erwin Quiring, Konrad Rieck |
-| 619 | Towards Defeating Backdoored Random Oracles: Indifferentiability with Bounded Adaptivity | TCC (3) 2020: 241-273 | 2020 | Yevgeniy Dodis, Pooya Farshim, Sogol Mazaheri, Stefano Tessaro |
-| 620 | Towards Defeating Backdoored Random Oracles: Indifferentiability with Bounded Adaptivity | IACR Cryptol. ePrint Arch. 2020: 1199 (2020) | 2020 | Yevgeniy Dodis, Pooya Farshim, Sogol Mazaheri, Stefano Tessaro |
-| 621 | Detecting acoustic backdoor transmission of inaudible messages using deep learning | WiseML@WiSec 2020: 80-85 | 2020 | Silvija Kokalj-Filipovic, Morriel Kasher, Michael Zhao, Predrag Spasojevic |
-| 622 | NNoculation: Broad Spectrum and Targeted Treatment of Backdoored DNNs | CoRR abs/2002.08313 (2020) | 2020 | Akshaj Kumar Veldanda, Kang Liu, Benjamin Tan, Prashanth Krishnamurthy, Farshad Khorrami, Ramesh Karri, Brendan Dolan-Gavitt, Siddharth Garg |
-| 623 | On Certifying Robustness against Backdoor Attacks via Randomized Smoothing | CoRR abs/2002.11750 (2020) | 2020 | Binghui Wang, Xiaoyu Cao, Jinyuan Jia, Neil Zhenqiang Gong |
-| 624 | Defending against Backdoor Attack on Deep Neural Networks | CoRR abs/2002.12162 (2020) | 2020 | Hao Cheng, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Pu Zhao, Xue Lin |
-| 625 | Exposing Backdoors in Robust Machine Learning Models | CoRR abs/2003.00865 (2020) | 2020 | Ezekiel O. Soremekun, Sakshi Udeshi, Sudipta Chattopadhyay, Andreas Zeller |
-| 626 | Exploring Backdoor Poisoning Attacks Against Malware Classifiers | CoRR abs/2003.01031 (2020) | 2020 | Giorgio Severi, Jim Meyer, Scott E. Coull, Alina Oprea |
-| 627 | Rethinking the Trigger of Backdoor Attack | CoRR abs/2004.04692 (2020) | 2020 | Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shutao Xia |
-| 628 | A new measure for overfitting and its implications for backdooring of deep learning | CoRR abs/2006.06721 (2020) | 2020 | Kathrin Grosse, Taesung Lee, Youngja Park, Michael Backes, Ian M. Molloy |
-| 629 | FaceHack: Triggering backdoored facial recognition systems using facial characteristics | CoRR abs/2006.11623 (2020) | 2020 | Esha Sarkar, Hadjer Benkraouda, Michail Maniatakos |
-| 630 | Natural Backdoor Attack on Text Data | CoRR abs/2006.16176 (2020) | 2020 | Lichao Sun |
-| 631 | Backdoor attacks and defenses in feature-partitioned collaborative learning | CoRR abs/2007.03608 (2020) | 2020 | Yang Liu, Zhihao Yi, Tianjian Chen |
-| 632 | Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review | CoRR abs/2007.10760 (2020) | 2020 | Yansong Gao, Bao Gia Doan, Zhi Zhang, Siqi Ma, Jiliang Zhang, Anmin Fu, Surya Nepal, Hyoungshick Kim |
-| 633 | Towards a Backdoorless Network Architecture Based on Remote Attestation and Backdoor Inspection | CoRR abs/2007.14748 (2020) | 2020 | Takayuki Sasaki, Yusuke Shimada |
-| 634 | Noise-response Analysis for Rapid Detection of Backdoors in Deep Neural Networks | CoRR abs/2008.00123 (2020) | 2020 | N. Benjamin Erichson, Dane Taylor, Qixuan Wu, Michael W. Mahoney |
-| 635 | Light Can Hack Your Face! Black-box Backdoor Attack on Face Recognition Systems | CoRR abs/2009.06996 (2020) | 2020 | Haoliang Li, Yufei Wang, Xiaofei Xie, Yang Liu, Shiqi Wang, Renjie Wan, Lap-Pui Chau, Alex C. Kot |
-| 636 | What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors | CoRR abs/2009.10639 (2020) | 2020 | Yi-Shan Lin, Wen-Chuan Lee, Z. Berkay Celik |
-| 637 | BAAAN: Backdoor Attacks Against Autoencoder and GAN-Based Machine Learning Models | CoRR abs/2010.03007 (2020) | 2020 | Ahmed Salem, Yannick Sautter, Michael Backes, Mathias Humbert, Yang Zhang |
-| 638 | Don't Trigger Me! A Triggerless Backdoor Attack Against Deep Neural Networks | CoRR abs/2010.03282 (2020) | 2020 | Ahmed Salem, Michael Backes, Yang Zhang |
-| 639 | Poisoned classifiers are not only backdoored, they are fundamentally broken | CoRR abs/2010.09080 (2020) | 2020 | Mingjie Sun, Siddhant Agarwal, J. Zico Kolter |
-| 640 | On Evaluating Neural Network Backdoor Defenses | CoRR abs/2010.12186 (2020) | 2020 | Akshaj Kumar Veldanda, Siddharth Garg |
-| 641 | EEG-Based Brain-Computer Interfaces Are Vulnerable to Backdoor Attacks | CoRR abs/2011.00101 (2020) | 2020 | Lubin Meng, Jian Huang, Zhigang Zeng, Xue Jiang, Shan Yu, Tzyy-Ping Jung, Chin-Teng Lin, Ricardo Chavarriaga, Dongrui Wu |
-| 642 | Detecting Backdoors in Neural Networks Using Novel Feature-Based Anomaly Detection | CoRR abs/2011.02526 (2020) | 2020 | Hao Fu, Akshaj Kumar Veldanda, Prashanth Krishnamurthy, Siddharth Garg, Farshad Khorrami |
-| 643 | Effect of backdoor attacks over the complexity of the latent space distribution | CoRR abs/2012.01931 (2020) | 2020 | Henry D. Chacon, Paul Rad |
-| 644 | Backdoor Attack with Sample-Specific Triggers | CoRR abs/2012.03816 (2020) | 2020 | Yuezun Li, Yiming Li, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu |
-| 645 | HaS-Nets: A Heal and Select Mechanism to Defend DNNs Against Backdoor Attacks for Data Collection Scenarios | CoRR abs/2012.07474 (2020) | 2020 | Hassan Ali, Surya Nepal, Salil S. Kanhere, Sanjay Jha |
-| 646 | TROJANZOO: Everything you ever wanted to know about neural backdoors (but were afraid to ask) | CoRR abs/2012.09302 (2020) | 2020 | Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, Ting Wang |
-| 647 | A Backdoor Attack Against LSTM-Based Text Classification Systems | IEEE Access 7: 138872-138878 (2019) | 2019 | Jiazhu Dai, Chuanshuai Chen, Yufeng Li |
-| 648 | BadNets: Evaluating Backdooring Attacks on Deep Neural Networks | IEEE Access 7: 47230-47244 (2019) | 2019 | Tianyu Gu, Kang Liu, Brendan Dolan-Gavitt, Siddharth Garg |
-| 649 | Backdoors to planning | Artif. Intell. 269: 49-75 (2019) | 2019 | Martin Kronegger, Sebastian Ordyniak, Andreas Pfandler |
-| 650 | Backdoors to Planning | AAAI 2014: 2300-2307 | 2014 | Martin Kronegger, Sebastian Ordyniak, Andreas Pfandler |
-| 651 | Backdoors for Linear Temporal Logic | Algorithmica 81(2): 476-496 (2019) | 2019 | Arne Meier, Sebastian Ordyniak, M. S. Ramanujan, Irena Schindler |
-| 652 | Backdoors for Linear Temporal Logic | IPEC 2016: 23:1-23:17 | 2016 | Arne Meier, Sebastian Ordyniak, Ramanujan Sridharan, Irena Schindler |
-| 653 | Testing the Human Backdoor: Organizational Response to a Phishing Campaign | J. Univers. Comput. Sci. 25(11): 1458-1477 (2019) | 2019 | Anze Mihelic, Matej Jevscek, Simon Vrhovec, Igor Bernik |
-| 654 | Interbank Networks and Backdoor Bailouts: Benefiting from Other Banks' Government Guarantees | Manag. Sci. 65(8): 3673-3693 (2019) | 2019 | Tim Eisert, Christian Eufinger |
-| 655 | Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering | SafeAI@AAAI 2019 | 2019 | Bryant Chen, Wilka Carvalho, Nathalie Baracaldo, Heiko Ludwig, Benjamin Edwards, Taesung Lee, Ian M. Molloy, Biplav Srivastava |
-| 656 | Latent Backdoor Attacks on Deep Neural Networks | CCS 2019: 2041-2055 | 2019 | Yuanshun Yao, Huiying Li, Haitao Zheng, Ben Y. Zhao |
-| 657 | Backdoor Attacks in Neural Networks - A Systematic Evaluation on Multiple Traffic Sign Datasets | CD-MAKE 2019: 285-300 | 2019 | Huma Rehman, Andreas Ekelhart, Rudolf Mayer |
-| 658 | Walling up Backdoors in Intrusion Detection Systems | Big-DAMA@CoNEXT 2019: 8-13 | 2019 | Maximilian Bachl, Alexander Hartl, Joachim Fabini, Tanja Zseby |
-| 659 | A New Backdoor Attack in CNNS by Training Set Corruption Without Label Poisoning | ICIP 2019: 101-105 | 2019 | Mauro Barni, Kassem Kallas, Benedetta Tondi |
-| 660 | Is Backside the New Backdoor in Modern SoCs?: Invited Paper | ITC 2019: 1-10 | 2019 | Nidish Vashistha, M. Tanjidur Rahman, Olivia P. Paradis, Navid Asadizanjani |
-| 661 | Towards Leveraging Backdoors in Qualitative Constraint Networks | KI 2019: 308-315 | 2019 | Michael Sioutis, Tomi Janhunen |
-| 662 | A Benchmark Study Of Backdoor Data Poisoning Defenses For Deep Neural Network Classifiers And A Novel Defense | MLSP 2019: 1-6 | 2019 | Zhen Xiang, David J. Miller, George Kesidis |
-| 663 | Defending Neural Backdoors via Generative Distribution Modeling | NeurIPS 2019: 14004-14013 | 2019 | Ximing Qiao, Yukun Yang, Hai Li |
-| 664 | On Embedding Backdoor in Malware Detectors Using Machine Learning | PST 2019: 1-5 | 2019 | Shoichiro Sasaki, Seira Hidano, Toshihiro Uchibayashi, Takuo Suganuma, Masahiro Hiji, Shinsaku Kiyomoto |
-| 665 | Existence Versus Exploitation: The Opacity of Backdoors and Backbones Under a Weak Assumption | SOFSEM 2019: 247-259 | 2019 | Lane A. Hemaspaandra, David E. Narváez |
-| 666 | True2F: Backdoor-Resistant Authentication Tokens | IEEE Symposium on Security and Privacy 2019: 398-416 | 2019 | Emma Dauterman, Henry Corrigan-Gibbs, David Mazières, Dan Boneh, Dominic Rizzo |
-| 667 | Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks | IEEE Symposium on Security and Privacy 2019: 707-723 | 2019 | Bolun Wang, Yuanshun Yao, Shawn Shan, Huiying Li, Bimal Viswanath, Haitao Zheng, Ben Y. Zhao |
-| 668 | Design of intentional backdoors in sequential models | CoRR abs/1902.09972 (2019) | 2019 | Zhaoyuan Yang, Naresh Iyer, Johan Reimann, Nurali Virani |
-| 669 | BSEA-1 - A Stream Cipher Backdooring Technique | CoRR abs/1903.11063 (2019) | 2019 | Eric Filiol |
-| 670 | Regula Sub-rosa: Latent Backdoor Attacks on Deep Neural Networks | CoRR abs/1905.10447 (2019) | 2019 | Yuanshun Yao, Huiying Li, Haitao Zheng, Ben Y. Zhao |
-| 671 | TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems | CoRR abs/1908.01763 (2019) | 2019 | Wenbo Guo, Lun Wang, Xinyu Xing, Min Du, Dawn Song |
-| 672 | Invisible Backdoor Attacks Against Deep Neural Networks | CoRR abs/1909.02742 (2019) | 2019 | Shaofeng Li, Benjamin Zi Hao Zhao, Jiahao Yu, Minhui Xue, Dali Kaafar, Haojin Zhu |
-| 673 | NeuronInspect: Detecting Backdoors in Neural Networks via Output Explanations | CoRR abs/1911.07399 (2019) | 2019 | Xijie Huang, Moustafa Alzantot, Mani B. Srivastava |
-| 674 | Revealing Perceptible Backdoors, without the Training Set, via the Maximum Achievable Misclassification Fraction Statistic | CoRR abs/1911.07970 (2019) | 2019 | Zhen Xiang, David J. Miller, George Kesidis |
-| 675 | Poison as a Cure: Detecting & Neutralizing Variable-Sized Backdoor Attacks in Deep Neural Networks | CoRR abs/1911.08040 (2019) | 2019 | Alvin Chan, Yew-Soon Ong |
-| 676 | Label-Consistent Backdoor Attacks | CoRR abs/1912.02771 (2019) | 2019 | Alexander Turner, Dimitris Tsipras, Aleksander Madry |
-| 677 | Backdoor detection systems for embedded devices | University of Birmingham, UK, 2018 | 2018 | Sam L. Thomas |
-| 678 | Technical perspective: Backdoor engineering | Commun. ACM 61(11): 147 (2018) | 2018 | Markus G. Kuhn |
-| 679 | Real-time Detection of Passive Backdoor Behaviors on Android System | CNS 2018: 1-9 | 2018 | Yao Yao, Lipeng Zhu, He Wang |
-| 680 | Learning-Sensitive Backdoors with Restarts | CP 2018: 453-469 | 2018 | Edward Zulkoski, Ruben Martins, Christoph M. Wintersteiger, Robert Robere, Jia Hui Liang, Krzysztof Czarnecki, Vijay Ganesh |
-| 681 | From Backdoor Key to Backdoor Completability: Improving a Known Measure of Hardness for the Satisfiable CSP | CPAIOR 2018: 198-214 | 2018 | Guillaume Escamocher, Mohamed Siala, Barry O'Sullivan |
-| 682 | Combiners for Backdoored Random Oracles | CRYPTO (2) 2018: 272-302 | 2018 | Balthazar Bauer, Pooya Farshim, Sogol Mazaheri |
-| 683 | Combiners for Backdoored Random Oracles | IACR Cryptol. ePrint Arch. 2018: 770 (2018) | 2018 | Balthazar Bauer, Pooya Farshim, Sogol Mazaheri |
-| 684 | Backdoored Hash Functions: Immunizing HMAC and HKDF | CSF 2018: 105-118 | 2018 | Marc Fischlin, Christian Janson, Sogol Mazaheri |
-| 685 | Backdoored Hash Functions: Immunizing HMAC and HKDF | IACR Cryptol. ePrint Arch. 2018: 362 (2018) | 2018 | Marc Fischlin, Christian Janson, Sogol Mazaheri |
-| 686 | Remote Desktop Backdoor Implementation with Reverse TCP Payload Using Open Source Tools for Instructional Use | EIT 2018: 249-254 | 2018 | Yaswanth Kolli, Tauheed Khan Mohd, Ahmad Y. Javaid |
-| 687 | Backdoor Attacks on Neural Network Operations | GlobalSIP 2018: 1154-1158 | 2018 | Joseph Clements, Yingjie Lao |
-| 688 | UFO - Hidden Backdoor Discovery and Security Verification in IoT Device Firmware | ISSRE Workshops 2018: 18-23 | 2018 | Chin-Wei Tien, Tsung-Ta Tsai, Ing-Yi Chen, Sy-Yen Kuo |
-| 689 | Spectral Signatures in Backdoor Attacks | NeurIPS 2018: 8011-8021 | 2018 | Brandon Tran, Jerry Li, Aleksander Madry |
-| 690 | Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks | RAID 2018: 273-294 | 2018 | Kang Liu, Brendan Dolan-Gavitt, Siddharth Garg |
-| 691 | Backdoors: Definition, Deniability and Detection | RAID 2018: 92-113 | 2018 | Sam L. Thomas, Aurélien Francillon |
-| 692 | ALIAS: A Modular Tool for Finding Backdoors for SAT | SAT 2018: 419-427 | 2018 | Stepan Kochemazov, Oleg Zaikin |
-| 693 | Backdoor Decomposable Monotone Circuits and their Propagation Complete Encodings | CoRR abs/1811.09435 (2018) | 2018 | Petr Kucera, Petr Savický |
-| 694 | How a simple bug in ML compiler could be exploited for backdoors | CoRR abs/1811.10851 (2018) | 2018 | Baptiste David |
-| 695 | On the Existence of Non-Linear Invariants and Algebraic Polynomial Constructive Approach to Backdoors in Block Ciphers | IACR Cryptol. ePrint Arch. 2018: 807 (2018) | 2018 | Nicolas T. Courtois |
-| 696 | Backdoors into heterogeneous classes of SAT and CSP | J. Comput. Syst. Sci. 85: 38-56 (2017) | 2017 | Serge Gaspers, Neeldhara Misra, Sebastian Ordyniak, Stefan Szeider, Stanislav Zivný |
-| 697 | Backdoors into Heterogeneous Classes of SAT and CSP | AAAI 2014: 2652-2658 | 2014 | Serge Gaspers, Neeldhara Misra, Sebastian Ordyniak, Stefan Szeider, Stanislav Zivný |
-| 698 | Open Sesame! Design and Implementation of Backdoor to Secretly Unlock Android Devices | J. Internet Serv. Inf. Secur. 7(4): 35-44 (2017) | 2017 | Junsung Cho, Geumhwan Cho, Sangwon Hyun, Hyoungshick Kim |
-| 699 | BackDoor: Sounds that a microphone can record, but that humans can't hear | GetMobile Mob. Comput. Commun. 21(4): 25-29 (2017) | 2017 | Nirupam Roy, Haitham Hassanieh, Romit Roy Choudhury |
-| 700 | Backdoor attacks against learning systems | CNS 2017: 1-9 | 2017 | Yujie Ji, Xinyang Zhang, Ting Wang |
-| 701 | Stringer: Measuring the Importance of Static Data Comparisons to Detect Backdoors and Undocumented Functionality | ESORICS (2) 2017: 513-531 | 2017 | Sam L. Thomas, Tom Chothia, Flavio D. Garcia |
-| 702 | Mathematical Backdoors in Symmetric Encryption Systems - Proposal for a Backdoored AES-like Block Cipher | ICISSP 2017: 622-631 | 2017 | Arnaud Bannier, Eric Filiol |
-| 703 | Low-cost detection of backdoor malware | ICITST 2017: 197-198 | 2017 | Huicong Loi, Aspen Olmsted |
-| 704 | Backdoor Trees for Answer Set Programming | ASPOCP@LPNMR 2017 | 2017 | Johannes Klaus Fichte, Stefan Szeider |
-| 705 | BackDoor: Making Microphones Hear Inaudible Sounds | MobiSys 2017: 2-14 | 2017 | Nirupam Roy, Haitham Hassanieh, Romit Roy Choudhury |
-| 706 | Indiscreet Logs: Diffie-Hellman Backdoors in TLS | NDSS 2017 | 2017 | Kristen Dorey, Nicholas Chang-Fong, Aleksander Essex |
-| 707 | Backdoor Treewidth for SAT | SAT 2017: 20-37 | 2017 | Robert Ganian, M. S. Ramanujan, Stefan Szeider |
-| 708 | Combining Treewidth and Backdoors for CSP | STACS 2017: 36:1-36:17 | 2017 | Robert Ganian, M. S. Ramanujan, Stefan Szeider |
-| 709 | Backdoor Sets for CSP | The Constraint Satisfaction Problem 2017: 137-157 | 2017 | Serge Gaspers, Sebastian Ordyniak, Stefan Szeider |
-| 710 | The Opacity of Backbones and Backdoors Under a Weak Assumption | CoRR abs/1706.04582 (2017) | 2017 | Lane A. Hemaspaandra, David E. Narváez |
-| 711 | Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning | CoRR abs/1712.05526 (2017) | 2017 | Xinyun Chen, Chang Liu, Bo Li, Kimberly Lu, Dawn Song |
-| 712 | Backdoors to q-Horn | Algorithmica 74(1): 540-557 (2016) | 2016 | Serge Gaspers, Sebastian Ordyniak, M. S. Ramanujan, Saket Saurabh, Stefan Szeider |
-| 713 | Backdoors to q-Horn | STACS 2013: 67-79 | 2013 | Serge Gaspers, Sebastian Ordyniak, M. S. Ramanujan, Saket Saurabh, Stefan Szeider |
-| 714 | No backdoor required or expected | Commun. ACM 59(6): 8-9 (2016) | 2016 | CACM Staff |
-| 715 | Detecting Stealthy Backdoors and Port Knocking Sequences through Flow Analysis | Prax. Inf.verarb. Kommun. 38(3-4): 97-104 (2016) | 2016 | Felix von Eye, Michael Grabatin, Wolfgang Hommel |
-| 716 | Backdoors to Tractable Valued CSP | CP 2016: 233-250 | 2016 | Robert Ganian, M. S. Ramanujan, Stefan Szeider |
-| 717 | Backdoors in Pseudorandom Number Generators: Possibility and Impossibility Results | CRYPTO (1) 2016: 403-432 | 2016 | Jean Paul Degabriele, Kenneth G. Paterson, Jacob C. N. Schuldt, Joanne Woodage |
-| 718 | Backdoors in Pseudorandom Number Generators: Possibility and Impossibility Results | IACR Cryptol. ePrint Arch. 2016: 577 (2016) | 2016 | Jean Paul Degabriele, Kenneth G. Paterson, Jacob C. N. Schuldt, Joanne Woodage |
-| 719 | Strong Backdoors for Default Logic | SAT 2016: 45-59 | 2016 | Johannes Klaus Fichte, Arne Meier, Irina Schindler |
-| 720 | Backdoors to SAT | Encyclopedia of Algorithms 2016: 167-170 | 2016 | Serge Gaspers |
-| 721 | Strong Backdoors for Linear Temporal Logic | CoRR abs/1602.04934 (2016) | 2016 | Arne Meier, Sebastian Ordyniak, M. S. Ramanujan, Irena Schindler |
-| 722 | A Formal Treatment of Backdoored Pseudorandom Generators | IACR Cryptol. ePrint Arch. 2016: 306 (2016) | 2016 | Yevgeniy Dodis, Chaya Ganesh, Alexander Golovnev, Ari Juels, Thomas Ristenpart |
-| 723 | A Formal Treatment of Backdoored Pseudorandom Generators | EUROCRYPT (1) 2015: 101-126 | 2015 | Yevgeniy Dodis, Chaya Ganesh, Alexander Golovnev, Ari Juels, Thomas Ristenpart |
-| 724 | Indiscreet Logs: Persistent Diffie-Hellman Backdoors in TLS | IACR Cryptol. ePrint Arch. 2016: 999 (2016) | 2016 | Kristen Dorey, Nicholas Chang-Fong, Aleksander Essex |
-| 725 | DEcryption Contract ENforcement Tool (DECENT): A Practical Alternative to Government Decryption Backdoors | IACR Cryptol. ePrint Arch. 2016: 245 (2016) | 2016 | Peter Linder |
-| 726 | How to Backdoor Diffie-Hellman | IACR Cryptol. ePrint Arch. 2016: 644 (2016) | 2016 | David Wong |
-| 727 | Backdoors to tractable answer set programming | Artif. Intell. 220: 64-103 (2015) | 2015 | Johannes Klaus Fichte, Stefan Szeider |
-| 728 | Backdoors to Normality for Disjunctive Logic Programs | ACM Trans. Comput. Log. 17(1): 7 (2015) | 2015 | Johannes Klaus Fichte, Stefan Szeider |
-| 729 | Backdoors to Normality for Disjunctive Logic Programs | AAAI 2013: 320-327 | 2013 | Johannes Klaus Fichte, Stefan Szeider |
-| 730 | Variable-Deletion Backdoors to Planning | AAAI 2015: 3305-3312 | 2015 | Martin Kronegger, Sebastian Ordyniak, Andreas Pfandler |
-| 731 | Internet-facing PLCs as a network backdoor | CNS 2015: 524-532 | 2015 | Johannes Klick, Stephan Lau, Daniel Marzin, Jan-Ole Malchow, Volker Roth |
-| 732 | Netzbasierte Erkennung von mittels Port Knocking verstecksten Dienstern und Backdoors | DFN-Forum Kommunikationstechnologien 2015: 57-67 | 2015 | Felix von Eye, Michael Grabatin, Wolfgang Hommel |
-| 733 | Integrated Sensor: A Backdoor for Hardware Trojan Insertions | DSD 2015: 415-422 | 2015 | Xuan Thuy Ngo, Zakaria Najm, Shivam Bhasin, Debapriya Basu Roy, Jean-Luc Danger, Sylvain Guilley |
-| 734 | Covert remote syscall communication at kernel level: A SPOOKY backdoor | MALWARE 2015: 74-81 | 2015 | Florian Kerber, Dominik Teubert, Ulrike Meyer |
-| 735 | Devil in a box: Installing backdoors in electronic door locks | PST 2015: 139-144 | 2015 | Seongyeol Oh, Joon-Sung Yang, Andrea Bianchi, Hyoungshick Kim |
-| 736 | Solving d-SAT via Backdoors to Small Treewidth | SODA 2015: 630-641 | 2015 | Fedor V. Fomin, Daniel Lokshtanov, Neeldhara Misra, M. S. Ramanujan, Saket Saurabh |
-| 737 | Tradeoffs in the complexity of backdoors to satisfiability: dynamic sub-solvers and learning during search | Ann. Math. Artif. Intell. 70(4): 399-431 (2014) | 2014 | Bistra Dilkina, Carla P. Gomes, Ashish Sabharwal |
-| 738 | Backdoor | Datenschutz und Datensicherheit 38(2): 119 (2014) | 2014 | Dirk Fox |
-| 739 | Answer Set Solver Backdoors | JELIA 2014: 674-683 | 2014 | Emilia Oikarinen, Matti Järvisalo |
-| 740 | Backdoor Branching | INFORMS J. Comput. 25(4): 693-700 (2013) | 2013 | Matteo Fischetti, Michele Monaci |
-| 741 | Backdoor Branching | IPCO 2011: 183-191 | 2011 | Matteo Fischetti, Michele Monaci |
-| 742 | Backdoors to the Tractability of Answer Set Programming | Theory Pract. Log. Program. 13(4-5-Online-Supplement) (2013) | 2013 | Johannes Klaus Fichte |
-| 743 | Backdoors to Tractability of Answer-Set Programming | AAAI 2013: 1662-1663 | 2013 | Johannes Klaus Fichte |
-| 744 | Implementation and implications of a stealth hard-drive backdoor | ACSAC 2013: 279-288 | 2013 | Jonas Zaddach, Anil Kurmus, Davide Balzarotti, Erik-Oliver Blass, Aurélien Francillon, Travis Goodspeed, Moitrayee Gupta, Ioannis Koltsidas |
-| 745 | Towards reducing the attack surface of software backdoors | CCS 2013: 851-862 | 2013 | Felix Schuster, Thorsten Holz |
-| 746 | Preventing Backdoors in Server Applications with a Separated Software Architecture - (Short Paper) | DIMVA 2013: 197-206 | 2013 | Felix Schuster, Stefan Rüster, Thorsten Holz |
-| 747 | Strong Backdoors to Bounded Treewidth SAT | FOCS 2013: 489-498 | 2013 | Serge Gaspers, Stefan Szeider |
-| 748 | Crowdsourcing Backdoor Identification for Combinatorial Optimization | IJCAI 2013: 2840-2847 | 2013 | Ronan LeBras, Richard Bernstein, Carla P. Gomes, Bart Selman, R. Bruce van Dover |
-| 749 | Backdoors to Abduction | IJCAI 2013: 1046-1052 | 2013 | Andreas Pfandler, Stefan Rümmele, Stefan Szeider |
-| 750 | Upper and Lower Bounds for Weak Backdoor Set Detection | SAT 2013: 394-402 | 2013 | Neeldhara Misra, Sebastian Ordyniak, Venkatesh Raman, Stefan Szeider |
-| 751 | Vulnerability-Based Backdoors: Threats from Two-step Trojans | SERE 2013: 169-177 | 2013 | Kai Chen, Yingjun Zhang, Yifeng Lian |
-| 752 | A generalized backdoor criterion | CoRR abs/1307.5636 (2013) | 2013 | Marloes H. Maathuis, Diego Colombo |
-| 753 | Backdoors to Satisfaction | The Multivariate Algorithmic Revolution and Beyond 2012: 287-317 | 2012 | Serge Gaspers, Stefan Szeider |
-| 754 | Breakthrough Silicon Scanning Discovers Backdoor in Military Chip | CHES 2012: 23-40 | 2012 | Sergei Skorobogatov, Christopher Woods |
-| 755 | Backdoors to Acyclic SAT | ICALP (1) 2012: 363-374 | 2012 | Serge Gaspers, Stefan Szeider |
-| 756 | Detecting Stealthy Backdoors with Association Rule Mining | Networking (2) 2012: 161-171 | 2012 | Stefan Hommes, Radu State, Thomas Engel |
-| 757 | Strong Backdoors to Nested Satisfiability | SAT 2012: 72-85 | 2012 | Serge Gaspers, Stefan Szeider |
-| 758 | A Framework to Eliminate Backdoors from Response-Computable Authentication | IEEE Symposium on Security and Privacy 2012: 3-17 | 2012 | Shuaifu Dai, Tao Wei, Chao Zhang, Tielei Wang, Yu Ding, Zhenkai Liang, Wei Zou |
-| 759 | Finding Small Backdoors in SAT Instances | Canadian AI 2011: 269-280 | 2011 | Zijie Li, Peter van Beek |
-| 760 | Trusting the open latent IC backdoors | STC@CCS 2011: 1-2 | 2011 | Farinaz Koushanfar |
-| 761 | TorusDesktop: pointing via the backdoor is sometimes shorter | CHI 2011: 829-838 | 2011 | Stéphane Huot, Olivier Chapuis, Pierre Dragicevic |
-| 762 | Backdoors to Tractable Answer-Set Programming | IJCAI 2011: 863-868 | 2011 | Johannes Klaus Fichte, Stefan Szeider |
-| 763 | Silencing Hardware Backdoors | IEEE Symposium on Security and Privacy 2011: 49-63 | 2011 | Adam Waksman, Simha Sethumadhavan |
-| 764 | Static detection of application backdoors - Detecting both malicious software behavior and malicious indicators from the static analysis of executable code | Datenschutz und Datensicherheit 34(3): 149-155 (2010) | 2010 | Chris Wysopal, Chris Eng, Tyler Shields |
-| 765 | Backdoor Sets of Quantified Boolean Formulas | J. Autom. Reason. 42(1): 77-97 (2009) | 2009 | Marko Samer, Stefan Szeider |
-| 766 | Backdoor Sets of Quantified Boolean Formulas | SAT 2007: 230-243 | 2007 | Marko Samer, Stefan Szeider |
-| 767 | Matched Formulas and Backdoor Sets | J. Satisf. Boolean Model. Comput. 6(1-3): 1-12 (2009) | 2009 | Stefan Szeider |
-| 768 | Matched Formulas and Backdoor Sets | SAT 2007: 94-99 | 2007 | Stefan Szeider |
-| 769 | CPU bugs, CPU backdoors and consequences on security | J. Comput. Virol. 5(2): 91-104 (2009) | 2009 | Loïc Duflot |
-| 770 | CPU Bugs, CPU Backdoors and Consequences on Security | ESORICS 2008: 580-599 | 2008 | Loïc Duflot |
-| 771 | A chipset level network backdoor: bypassing host-based firewall & IDS | AsiaCCS 2009: 125-134 | 2009 | Sherri Sparks, Shawn Embleton, Cliff Changchun Zou |
-| 772 | Backdoors to Combinatorial Optimization: Feasibility and Optimality | CPAIOR 2009: 56-70 | 2009 | Bistra Dilkina, Carla P. Gomes, Yuri Malitsky, Ashish Sabharwal, Meinolf Sellmann |
-| 773 | A study on intrusion protection techniques against Linux kernel backdoor | ICHIT 2009: 86-90 | 2009 | Jin Taek Kim, Jeong-Ho Kho, Min-Seok Hong, Choul Woong Son, Do-Won Lee, Sang-Jo Youk, Geuk Lee |
-| 774 | Backdoors in the Context of Learning | SAT 2009: 73-79 | 2009 | Bistra Dilkina, Carla P. Gomes, Ashish Sabharwal |
-| 775 | Backdoor Trees | AAAI 2008: 363-368 | 2008 | Marko Samer, Stefan Szeider |
-| 776 | A New Empirical Study of Weak Backdoors | CP 2008: 618-623 | 2008 | Peter Gregory, Maria Fox, Derek Long |
-| 777 | Tradeoffs in Backdoors: Inconsistency Detection, Dynamic Simplification, and Preprocessing | ISAIM 2008 | 2008 | Bistra Dilkina, Carla P. Gomes, Ashish Sabharwal |
-| 778 | Computation of Renameable Horn Backdoors | SAT 2008: 154-160 | 2008 | Stephan Kottler, Michael Kaufmann, Carsten Sinz |
-| 779 | A New Bound for an NP-Hard Subclass of 3-SAT Using Backdoors | SAT 2008: 161-167 | 2008 | Stephan Kottler, Michael Kaufmann, Carsten Sinz |
-| 780 | Detecting and Guarding against Kernel Backdoors through Packet Flow Differentials | IEICE Trans. Commun. 90-B(10): 2638-2645 (2007) | 2007 | Cheolho Lee, Kiwook Sohn |
-| 781 | Tradeoffs in the Complexity of Backdoor Detection | CP 2007: 256-270 | 2007 | Bistra Dilkina, Carla P. Gomes, Ashish Sabharwal |
-| 782 | From Horn Strong Backdoor Sets to Ordered Strong Backdoor Sets | MICAI 2007: 105-117 | 2007 | Lionel Paris, Richard Ostrowski, Pierre Siegel, Lakhdar Sais |
-| 783 | COTS and other electronic voting backdoors | Commun. ACM 49(11): 112 (2006) | 2006 | Rebecca T. Mercuri, Vincent J. Lipsio, Beth Feehan |
-| 784 | Computing Horn Strong Backdoor Sets Thanks to Local Search | ICTAI 2006: 139-143 | 2006 | Lionel Paris, Richard Ostrowski, Pierre Siegel, Lakhdar Sais |
-| 785 | Backdoor Sets for DLL Subsolvers | J. Autom. Reason. 35(1-3): 73-88 (2005) | 2005 | Stefan Szeider |
-| 786 | Backbones and Backdoors in Satisfiability | AAAI 2005: 1368-1373 | 2005 | Philip Kilby, John K. Slaney, Sylvie Thiébaux, Toby Walsh |
-| 787 | A self-checking signature scheme for checking backdoor security attacks in Internet | J. High Speed Networks 13(4): 309-317 (2004) | 2004 | Mohammed Fadle Abdulla, C. P. Ravikumar |
-| 788 | The Backdoor Key: A Path to Understanding Problem Hardness | AAAI 2004: 124-130 | 2004 | Yongshao Ruan, Henry A. Kautz, Eric Horvitz |
-| 789 | Backdoor Creativity: Collaborative Creativity in Technology Supported Teams | COOP 2004: 99-114 | 2004 | Hillevi Sundholm, Henrik Artman, Robert Ramberg |
-| 790 | Remote Repair of Operating System State Using Backdoors | ICAC 2004: 256-263 | 2004 | Aniruddha Bohra, Iulian Neamtiu, Pascal Gallard, Florin Sultan, Liviu Iftode |
-| 791 | Detecting Backdoor Sets with Respect to Horn and Binary Clauses | SAT 2004 | 2004 | Naomi Nishimura, Prabhakar Ragde, Stefan Szeider |
-| 792 | Backdoor Attacks on Black-Box Ciphers Exploiting Low-Entropy Plaintexts | ACISP 2003: 297-311 | 2003 | Adam L. Young, Moti Yung |
-| 793 | Automatic Backdoor Analysis with Network Intrusion Detection System and Integrated Service Checker | IAW 2003: 122-126 | 2003 | Jukka Juslin, Teemupekka Virtanen |
-| 794 | Backdoors To Typical Case Complexity | IJCAI 2003: 1173-1178 | 2003 | Ryan Williams, Carla P. Gomes, Bart Selman |
-| 795 | Detecting Backdoors | USENIX Security Symposium 2000 | 2000 | Yin Zhang, Vern Paxson |
+| 88 | DLP: towards active defense against backdoor attacks with decoupled learning process | Cybersecur. 6(1): 9 (2023) | 2023 | Zonghao Ying, Bin Wu |
+| 89 | NBA: defensive distillation for backdoor removal via neural behavior alignment | Cybersecur. 6(1): 20 (2023) | 2023 | Zonghao Ying, Bin Wu |
+| 90 | A Textual Backdoor Defense Method Based on Deep Feature Classification | Entropy 25(2): 220 (2023) | 2023 | Kun Shao, Jun-an Yang, Pengjiang Hu, Xiaoshuai Li |
+| 91 | Backdoor Attack against Face Sketch Synthesis | Entropy 25(7): 974 (2023) | 2023 | Shengchuan Zhang, Suhang Ye |
+| 92 | A defense method against backdoor attacks on neural networks | Expert Syst. Appl. 213(Part): 118990 (2023) | 2023 | Sara Kaviani, Samaneh Shamshiri, Insoo Sohn |
+| 93 | A lightweight backdoor defense framework based on image inpainting | Neurocomputing 537: 22-36 (2023) | 2023 | Yier Wei, Haichang Gao, Yufei Wang, Yipeng Gao, Huan Liu |
+| 94 | A Triggerless Backdoor Attack and Defense Mechanism for Intelligent Task Offloading in Multi-UAV Systems | IEEE Internet Things J. 10(7): 5719-5732 (2023) | 2023 | Shafkat Islam, Shahriar Badsha, Ibrahim Khalil, Mohammed Atiquzzaman, Charalambos Konstantinou |
+| 95 | Backdoor-Resistant Public Data Integrity Verification Scheme Based on Smart Contracts | IEEE Internet Things J. 10(16): 14269-14284 (2023) | 2023 | Shanshan Li, Chunxiang Xu, Yuan Zhang, Yicong Du, Anjia Yang, Xinsheng Wen, Kefei Chen |
+| 96 | Turning backdoors for efficient privacy protection against image retrieval violations | Inf. Process. Manag. 60(5): 103471 (2023) | 2023 | Qiang Liu, Tongqing Zhou, Zhiping Cai, Yuan Yuan, Ming Xu, Jiaohua Qin, Wentao Ma |
+| 97 | Unlabeled backdoor poisoning on trained-from-scratch semi-supervised learning | Inf. Sci. 647: 119453 (2023) | 2023 | Le Feng, Zhenxing Qian, Xinpeng Zhang, Sheng Li |
+| 98 | Debiasing backdoor attack: A benign application of backdoor attack in eliminating data bias | Inf. Sci. 643: 119171 (2023) | 2023 | Shangxi Wu, Qiuyang He, Yi Zhang, Dongyuan Lu, Jitao Sang |
+| 99 | Multidomain active defense: Detecting multidomain backdoor poisoned samples via ALL-to-ALL decoupling training without clean datasets | Neural Networks 168: 350-362 (2023) | 2023 | Binhao Ma, Jiahui Wang, Dejun Wang, Bo Meng |
+| 100 | How to backdoor split learning | Neural Networks 168: 326-336 (2023) | 2023 | Fangchao Yu, Lina Wang, Bo Zeng, Kai Zhao, Zhi Pang, Tian Wu |
+| 101 | TAT: Targeted backdoor attacks against visual object tracking | Pattern Recognit. 142: 109629 (2023) | 2023 | Ziyi Cheng, Baoyuan Wu, Zhenya Zhang, Jianjun Zhao |
+| 102 | Backdoor Attack on Deep Neural Networks Triggered by Fault Injection Attack on Image Sensor Interface | Sensors 23(10): 4742 (2023) | 2023 | Tatsuya Oyama, Shunsuke Okura, Kota Yoshida, Takeshi Fujino |
+| 103 | Backdoor Attack on Deep Neural Networks Triggered by Fault Injection Attack on Image Sensor Interface | ASHES@CCS 2021: 63-72 | 2021 | Tatsuya Oyama, Shunsuke Okura, Kota Yoshida, Takeshi Fujino |
+| 104 | Backdoor Pony: Evaluating backdoor attacks and defenses in different domains | SoftwareX 22: 101387 (2023) | 2023 | Arthur Mercier, Nikita Smolin, Oliver Sihlovec, Stefanos Koffas, Stjepan Picek |
+| 105 | Stealthy Frequency-Domain Backdoor Attacks: Fourier Decomposition and Fundamental Frequency Injection | IEEE Signal Process. Lett. 30: 1677-1681 (2023) | 2023 | Qianli Ma, Junping Qin, Kai Yan, Lei Wang, Hao Sun |
+| 106 | Stealthy Backdoor Attack Against Speaker Recognition Using Phase-Injection Hidden Trigger | IEEE Signal Process. Lett. 30: 1057-1061 (2023) | 2023 | Zhe Ye, Diqun Yan, Li Dong, Jiacheng Deng, Shui Yu |
+| 107 | FooBaR: Fault Fooling Backdoor Attack on Neural Network Training | IEEE Trans. Dependable Secur. Comput. 20(3): 1895-1908 (2023) | 2023 | Jakub Breier, Xiaolu Hou, Martín Ochoa, Jesus Solano |
+| 108 | Enhancing Backdoor Attacks With Multi-Level MMD Regularization | IEEE Trans. Dependable Secur. Comput. 20(2): 1675-1686 (2023) | 2023 | Pengfei Xia, Hongjing Niu, Ziqiang Li, Bin Li |
+| 109 | Backdoor Attacks for Remote Sensing Data With Wavelet Transform | IEEE Trans. Geosci. Remote. Sens. 61: 1-15 (2023) | 2023 | Nikolaus Dräger, Yonghao Xu, Pedram Ghamisi |
+| 110 | Differential Analysis of Triggers and Benign Features for Black-Box DNN Backdoor Detection | IEEE Trans. Inf. Forensics Secur. 18: 4668-4680 (2023) | 2023 | Hao Fu, Prashanth Krishnamurthy, Siddharth Garg, Farshad Khorrami |
+| 111 | Bayesian Causal Bandits with Backdoor Adjustment Prior | Trans. Mach. Learn. Res. 2023 (2023) | 2023 | Jireh Huang, Qing Zhou |
+| 112 | Pied-Piper: Revealing the Backdoor Threats in Ethereum ERC Token Contracts | ACM Trans. Softw. Eng. Methodol. 32(3): 61:1-61:24 (2023) | 2023 | Fuchen Ma, Meng Ren, Lerong Ouyang, Yuanliang Chen, Juan Zhu, Ting Chen, Yingli Zheng, Xiao Dai, Yu Jiang, Jiaguang Sun |
+| 113 | Hidden Backdoor Attack Against Deep Learning-Based Wireless Signal Modulation Classifiers | IEEE Trans. Veh. Technol. 72(9): 12396-12400 (2023) | 2023 | Yunsong Huang, Weicheng Liu, Hui-Ming Wang |
+| 114 | A stealthy and robust backdoor attack via frequency domain transform | World Wide Web (WWW) 26(5): 2767-2783 (2023) | 2023 | Ruitao Hou, Teng Huang, Hongyang Yan, Lishan Ke, Weixuan Tang |
+| 115 | Backdoor Attack Detection in Computer Vision by Applying Matrix Factorization on the Weights of Deep Networks | SafeAI@AAAI 2023 | 2023 | Khondoker Murad Hossain, Tim Oates |
+| 116 | Poisoning-Based Backdoor Attacks in Computer Vision | AAAI 2023: 16121-16122 | 2023 | Yiming Li |
+| 117 | Towards Understanding How Self-training Tolerates Data Backdoor Poisoning | SafeAI@AAAI 2023 | 2023 | Soumyadeep Pal, Ren Wang, Yuguang Yao, Sijia Liu |
+| 118 | Probabilistic Generalization of Backdoor Trees with Application to SAT | AAAI 2023: 4095-4103 | 2023 | Alexander A. Semenov, Daniil Chivilikhin, Stepan Kochemazov, Ibragim Dzhiblavi |
+| 119 | BITE: Textual Backdoor Attacks with Iterative Trigger Injection | ACL (1) 2023: 12951-12968 | 2023 | Jun Yan, Vansh Gupta, Xiang Ren |
+| 120 | A Gradient Control Method for Backdoor Attacks on Parameter-Efficient Tuning | ACL (1) 2023: 3508-3520 | 2023 | Naibin Gu, Peng Fu, Xiyu Liu, Zhengxiao Liu, Zheng Lin, Weiping Wang |
+| 121 | Defending against Insertion-based Textual Backdoor Attacks via Attribution | ACL (Findings) 2023: 8818-8833 | 2023 | Jiazhao Li, Zhuofeng Wu, Wei Ping, Chaowei Xiao, V. G. Vinod Vydiswaran |
+| 122 | Multi-target Backdoor Attacks for Code Pre-trained Models | ACL (1) 2023: 7236-7254 | 2023 | Yanzhou Li, Shangqing Liu, Kangjie Chen, Xiaofei Xie, Tianwei Zhang, Yang Liu |
+| 123 | Backdooring Neural Code Search | ACL (1) 2023: 9692-9708 | 2023 | Weisong Sun, Yuchen Chen, Guanhong Tao, Chunrong Fang, Xiangyu Zhang, Quanjun Zhang, Bin Luo |
+| 124 | Exploiting a Benign Loudspeaker as Magnetic Backdoor for Practical Injection Attacks | ACM TUR-C 2023: 145-147 | 2023 | Tiantian Liu, Feng Lin |
+| 125 | DFaP: Data Filtering and Purification Against Backdoor Attacks | AIS&P (1) 2023: 81-97 | 2023 | Haochen Wang, Tianshi Mu, Guocong Feng, ShangBo Wu, Yuanzhang Li |
+| 126 | CASSOCK: Viable Backdoor Attacks against DNN in the Wall of Source-Specific Backdoor Defenses | AsiaCCS 2023: 938-950 | 2023 | Shang Wang, Yansong Gao, Anmin Fu, Zhi Zhang, Yuqing Zhang, Willy Susilo, Dongxi Liu |
+| 127 | SolScope: Effectively Hunting Potential Permission Backdoor Threats in Smart Contracts | BIGCOM 2023: 88-95 | 2023 | Renjie Ji, Wansen Wang, Yan Xiong, Wenchao Huang |
+| 128 | Lookin' Out My Backdoor! Investigating Backdooring Attacks Against DL-driven Malware Detectors | AISec@CCS 2023: 209-220 | 2023 | Mario D'Onghia, Federico Di Cesare, Luigi Gallo, Michele Carminati, Mario Polino, Stefano Zanero |
+| 129 | Poster: Fooling XAI with Explanation-Aware Backdoors | CCS 2023: 3612-3614 | 2023 | Maximilian Noppel, Christian Wressnegger |
+| 130 | Poster: Backdoor Attack on Extreme Learning Machines | CCS 2023: 3588-3590 | 2023 | Behrad Tajalli, Gorka Abad, Stjepan Picek |
+| 131 | Attacking Neural Networks with Neural Networks: Towards Deep Synchronization for Backdoor Attacks | CIKM 2023: 608-618 | 2023 | Zihan Guan, Lichao Sun, Mengnan Du, Ninghao Liu |
+| 132 | TRGE: A Backdoor Detection After Quantization | Inscrypt (2) 2023: 394-398 | 2023 | Renhua Xie, Xuxin Fang, Bo Ma, Chuanhuang Li, Xiaoyong Yuan |
+| 133 | Vulnerabilities of Deep Learning-Driven Semantic Communications to Backdoor (Trojan) Attacks | CISS 2023: 1-6 | 2023 | Yalin E. Sagduyu, Tugba Erpek, Sennur Ulukus, Aylin Yener |
+| 134 | Blind Concealment from Reconstruction-based Attack Detectors for Industrial Control Systems via Backdoor Attacks | CPSS@AsiaCCS 2023: 36-47 | 2023 | Tim Walita, Alessandro Erba, John Henry Castellanos, Nils Ole Tippenhauer |
+| 135 | Detecting Backdoors in Pre-trained Encoders | CVPR 2023: 16352-16362 | 2023 | Shiwei Feng, Guanhong Tao, Siyuan Cheng, Guangyu Shen, Xiangzhe Xu, Yingqi Liu, Kaiyuan Zhang, Shiqing Ma, Xiangyu Zhang |
+| 136 | Backdoor Cleansing with Unlabeled Data | CVPR 2023: 12218-12227 | 2023 | Lu Pang, Tao Sun, Haibin Ling, Chao Chen |
+| 137 | Architectural Backdoors in Neural Networks | CVPR 2023: 24595-24604 | 2023 | Mikel Bober-Irizar, Ilia Shumailov, Yiren Zhao, Robert D. Mullins, Nicolas Papernot |
+| 138 | The Dark Side of Dynamic Routing Neural Networks: Towards Efficiency Backdoor Injection | CVPR 2023: 24585-24594 | 2023 | Simin Chen, Hanlin Chen, Mirazul Haque, Cong Liu, Wei Yang |
+| 139 | Backdoor Defense via Adaptively Splitting Poisoned Dataset | CVPR 2023: 4005-4014 | 2023 | Kuofeng Gao, Yang Bai, Jindong Gu, Yong Yang, Shu-Tao Xia |
+| 140 | Don't FREAK Out: A Frequency-Inspired Approach to Detecting Backdoor Poisoned Samples in DNNs | CVPR Workshops 2023: 2338-2345 | 2023 | Hasan Abed Al Kader Hammoud, Adel Bibi, Philip H. S. Torr, Bernard Ghanem |
+| 141 | Color Backdoor: A Robust Poisoning Attack in Color Space | CVPR 2023: 8133-8142 | 2023 | Wenbo Jiang, Hongwei Li, Guowen Xu, Tianwei Zhang |
+| 142 | Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency | CVPR 2023: 16363-16372 | 2023 | Xiaogeng Liu, Minghui Li, Haoyu Wang, Shengshan Hu, Dengpan Ye, Hai Jin, Libing Wu, Chaowei Xiao |
+| 143 | Single Image Backdoor Inversion via Robust Smoothed Classifiers | CVPR 2023: 8113-8122 | 2023 | Mingjie Sun, Zico Kolter |
+| 144 | Defending Against Patch-based Backdoor Attacks on Self-Supervised Learning | CVPR 2023: 12239-12249 | 2023 | Ajinkya Tejankar, Maziar Sanjabi, Qifan Wang, Sinong Wang, Hamed Firooz, Hamed Pirsiavash, Liang Tan |
+| 145 | MEDIC: Remove Model Backdoors via Importance Driven Cloning | CVPR 2023: 20485-20494 | 2023 | Qiuling Xu, Guanhong Tao, Jean Honorio, Yingqi Liu, Shengwei An, Guangyu Shen, Siyuan Cheng, Xiangyu Zhang |
+| 146 | Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger | CVPR 2023: 12250-12259 | 2023 | Yi Yu, Yufei Wang, Wenhan Yang, Shijian Lu, Yap-Peng Tan, Alex C. Kot |
+| 147 | Backdoor Defense via Deconfounded Representation Learning | CVPR 2023: 12228-12238 | 2023 | Zaixi Zhang, Qi Liu, Zhicai Wang, Zepu Lu, Qingyong Hu |
+| 148 | Don't Knock! Rowhammer at the Backdoor of DNN Models | DSN 2023: 109-122 | 2023 | M. Caner Tol, Saad Islam, Andrew J. Adiletta, Berk Sunar, Ziming Zhang |
+| 149 | Invisible Backdoor Attacks Using Data Poisoning in Frequency Domain | ECAI 2023: 2954-2961 | 2023 | Chang Yue, Peizhuo Lv, Ruigang Liang, Kai Chen |
+| 150 | Mitigating Backdoor Poisoning Attacks through the Lens of Spurious Correlation | EMNLP 2023: 953-967 | 2023 | Xuanli He, Qiongkai Xu, Jun Wang, Benjamin I. P. Rubinstein, Trevor Cohn |
+| 151 | Attention-Enhancing Backdoor Attacks Against BERT-based Models | EMNLP (Findings) 2023: 10672-10690 | 2023 | Weimin Lyu, Songzhu Zheng, Lu Pang, Haibin Ling, Chao Chen |
+| 152 | Backdoor Attacks Leveraging Latent Representation in Competitive Learning | ESORICS Workshops (2) 2023: 700-718 | 2023 | Kazuki Iwahana, Naoto Yanai, Toru Fujiwara |
+| 153 | Backdoor Mitigation in Deep Neural Networks via Strategic Retraining | FM 2023: 635-647 | 2023 | Akshay Dhonthi, Ernst Moritz Hahn, Vahid Hashemi |
+| 154 | Backdoor Attacks Against Deep Learning-Based Massive MIMO Localization | GLOBECOM 2023: 2796-2801 | 2023 | Tianya Zhao, Xuyu Wang, Shiwen Mao |
+| 155 | Fully Hidden Dynamic Trigger Backdoor Attacks | ICAART (3) 2023: 81-91 | 2023 | Shintaro Narisada, Seira Hidano, Kazuhide Fukushima |
+| 156 | QTROJAN: A Circuit Backdoor Against Quantum Neural Networks | ICASSP 2023: 1-5 | 2023 | Cheng Chu, Lei Jiang, Martin Swany, Fan Chen |
+| 157 | BadRes: Reveal the Backdoors Through Residual Connection | ICASSP 2023: 1-5 | 2023 | Mingrui He, Tianyu Chen, Haoyi Zhou, Shanghang Zhang, Jianxin Li |
+| 158 | Untargeted Backdoor Attack Against Object Detection | ICASSP 2023: 1-5 | 2023 | Chengxiao Luo, Yiming Li, Yong Jiang, Shu-Tao Xia |
+| 159 | Training Set Cleansing of Backdoor Poisoning by Self-Supervised Representation Learning | ICASSP 2023: 1-5 | 2023 | Hang Wang, Sahar Karami, Ousmane Dia, Hippolyt Ritter, Ehsan Emamjomeh-Zadeh, Jiahui Chen, Zhen Xiang, David J. Miller, George Kesidis |
+| 160 | BATT: Backdoor Attack with Transformation-Based Triggers | ICASSP 2023: 1-5 | 2023 | Tong Xu, Yiming Li, Yong Jiang, Shu-Tao Xia |
+| 161 | Backdoor Defense via Suppressing Model Shortcuts | ICASSP 2023: 1-5 | 2023 | Sheng Yang, Yiming Li, Yong Jiang, Shu-Tao Xia |
+| 162 | NCL: Textual Backdoor Defense Using Noise-Augmented Contrastive Learning | ICASSP 2023: 1-5 | 2023 | Shengfang Zhai, Qingni Shen, Xiaoyi Chen, Weilong Wang, Cong Li, Yuejian Fang, Zhonghai Wu |
+| 163 | An Empirical Study of Backdoor Attacks on Masked Auto Encoders | ICASSP 2023: 1-5 | 2023 | Shuli Zhuang, Pengfei Xia, Bin Li |
+| 164 | Random Location Poisoning Backdoor Attack Against Automatic Modulation Classification in Wireless Networks | ICCC 2023: 1-6 | 2023 | Zixin Li, Hang Jiang, Sicheng Zhang, Wei Xiang, Yun Lin |
+| 165 | Stealthy Backdoor Attack on RF Signal Classification | ICCCN 2023: 1-10 | 2023 | Tianming Zhao, Zijie Tang, Tianfang Zhang, Huy Phan, Yan Wang, Cong Shi, Bo Yuan, Yingying Chen |
+| 166 | Countermeasure against Backdoor Attack for Deep Learning-Based Phishing Detection | ICCE-Taiwan 2023: 651-652 | 2023 | Koko Nishiura, Tomotaka Kimura, Jun Cheng |
+| 167 | Invisible Encoded Backdoor attack on DNNs using Conditional GAN | ICCE 2023: 1-5 | 2023 | Iram Arshad, Yuansong Qiao, Brian Lee, Yuhang Ye |
+| 168 | An Embarrassingly Simple Backdoor Attack on Self-supervised Learning | ICCV 2023: 4344-4355 | 2023 | Changjiang Li, Ren Pang, Zhaohan Xi, Tianyu Du, Shouling Ji, Yuan Yao, Ting Wang |
+| 169 | Beating Backdoor Attack at Its Own Game | ICCV 2023: 4597-4606 | 2023 | Min Liu, Alberto L. Sangiovanni-Vincentelli, Xiangyu Yue |
+| 170 | The Perils of Learning From Unlabeled Data: Backdoor Attacks on Semi-supervised Learning | ICCV 2023: 4707-4717 | 2023 | Virat Shejwalkar, Lingjuan Lyu, Amir Houmansadr |
+| 171 | Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis | ICCV 2023: 4561-4573 | 2023 | Lukas Struppek, Dominik Hintersdorf, Kristian Kersting |
+| 172 | TIJO: Trigger Inversion with Joint Optimization for Defending Multimodal Backdoored Models | ICCV 2023: 165-175 | 2023 | Indranil Sur, Karan Sikka, Matthew Walmer, Kaushik Koneripalli, Anirban Roy, Xiao Lin, Ajay Divakaran, Susmit Jha |
+| 173 | Computation and Data Efficient Backdoor Attacks | ICCV 2023: 4782-4791 | 2023 | Yutong Wu, Xingshuo Han, Han Qiu, Tianwei Zhang |
+| 174 | Enhancing Fine-Tuning based Backdoor Defense with Sharpness-Aware Minimization | ICCV 2023: 4443-4454 | 2023 | Mingli Zhu, Shaokui Wei, Li Shen, Yanbo Fan, Baoyuan Wu |
+| 175 | BHAC-MRI: Backdoor and Hybrid Attacks on MRI Brain Tumor Classification Using CNN | ICIAP (2) 2023: 332-344 | 2023 | Muhammad Imran, Hassaan Khaliq Qureshi, Irene Amerini |
+| 176 | Neural Network Backdoor Attacks Fully Controlled by Composite Natural Utterance Fragments | ICICS 2023: 451-466 | 2023 | Xubo Yang, Linsen Li, Yenan Chen |
+| 177 | Efficient any-Target Backdoor Attack with Pseudo Poisoned Samples | ICIP 2023: 3319-3323 | 2023 | Bin Huang, Zhi Wang |
+| 178 | CSSBA: A Clean Label Sample-Specific Backdoor Attack | ICIP 2023: 965-969 | 2023 | Zihan Shen, Wei Hou, Yun Li |
+| 179 | Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only | ICLR 2023 | 2023 | Kangjie Chen, Xiaoxuan Lou, Guowen Xu, Jiwei Li, Tianwei Zhang |
+| 180 | SCALE-UP: An Efficient Black-box Input-level Backdoor Detection via Analyzing Scaled Prediction Consistency | ICLR 2023 | 2023 | Junfeng Guo, Yiming Li, Xun Chen, Hanqing Guo, Lichao Sun, Cong Liu |
+| 181 | Distilling Cognitive Backdoor Patterns within an Image | ICLR 2023 | 2023 | Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, James Bailey |
+| 182 | Incompatibility Clustering as a Defense Against Backdoor Poisoning Attacks | ICLR 2023 | 2023 | Charles Jin, Melinda Sun, Martin C. Rinard |
+| 183 | The Dark Side of AutoML: Towards Architectural Backdoor Search | ICLR 2023 | 2023 | Ren Pang, Changjiang Li, Zhaohan Xi, Shouling Ji, Ting Wang |
+| 184 | Revisiting the Assumption of Latent Separability for Backdoor Defenses | ICLR 2023 | 2023 | Xiangyu Qi, Tinghao Xie, Yiming Li, Saeed Mahloujifar, Prateek Mittal |
+| 185 | UNICORN: A Unified Backdoor Trigger Inversion Framework | ICLR 2023 | 2023 | Zhenting Wang, Kai Mei, Juan Zhai, Shiqing Ma |
+| 186 | Rethinking Backdoor Attacks | ICML 2023: 16216-16236 | 2023 | Alaa Khaddaj, Guillaume Leclerc, Aleksandar Makelov, Kristian Georgiev, Hadi Salman, Andrew Ilyas, Aleksander Madry |
+| 187 | Reconstructive Neuron Pruning for Backdoor Defense | ICML 2023: 19837-19854 | 2023 | Yige Li, Xixiang Lyu, Xingjun Ma, Nodens Koren, Lingjuan Lyu, Bo Li, Yu-Gang Jiang |
+| 188 | Understanding Backdoor Attacks through the Adaptability Hypothesis | ICML 2023: 37952-37976 | 2023 | Xun Xian, Ganghua Wang, Jayanth Srinivasa, Ashish Kundu, Xuan Bi, Mingyi Hong, Jie Ding |
+| 189 | UMD: Unsupervised Model Detection for X2X Backdoor Attacks | ICML 2023: 38013-38038 | 2023 | Zhen Xiang, Zidi Xiong, Bo Li |
+| 190 | SDBC: A Novel and Effective Self-Distillation Backdoor Cleansing Approach | ICONIP (12) 2023: 285-297 | 2023 | Sheng Ran, Baolin Zheng, Mingwei Sun |
+| 191 | MIC: An Effective Defense Against Word-Level Textual Backdoor Attacks | ICONIP (6) 2023: 3-18 | 2023 | Shufan Yang, Qianmu Li, Zhichao Lian, Pengchuan Wang, Jun Hou |
+| 192 | X-HDNN: Explainable Hybrid DNN for Industrial Internet of Things Backdoor Attack Detection | ICTC 2023: 1053-1057 | 2023 | Love Allen Chijioke Ahakonye, Cosmas Ifeanyi Nwakanma, Jae Min Lee, Dong-Seong Kim |
+| 193 | Orion: Online Backdoor Sample Detection via Evolution Deviance | IJCAI 2023: 864-874 | 2023 | Huayang Huang, Qian Wang, Xueluan Gong, Tao Wang |
+| 194 | Backdoor Attack on Deep Neural Networks in Perception Domain | IJCNN 2023: 1-8 | 2023 | Xiaoxing Mo, Leo Yu Zhang, Nan Sun, Wei Luo, Shang Gao |
+| 195 | Computational Color Constancy-Based Backdoor Attacks | ISPA 2023: 1-6 | 2023 | Donik Vrsnak, Ivan Sabolic, Marko Subasic, Sven Loncaric |
+| 196 | SDN Application Backdoor: Disrupting the Service via Poisoning the Topology | INFOCOM 2023: 1-10 | 2023 | Shuhua Deng, Xian Qing, Xiaofan Li, Xing Gao, Xieping Gao |
+| 197 | Mind Your Heart: Stealthy Backdoor Attack on Dynamic Deep Neural Network in Edge Computing | INFOCOM 2023: 1-10 | 2023 | Tian Dong, Ziyuan Zhang, Han Qiu, Tianwei Zhang, Hewu Li, Terry Wang |
+| 198 | SEBD: Sensor Emulation Based Backdoor for Autopilot | IoT 2023: 265-269 | 2023 | Yue Wang, Chao Yang, Ning Xi, Yulong Shen, Jianfeng Ma |
+| 199 | DUBIOUS: Detecting Unknown Backdoored Input by Observing Unusual Signatures | MILCOM 2023: 696-702 | 2023 | Matthew Yudin, Rauf Izmailov |
+| 200 | Robust Sentiment Classification Based on the Backdoor Adjustment | MLNLP 2023: 41-47 | 2023 | Lulu Dai, Mingyue Han |
+| 201 | PatchBackdoor: Backdoor Attack against Deep Neural Networks without Model Modification | ACM Multimedia 2023: 9134-9142 | 2023 | Yizhen Yuan, Rui Kong, Shenghao Xie, Yuanchun Li, Yunxin Liu |
+| 202 | Model-Contrastive Learning for Backdoor Elimination | ACM Multimedia 2023: 8869-8880 | 2023 | Zhihao Yue, Jun Xia, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Chen |
+| 203 | MASTERKEY: Practical Backdoor Attack Against Speaker Verification Systems | MobiCom 2023: 48:1-48:15 | 2023 | Hanqing Guo, Xun Chen, Junfeng Guo, Li Xiao, Qiben Yan |
+| 204 | BEAGLE: Forensics of Deep Learning Backdoor Attack for Better Defense | NDSS 2023 | 2023 | Siyuan Cheng, Guanhong Tao, Yingqi Liu, Shengwei An, Xiangzhe Xu, Shiwei Feng, Guangyu Shen, Kaiyuan Zhang, Qiuling Xu, Shiqing Ma, Xiangyu Zhang |
+| 205 | Backdoor Attacks Against Dataset Distillation | NDSS 2023 | 2023 | Yugeng Liu, Zheng Li, Michael Backes, Yun Shen, Yang Zhang |
+| 206 | The "Beatrix" Resurrections: Robust Backdoor Detection via Gram Matrices | NDSS 2023 | 2023 | Wanlun Ma, Derui Wang, Ruoxi Sun, Minhui Xue, Sheng Wen, Yang Xiang |
+| 207 | BadTrack: A Poison-Only Backdoor Attack on Visual Object Tracking | NeurIPS 2023 | 2023 | Bin Huang, Jiaqian Yu, Yiwei Chen, Siyang Pan, Qiang Wang, Zhi Wang |
+| 208 | Towards Stable Backdoor Purification through Feature Shift Tuning | NeurIPS 2023 | 2023 | Rui Min, Zeyu Qin, Li Shen, Minhao Cheng |
+| 209 | A Unified Detection Framework for Inference-Stage Backdoor Defenses | NeurIPS 2023 | 2023 | Xun Xian, Ganghua Wang, Jayanth Srinivasa, Ashish Kundu, Xuan Bi, Mingyi Hong, Jie Ding |
+| 210 | CBD: A Certified Backdoor Detector Based on Local Dominant Probability | NeurIPS 2023 | 2023 | Zhen Xiang, Zidi Xiong, Bo Li |
+| 211 | Neural Polarizer: A Lightweight and Effective Backdoor Defense via Purifying Poisoned Features | NeurIPS 2023 | 2023 | Mingli Zhu, Shaokui Wei, Hongyuan Zha, Baoyuan Wu |
+| 212 | IMTM: Invisible Multi-trigger Multimodal Backdoor Attack | NLPCC (2) 2023: 533-545 | 2023 | Zhicheng Li, Piji Li, Xuan Sheng, Changchun Yin, Lu Zhou |
+| 213 | Defending Against Backdoor Attacks by Layer-wise Feature Analysis | PAKDD (2) 2023: 428-440 | 2023 | Najeeb Moharram Jebreel, Josep Domingo-Ferrer, Yiming Li |
+| 214 | QDoor: Exploiting Approximate Synthesis for Backdoor Attacks in Quantum Neural Networks | QCE 2023: 1098-1106 | 2023 | Cheng Chu, Fan Chen, Philip Richerme, Lei Jiang |
+| 215 | Redeem Myself: Purifying Backdoors in Deep Learning Models using Self Attention Distillation | SP 2023: 755-772 | 2023 | Xueluan Gong, Yanjiao Chen, Wang Yang, Qian Wang, Yuzhe Gu, Huayang Huang, Chao Shen |
+| 216 | MagBackdoor: Beware of Your Loudspeaker as A Backdoor For Magnetic Injection Attacks | SP 2023: 3416-3431 | 2023 | Tiantian Liu, Feng Lin, Zhangsen Wang, Chao Wang, Zhongjie Ba, Li Lu, Wenyao Xu, Kui Ren |
+| 217 | Disguising Attacks with Explanation-Aware Backdoors | SP 2023: 664-681 | 2023 | Maximilian Noppel, Lukas Peter, Christian Wressnegger |
+| 218 | On Feasibility of Server-side Backdoor Attacks on Split Learning | SP (Workshops) 2023: 84-93 | 2023 | Behrad Tajalli, Oguzhan Ersoy, Stjepan Picek |
+| 219 | RAB: Provable Robustness Against Backdoor Attacks | SP 2023: 1311-1328 | 2023 | Maurice Weber, Xiaojun Xu, Bojan Karlas, Ce Zhang, Bo Li |
+| 220 | Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers | SP 2023: 719-736 | 2023 | Limin Yang, Zhi Chen, Jacopo Cortellazzi, Feargus Pendlebury, Kevin Tu, Fabio Pierazzi, Lorenzo Cavallaro, Gang Wang |
+| 221 | TransCAB: Transferable Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World | SRDS 2023: 82-92 | 2023 | Hua Ma, Yinshan Li, Yansong Gao, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said F. Al-Sarawi, Surya Nepal, Derek Abbott |
+| 222 | Training Data Leakage via Imperceptible Backdoor Attack | SSCI 2023: 1553-1559 | 2023 | Xiangkai Yang, Wenjian Luo, Qi Zhou, Zhijian Chen |
+| 223 | Immunizing Backdoored PRGs | TCC (3) 2023: 153-182 | 2023 | Marshall Ball, Yevgeniy Dodis, Eli Goldin |
+| 224 | Immunizing Backdoored PRGs | IACR Cryptol. ePrint Arch. 2023: 1778 (2023) | 2023 | Marshall Ball, Yevgeniy Dodis, Eli Goldin |
+| 225 | PELICAN: Exploiting Backdoors of Naturally Trained Deep Learning Models In Binary Code Analysis | USENIX Security Symposium 2023: 2365-2382 | 2023 | Zhuo Zhang, Guanhong Tao, Guangyu Shen, Shengwei An, Qiuling Xu, Yingqi Liu, Yapeng Ye, Yaoxuan Wu, Xiangyu Zhang |
+| 226 | VILLAIN: Backdoor Attacks Against Vertical Split Learning | USENIX Security Symposium 2023: 2743-2760 | 2023 | Yijie Bai, Yanjiao Chen, Hanlei Zhang, Wenyuan Xu, Haiqin Weng, Dou Goodman |
+| 227 | A Data-free Backdoor Injection Approach in Neural Networks | USENIX Security Symposium 2023: 2671-2688 | 2023 | Peizhuo Lv, Chang Yue, Ruigang Liang, Yunfei Yang, Shengzhi Zhang, Hualong Ma, Kai Chen |
+| 228 | ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms | USENIX Security Symposium 2023: 2725-2742 | 2023 | Minzhou Pan, Yi Zeng, Lingjuan Lyu, Xue Lin, Ruoxi Jia |
+| 229 | Towards A Proactive ML Approach for Detecting Backdoor Poison Samples | USENIX Security Symposium 2023: 1685-1702 | 2023 | Xiangyu Qi, Tinghao Xie, Jiachen T. Wang, Tong Wu, Saeed Mahloujifar, Prateek Mittal |
+| 230 | Sparsity Brings Vulnerabilities: Exploring New Metrics in Backdoor Attacks | USENIX Security Symposium 2023: 2689-2706 | 2023 | Jianwen Tian, Kefan Qiu, Debin Gao, Zhi Wang, Xiaohui Kuang, Gang Zhao |
+| 231 | Aliasing Backdoor Attacks on Pre-trained Models | USENIX Security Symposium 2023: 2707-2724 | 2023 | Cheng'an Wei, Yeonjoon Lee, Kai Chen, Guozhu Meng, Peizhuo Lv |
+| 232 | Silent Killer: Optimizing Backdoor Trigger Yields a Stealthy and Powerful Data Poisoning Attack | CoRR abs/2301.02615 (2023) | 2023 | Tzvi Lederer, Gallil Maimon, Lior Rokach |
+| 233 | PECAN: A Deterministic Certified Defense Against Backdoor Attacks | CoRR abs/2301.11824 (2023) | 2023 | Yuhao Zhang, Aws Albarghouthi, Loris D'Antoni |
+| 234 | Gradient Shaping: Enhancing Backdoor Attack Against Reverse Engineering | CoRR abs/2301.12318 (2023) | 2023 | Rui Zhu, Di Tang, Siyuan Tang, Guanhong Tao, Shiqing Ma, XiaoFeng Wang, Haixu Tang |
+| 235 | A Systematic Evaluation of Backdoor Trigger Characteristics in Image Classification | CoRR abs/2302.01740 (2023) | 2023 | Gorka Abad, Jing Xu, Stefanos Koffas, Behrad Tajalli, Stjepan Picek |
+| 236 | BackdoorBox: A Python Toolbox for Backdoor Learning | CoRR abs/2302.01762 (2023) | 2023 | Yiming Li, Mengxi Ya, Yang Bai, Yong Jiang, Shu-Tao Xia |
+| 237 | Imperceptible Sample-Specific Backdoor to DNN with Denoising Autoencoder | CoRR abs/2302.04457 (2023) | 2023 | Jiliang Zhang, Jing Xu, Zhi Zhang, Yansong Gao |
+| 238 | Hyperparameter Search Is All You Need For Training-Agnostic Backdoor Robustness | CoRR abs/2302.04977 (2023) | 2023 | Eugene Bagdasaryan, Vitaly Shmatikov |
+| 239 | Sneaky Spikes: Uncovering Stealthy Backdoor Attacks in Spiking Neural Networks with Neuromorphic Data | CoRR abs/2302.06279 (2023) | 2023 | Gorka Abad, Oguzhan Ersoy, Stjepan Picek, Aitor Urbieta |
+| 240 | Backdoor Attacks to Pre-trained Unified Foundation Models | CoRR abs/2302.09360 (2023) | 2023 | Zenghui Yuan, Yixin Liu, Kai Zhang, Pan Zhou, Lichao Sun |
+| 241 | SATBA: An Invisible Backdoor Attack Based On Spatial Attention | CoRR abs/2302.13056 (2023) | 2023 | Huasong Zhou, Zhenyu Wang, Xiaowei Xu |
+| 242 | Backdoor for Debias: Mitigating Model Bias with Backdoor Attack-based Artificial Bias | CoRR abs/2303.01504 (2023) | 2023 | Shangxi Wu, Qiuyang He, Fangzhao Wu, Jitao Sang, Yaowei Wang, Changsheng Xu |
+| 243 | Do Backdoors Assist Membership Inference Attacks | CoRR abs/2303.12589 (2023) | 2023 | Yumeki Goto, Nami Ashizawa, Toshiki Shibahara, Naoto Yanai |
+| 244 | Mask and Restore: Blind Backdoor Defense at Test Time with Masked Autoencoder | CoRR abs/2303.15564 (2023) | 2023 | Tao Sun, Lu Pang, Chao Chen, Haibin Ling |
+| 245 | Launching a Robust Backdoor Attack under Capability Constrained Scenarios | CoRR abs/2304.10985 (2023) | 2023 | Ming Yi, Yixiao Xu, Kangyi Ding, Mingyong Yin, Xiaolei Liu |
+| 246 | BadGPT: Exploring Security Vulnerabilities of ChatGPT via Backdoor Attacks to InstructGPT | CoRR abs/2304.12298 (2023) | 2023 | Jiawen Shi, Yixin Liu, Pan Zhou, Lichao Sun |
+| 247 | ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger | CoRR abs/2304.14475 (2023) | 2023 | Jiazhao Li, Yijin Yang, Zhuofeng Wu, V. G. Vinod Vydiswaran, Chaowei Xiao |
+| 248 | Backdoor Learning on Sequence to Sequence Models | CoRR abs/2305.02424 (2023) | 2023 | Lichang Chen, Minhao Cheng, Heng Huang |
+| 249 | BadSAM: Exploring Security Vulnerabilities of SAM via Backdoor Attacks | CoRR abs/2305.03289 (2023) | 2023 | Zihan Guan, Mengxuan Hu, Zhongliang Zhou, Jielu Zhang, Sheng Li, Ninghao Liu |
+| 250 | BadCS: A Backdoor Attack Framework for Code search | CoRR abs/2305.05503 (2023) | 2023 | Shiyi Qi, Yuanhang Yang, Shuzheng Gao, Cuiyun Gao, Zenglin Xu |
+| 251 | Backdoor to the Hidden Ground State: Planted Vertex Cover Example | CoRR abs/2305.06610 (2023) | 2023 | Xin-Yi Fan, Hai-Jun Zhou |
+| 252 | Stealthy Low-frequency Backdoor Attack against Deep Neural Networks | CoRR abs/2305.09677 (2023) | 2023 | Xinrui Liu, Yu-an Tan, Yajie Wang, Kefan Qiu, Yuanzhang Li |
+| 253 | Towards Invisible Backdoor Attacks in the Frequency Domain against Deep Neural Networks | CoRR abs/2305.10596 (2023) | 2023 | Xinrui Liu, Yajie Wang, Yu-An Tan, Kefan Qiu, Yuanzhang Li |
+| 254 | From Shortcuts to Triggers: Backdoor Defense with Denoised PoE | CoRR abs/2305.14910 (2023) | 2023 | Qin Liu, Fei Wang, Chaowei Xiao, Muhao Chen |
+| 255 | IMBERT: Making BERT Immune to Insertion-based Backdoor Attacks | CoRR abs/2305.16503 (2023) | 2023 | Xuanli He, Jun Wang, Benjamin I. P. Rubinstein, Trevor Cohn |
+| 256 | Backdoor Attacks Against Incremental Learners: An Empirical Evaluation Study | CoRR abs/2305.18384 (2023) | 2023 | Yiqi Zhong, Xianming Liu, Deming Zhai, Junjun Jiang, Xiangyang Ji |
+| 257 | Robust Backdoor Attack with Visible, Semantic, Sample-Specific, and Compatible Triggers | CoRR abs/2306.00816 (2023) | 2023 | Ruotong Wang, Hongrui Chen, Zihao Zhu, Li Liu, Yong Zhang, Yanbo Fan, Baoyuan Wu |
+| 258 | Mitigating Backdoor Attack Via Prerequisite Transformation | CoRR abs/2306.01983 (2023) | 2023 | Han Gao |
+| 259 | Backdoor Attack with Sparse and Invisible Trigger | CoRR abs/2306.06209 (2023) | 2023 | Yinghua Gao, Yiming Li, Xueluan Gong, Shu-Tao Xia, Qian Wang |
+| 260 | A Proxy-Free Strategy for Practically Improving the Poisoning Efficiency in Backdoor Attacks | CoRR abs/2306.08313 (2023) | 2023 | Ziqiang Li, Hong Sun, Pengfei Xia, Beihao Xia, Xue Rui, Wei Zhang, Bin Li |
+| 261 | Efficient Backdoor Attacks for Deep Neural Networks in Real-world Scenarios | CoRR abs/2306.08386 (2023) | 2023 | Hong Sun, Ziqiang Li, Pengfei Xia, Heng Li, Beihao Xia, Yi Wu, Bin Li |
+| 262 | IMPOSITION: Implicit Backdoor Attack through Scenario Injection | CoRR abs/2306.15755 (2023) | 2023 | Mozhgan PourKeshavarz, Mohammad Sabokrou, Amir Rasouli |
+| 263 | Efficient Backdoor Removal Through Natural Gradient Fine-tuning | CoRR abs/2306.17441 (2023) | 2023 | Nazmul Karim, Abdullah Al Arafat, Umar Khalid, Zhishan Guo, Nazanin Rahnavard |
+| 264 | Boosting Backdoor Attack with A Learnable Poisoning Sample Selection Strategy | CoRR abs/2307.07328 (2023) | 2023 | Zihao Zhu, Mingda Zhang, Shaokui Wei, Li Shen, Yanbo Fan, Baoyuan Wu |
+| 265 | Backdoor Attack against Object Detection with Clean Annotation | CoRR abs/2307.10487 (2023) | 2023 | Yize Cheng, Wenbin Hu, Minhao Cheng |
+| 266 | FMT: Removing Backdoor Feature Maps via Feature Map Testing in Deep Neural Networks | CoRR abs/2307.11565 (2023) | 2023 | Dong Huang, Qingwen Bu, Yahao Qing, Yichao Fu, Heming Cui |
+| 267 | BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models | CoRR abs/2307.16489 (2023) | 2023 | Jordan Vice, Naveed Akhtar, Richard Hartley, Ajmal Mian |
+| 268 | Test-Time Adaptation for Backdoor Defense | CoRR abs/2308.06107 (2023) | 2023 | Jiyang Guan, Jian Liang, Ran He |
+| 269 | Backdoor Mitigation by Correcting the Distribution of Neural Activations | CoRR abs/2308.09850 (2023) | 2023 | Xi Li, Zhen Xiang, David J. Miller, George Kesidis |
+| 270 | Hiding Backdoors within Event Sequence Data via Poisoning Attacks | CoRR abs/2308.10201 (2023) | 2023 | Elizaveta Kovtun, Alina Ermilova, Dmitry Berestnev, Alexey Zaytsev |
+| 271 | Backdooring Textual Inversion for Concept Censorship | CoRR abs/2308.10718 (2023) | 2023 | Yutong Wu, Jie Zhang, Florian Kerschbaum, Tianwei Zhang |
+| 272 | BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection | CoRR abs/2308.12439 (2023) | 2023 | Tinghao Xie, Xiangyu Qi, Ping He, Yiming Li, Jiachen T. Wang, Prateek Mittal |
+| 273 | LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors | CoRR abs/2308.13904 (2023) | 2023 | Chengkun Wei, Wenlong Meng, Zhikun Zhang, Min Chen, Minghu Zhao, Wenjing Fang, Lei Wang, Zihui Zhang, Wenzhi Chen |
+| 274 | Everyone Can Attack: Repurpose Lossy Compression as a Natural Backdoor Attack | CoRR abs/2308.16684 (2023) | 2023 | Sze Jue Yang, Quang H. Nguyen, Chee Seng Chan, Khoa Doan |
+| 275 | Robust Backdoor Attacks on Object Detection in Real World | CoRR abs/2309.08953 (2023) | 2023 | Yaguan Qian, Boyuan Ji, Shuke He, Shenhui Huang, Xiang Ling, Bin Wang, Wei Wang |
+| 276 | Horizontal Class Backdoor to Deep Learning | CoRR abs/2310.00542 (2023) | 2023 | Hua Ma, Shang Wang, Yansong Gao |
+| 277 | GhostEncoder: Stealthy Backdoor Attacks with Dynamic Triggers to Pre-trained Encoders in Self-supervised Learning | CoRR abs/2310.00626 (2023) | 2023 | Qiannan Wang, Changchun Yin, Zhe Liu, Liming Fang, Run Wang, Chenhao Lin |
+| 278 | Backdoor Adjustment of Confounding by Provenance for Robust Text Classification of Multi-institutional Clinical Notes | CoRR abs/2310.02451 (2023) | 2023 | Xiruo Ding, Zhecheng Sheng, Meliha Yetisgen, Serguei Pakhomov, Trevor Cohen |
+| 279 | Confidence-driven Sampling for Backdoor Attacks | CoRR abs/2310.05263 (2023) | 2023 | Pengfei He, Han Xu, Yue Xing, Jie Ren, Yingqian Cui, Shenglai Zeng, Jiliang Tang, Makoto Yamada, Mohammad Sabokrou |
+| 280 | Better Safe than Sorry: Pre-training CLIP against Targeted Data Poisoning and Backdoor Attacks | CoRR abs/2310.05862 (2023) | 2023 | Wenhan Yang, Jingdong Gao, Baharan Mirzasoleiman |
+| 281 | High Dimensional Causal Inference with Variational Backdoor Adjustment | CoRR abs/2310.06100 (2023) | 2023 | Daniel Israel, Aditya Grover, Guy Van den Broeck |
+| 282 | Prompt Backdoors in Visual Prompt Learning | CoRR abs/2310.07632 (2023) | 2023 | Hai Huang, Zhengyu Zhao, Michael Backes, Yun Shen, Yang Zhang |
+| 283 | Invisible Threats: Backdoor Attack in OCR Systems | CoRR abs/2310.08259 (2023) | 2023 | Mauro Conti, Nicola Farronato, Stefanos Koffas, Luca Pajola, Stjepan Picek |
+| 284 | Defending Our Privacy With Backdoors | CoRR abs/2310.08320 (2023) | 2023 | Dominik Hintersdorf, Lukas Struppek, Daniel Neider, Kristian Kersting |
+| 285 | Explore the Effect of Data Selection on Poison Efficiency in Backdoor Attacks | CoRR abs/2310.09744 (2023) | 2023 | Ziqiang Li, Pengfei Xia, Hong Sun, Yueqi Zeng, Wei Zhang, Bin Li |
+| 286 | Demystifying Poisoning Backdoor Attacks from a Statistical Perspective | CoRR abs/2310.10780 (2023) | 2023 | Ganghua Wang, Xun Xian, Jayanth Srinivasa, Ashish Kundu, Xuan Bi, Mingyi Hong, Jie Ding |
+| 287 | WaveAttack: Asymmetric Frequency Obfuscation-based Backdoor Attacks Against Deep Neural Networks | CoRR abs/2310.11595 (2023) | 2023 | Jun Xia, Zhihao Yue, Yingbo Zhou, Zhiwei Ling, Xian Wei, Mingsong Chen |
+| 288 | Does Differential Privacy Prevent Backdoor Attacks in Practice | CoRR abs/2311.06227 (2023) | 2023 | Fereshteh Razmi, Jian Lou, Li Xiong |
+| 289 | Mitigating Backdoors within Deep Neural Networks in Data-limited Configuration | CoRR abs/2311.07417 (2023) | 2023 | Soroush Hashemifar, Saeed Parsa, Morteza Zakeri Nasrabadi |
+| 290 | TextGuard: Provable Defense against Backdoor Attacks on Text Classification | CoRR abs/2311.11225 (2023) | 2023 | Hengzhi Pei, Jinyuan Jia, Wenbo Guo, Bo Li, Dawn Song |
+| 291 | Effective Backdoor Mitigation Depends on the Pre-training Objective | CoRR abs/2311.14948 (2023) | 2023 | Sahil Verma, Gantavya Bhatt, Avi Schwarzschild, Soumye Singhal, Arnav Mohanty Das, Chirag Shah, John P. Dickerson, Jeff A. Bilmes |
+| 292 | BadCLIP: Trigger-Aware Prompt Learning for Backdoor Attacks on CLIP | CoRR abs/2311.16194 (2023) | 2023 | Jiawang Bai, Kuofeng Gao, Shaobo Min, Shu-Tao Xia, Zhifeng Li, Wei Liu |
+| 293 | Rethinking Backdoor Attacks on Dataset Distillation: A Kernel Method Perspective | CoRR abs/2311.16646 (2023) | 2023 | Ming-Yu Chung, Sheng-Yen Chou, Chia-Mu Yu, Pin-Yu Chen, Sy-Yen Kuo, Tsung-Yi Ho |
+| 294 | Robust Backdoor Detection for Deep Learning via Topological Evolution Dynamics | CoRR abs/2312.02673 (2023) | 2023 | Xiaoxing Mo, Yechao Zhang, Leo Yu Zhang, Wei Luo, Nan Sun, Shengshan Hu, Shang Gao, Yang Xiang |
+| 295 | Towards Sample-specific Backdoor Attack with Clean Labels via Attribute Trigger | CoRR abs/2312.04584 (2023) | 2023 | Yiming Li, Mingyan Zhu, Junfeng Guo, Tao Wei, Shu-Tao Xia, Zhan Qin |
+| 296 | BELT: Old-School Backdoor Attacks can Evade the State-of-the-Art Defense with Backdoor Exclusivity Lifting | CoRR abs/2312.04902 (2023) | 2023 | Huming Qiu, Junjie Sun, Mi Zhang, Xudong Pan, Min Yang |
+| 297 | Activation Gradient based Poisoned Sample Detection Against Backdoor Attacks | CoRR abs/2312.06230 (2023) | 2023 | Danni Yuan, Shaokui Wei, Mingda Zhang, Li Liu, Baoyuan Wu |
+| 298 | Erasing Self-Supervised Learning Backdoor by Cluster Activation Masking | CoRR abs/2312.07955 (2023) | 2023 | Shengsheng Qian, Yifei Wang, Dizhan Xue, Shengjie Zhang, Huaiwen Zhang, Changsheng Xu |
+| 299 | On the Difficulty of Defending Contrastive Learning against Backdoor Attacks | CoRR abs/2312.09057 (2023) | 2023 | Changjiang Li, Ren Pang, Bochuan Cao, Zhaohan Xi, Jinghui Chen, Shouling Ji, Ting Wang |
+| 300 | UltraClean: A Simple Framework to Train Robust Neural Networks against Backdoor Attacks | CoRR abs/2312.10657 (2023) | 2023 | Bingyin Zhao, Yingjie Lao |
+| 301 | Manipulating Trajectory Prediction with Backdoors | CoRR abs/2312.13863 (2023) | 2023 | Kaouther Messaoud, Kathrin Grosse, Mickaël Chen, Matthieu Cord, Patrick Pérez, Alexandre Alahi |
+| 302 | (Withdrawn) BadCLIP: Dual-Embedding Guided Backdoor Attack on Multimodal Contrastive Learning | CoRR abs/2311.12075 (2023) | 2023 | Siyuan Liang, Mingli Zhu, Aishan Liu, Baoyuan Wu, Xiaochun Cao, Ee-Chien Chang |
+| 303 | A collaborative deep learning microservice for backdoor defenses in Industrial IoT networks | Ad Hoc Networks 124: 102727 (2022) | 2022 | Qin Liu, Liqiong Chen, Hongbo Jiang, Jie Wu, Tian Wang, Tao Peng, Guojun Wang |
+| 304 | Boosting the Performance of CDCL-Based SAT Solvers by Exploiting Backbones and Backdoors | Algorithms 15(9): 302 (2022) | 2022 | Tasniem Nasser Al-Yahya, Mohamed El Bachir Menai, Hassan Mathkour |
+| 305 | Active intellectual property protection for deep neural networks through stealthy backdoor and users' identities authentication | Appl. Intell. 52(14): 16497-16511 (2022) | 2022 | Mingfu Xue, Shichang Sun, Yushu Zhang, Jian Wang, Weiqiang Liu |
+| 306 | Backdoor smoothing: Demystifying backdoor attacks on deep neural networks | Comput. Secur. 120: 102814 (2022) | 2022 | Kathrin Grosse, Taesung Lee, Battista Biggio, Youngja Park, Michael Backes, Ian M. Molloy |
+| 307 | Experimental Study of Fault Injection Attack on Image Sensor Interface for Triggering Backdoored DNN Models | IEICE Trans. Fundam. Electron. Commun. Comput. Sci. 105-A(3): 336-343 (2022) | 2022 | Tatsuya Oyama, Shunsuke Okura, Kota Yoshida, Takeshi Fujino |
+| 308 | Multi-Model Selective Backdoor Attack with Different Trigger Positions | IEICE Trans. Inf. Syst. 105-D(1): 170-174 (2022) | 2022 | Hyun Kwon |
+| 309 | A multitarget backdooring attack on deep neural networks with random location trigger | Int. J. Intell. Syst. 37(3): 2567-2583 (2022) | 2022 | Xiao Yu, Liu Cong, Mingwen Zheng, Yajie Wang, Xinrui Liu, Song Shuxiao, Ma Yuexuan, Zheng Jun |
+| 310 | Susceptibility & defense of satellite image-trained convolutional networks to backdoor attacks | Inf. Sci. 603: 244-261 (2022) | 2022 | Ethan Brewer, Jason Lin, Daniel S. Miller Runfola |
+| 311 | Robust backdoor injection with the capability of resisting network transfer | Inf. Sci. 612: 594-611 (2022) | 2022 | Le Feng, Sheng Li, Zhenxing Qian, Xinpeng Zhang |
+| 312 | Backdoor-resistant identity-based proxy re-encryption for cloud-assisted wireless body area networks | Inf. Sci. 604: 80-96 (2022) | 2022 | Yuyang Zhou, Liang Zhao, Yuqiao Jin, Fagen Li |
+| 313 | BlindNet backdoor: Attack on deep neural network using blind watermark | Multim. Tools Appl. 81(5): 6217-6234 (2022) | 2022 | Hyun Kwon, Yongchul Kim |
+| 314 | MP-BADNet+: Secure and effective backdoor attack detection and mitigation protocols among multi-participants in private DNNs | Peer-to-Peer Netw. Appl. 15(6): 2457-2473 (2022) | 2022 | Congcong Chen, Lifei Wei, Lei Zhang, Ya Peng, Jianting Ning |
+| 315 | IBD: An Interpretable Backdoor-Detection Method via Multivariate Interactions | Sensors 22(22): 8697 (2022) | 2022 | Yixiao Xu, Xiaolei Liu, Kangyi Ding, Bangzhou Xin |
+| 316 | Are Backdoor Mandates Ethical? - A Position Paper | IEEE Technol. Soc. Mag. 41(4): 63-70 (2022) | 2022 | Raphaël Khoury, Sylvain Hallé |
+| 317 | Interpretability-Guided Defense Against Backdoor Attacks to Deep Neural Networks | IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. 41(8): 2611-2624 (2022) | 2022 | Wei Jiang, Xiangyu Wen, Jinyu Zhan, Xupeng Wang, Ziwei Song |
+| 318 | One-to-N & N-to-One: Two Advanced Backdoor Attacks Against Deep Learning Models | IEEE Trans. Dependable Secur. Comput. 19(3): 1562-1578 (2022) | 2022 | Mingfu Xue, Can He, Jian Wang, Weiqiang Liu |
+| 319 | LinkBreaker: Breaking the Backdoor-Trigger Link in DNNs via Neurons Consistency Check | IEEE Trans. Inf. Forensics Secur. 17: 2000-2014 (2022) | 2022 | Zhenzhu Chen, Shang Wang, Anmin Fu, Yansong Gao, Shui Yu, Robert H. Deng |
+| 320 | Stealthy Backdoors as Compression Artifacts | IEEE Trans. Inf. Forensics Secur. 17: 1372-1387 (2022) | 2022 | Yulong Tian, Fnu Suya, Fengyuan Xu, David Evans |
+| 321 | Dispersed Pixel Perturbation-Based Imperceptible Backdoor Trigger for Image Classifier Models | IEEE Trans. Inf. Forensics Secur. 17: 3091-3106 (2022) | 2022 | Yulong Wang, Minghui Zhao, Shenghong Li, Xin Yuan, Wei Ni |
+| 322 | Poison Ink: Robust and Invisible Backdoor Attack | IEEE Trans. Image Process. 31: 5691-5705 (2022) | 2022 | Jie Zhang, Dongdong Chen, Qidong Huang, Jing Liao, Weiming Zhang, Huamin Feng, Gang Hua, Nenghai Yu |
+| 323 | Detection of Backdoors in Trained Classifiers Without Access to the Training Set | IEEE Trans. Neural Networks Learn. Syst. 33(3): 1177-1191 (2022) | 2022 | Zhen Xiang, David J. Miller, George Kesidis |
+| 324 | Backdoor Attacks Against Transfer Learning With Pre-Trained Deep Learning Models | IEEE Trans. Serv. Comput. 15(3): 1526-1539 (2022) | 2022 | Shuo Wang, Surya Nepal, Carsten Rudolph, Marthie Grobler, Shangyu Chen, Tianle Chen |
+| 325 | Tractable Abstract Argumentation via Backdoor-Treewidth | AAAI 2022: 5608-5615 | 2022 | Wolfgang Dvorák, Markus Hecher, Matthias König, André Schidler, Stefan Szeider, Stefan Woltran |
+| 326 | Backdoor Attacks on the DNN Interpretation System | AAAI 2022: 561-570 | 2022 | Shihong Fang, Anna Choromanska |
+| 327 | Faster Algorithms for Weak Backdoors | AAAI 2022: 3741-3748 | 2022 | Serge Gaspers, Andrew Kaploun |
+| 328 | Certified Robustness of Nearest Neighbors against Data Poisoning and Backdoor Attacks | AAAI 2022: 9575-9583 | 2022 | Jinyuan Jia, Yupei Liu, Xiaoyu Cao, Neil Zhenqiang Gong |
+| 329 | Finding Backdoors to Integer Programs: A Monte Carlo Tree Search Framework | AAAI 2022: 3786-3795 | 2022 | Elias B. Khalil, Pashootan Vaezipoor, Bistra Dilkina |
+| 330 | Hibernated Backdoor: A Mutual Information Empowered Backdoor Attack to Deep Neural Networks | AAAI 2022: 10309-10318 | 2022 | Rui Ning, Jiang Li, Chunsheng Xin, Hongyi Wu, Chonggang Wang |
+| 331 | On Probabilistic Generalization of Backdoors in Boolean Satisfiability | AAAI 2022: 10353-10361 | 2022 | Alexander A. Semenov, Artem Pavlenko, Daniil Chivilikhin, Stepan Kochemazov |
+| 332 | COLLIDER: A Robust Training Framework for Backdoor Data | ACCV (6) 2022: 681-698 | 2022 | Hadi M. Dolatabadi, Sarah M. Erfani, Christopher Leckie |
+| 333 | Make Data Reliable: An Explanation-powered Cleaning on Malware Dataset Against Backdoor Poisoning Attacks | ACSAC 2022: 267-278 | 2022 | Xutong Wang, Chaoge Liu, Xiaohui Hu, Zhi Wang, Jie Yin, Xiang Cui |
+| 334 | An Approach to Generation Triggers for Parrying Backdoor in Neural Networks | AGI 2022: 304-314 | 2022 | Menisov Artem |
+| 335 | Dynamic Backdoors with Global Average Pooling | AICAS 2022: 320-323 | 2022 | Stefanos Koffas, Stjepan Picek, Mauro Conti |
+| 336 | Sample-Specific Backdoor based Active Intellectual Property Protection for Deep Neural Networks | AICAS 2022: 316-319 | 2022 | Yinghao Wu, Mingfu Xue, Dujuan Gu, Yushu Zhang, Weiqiang Liu |
+| 337 | Triggerability of Backdoor Attacks in Multi-Source Transfer Learning-based Intrusion Detection | BDCAT 2022: 40-47 | 2022 | Nour Alhussien, Ahmed Aleroud, Reza Rahaeimehr, Alexander Schwarzmann |
+| 338 | SentMod: Hidden Backdoor Attack on Unstructured Textual Data | BigDataSecurity/HPSC/IDS 2022: 224-231 | 2022 | Saquib Irtiza, Latifur Khan, Kevin W. Hamlen |
+| 339 | An anomaly detection approach for backdoored neural networks: face recognition as a case study | BIOSIG 2022: 80-88 | 2022 | Alexander Unnervik, Sébastien Marcel |
+| 340 | Check Your Other Door! Creating Backdoor Attacks in the Frequency Domain | BMVC 2022: 259 | 2022 | Hasan Abed Al Kader Hammoud, Bernard Ghanem |
+| 341 | Verifying Neural Networks Against Backdoor Attacks | CAV (1) 2022: 171-192 | 2022 | Long H. Pham, Jun Sun |
+| 342 | Poster: Backdoor Attacks on Spiking NNs and Neuromorphic Datasets | CCS 2022: 3315-3317 | 2022 | Gorka Abad, Oguzhan Ersoy, Stjepan Picek, Víctor Julio Ramírez-Durán, Aitor Urbieta |
+| 343 | Just Rotate it: Deploying Backdoor Attacks via Rotation Transformation | AISec@CCS 2022: 91-102 | 2022 | Tong Wu, Tianhao Wang, Vikash Sehwag, Saeed Mahloujifar, Prateek Mittal |
+| 344 | Asynchronous Evolutionary Algorithm for Finding Backdoors in Boolean Satisfiability | CEC 2022: 1-8 | 2022 | Artem Pavlenko, Daniil Chivilikhin, Alexander A. Semenov |
+| 345 | Efficient DNN Backdoor Detection Guided by Static Weight Analysis | Inscrypt 2022: 408-428 | 2022 | Qi Wang, Wenxin Li, Kang Yang, Yiru Zhao, Lei Zhao, Lina Wang |
+| 346 | Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications | COLING 2022: 984-993 | 2022 | Heng-Yang Lu, Chenyou Fan, Jun Yang, Cong Hu, Wei Fang, Xiao-Jun Wu |
+| 347 | Deletion-Backdoors for Argumentation Frameworks with Collective Attacks | SAFA@COMMA 2022: 98-110 | 2022 | Wolfgang Dvorák, Matthias König, Stefan Woltran |
+| 348 | Learning Pseudo-Backdoors for Mixed Integer Programs | CPAIOR 2022: 91-102 | 2022 | Aaron M. Ferber, Jialin Song, Bistra Dilkina, Yisong Yue |
+| 349 | Learning Pseudo-Backdoors for Mixed Integer Programs | SOCS 2021: 170-172 | 2021 | Aaron M. Ferber, Jialin Song, Bistra Dilkina, Yisong Yue |
+| 350 | FIBA: Frequency-Injection based Backdoor Attack in Medical Image Analysis | CVPR 2022: 20844-20853 | 2022 | Yu Feng, Benteng Ma, Jing Zhang, Shanshan Zhao, Yong Xia, Dacheng Tao |
+| 351 | Complex Backdoor Detection by Symmetric Feature Differencing | CVPR 2022: 14983-14993 | 2022 | Yingqi Liu, Guangyu Shen, Guanhong Tao, Zhenting Wang, Shiqing Ma, Xiangyu Zhang |
+| 352 | Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks | CVPR 2022: 13337-13347 | 2022 | Xiangyu Qi, Tinghao Xie, Ruizhe Pan, Jifeng Zhu, Yong Yang, Kai Bu |
+| 353 | Backdoor Attacks on Self-Supervised Learning | CVPR 2022: 13327-13336 | 2022 | Aniruddha Saha, Ajinkya Tejankar, Soroush Abbasi Koohpayegani, Hamed Pirsiavash |
+| 354 | Better Trigger Inversion Optimization in Backdoor Scanning | CVPR 2022: 13358-13368 | 2022 | Guanhong Tao, Guangyu Shen, Yingqi Liu, Shengwei An, Qiuling Xu, Shiqing Ma, Pan Li, Xiangyu Zhang |
+| 355 | Dual-Key Multimodal Backdoors for Visual Question Answering | CVPR 2022: 15354-15364 | 2022 | Matthew Walmer, Karan Sikka, Indranil Sur, Abhinav Shrivastava, Susmit Jha |
+| 356 | DEFEAT: Deep Hidden Feature Backdoor Attacks by Imperceptible Perturbation and Latent Representation Constraints | CVPR 2022: 15192-15201 | 2022 | Zhendong Zhao, Xiaojun Chen, Yuexin Xuan, Ye Dong, Dakui Wang, Kaitai Liang |
+| 357 | Combining Defences Against Data-Poisoning Based Backdoor Attacks on Neural Networks | DBSec 2022: 28-47 | 2022 | Andrea Milakovic, Rudolf Mayer |
+| 358 | BadDet: Backdoor Attacks on Object Detection | ECCV Workshops (1) 2022: 396-412 | 2022 | Shih-Han Chan, Yinpeng Dong, Jun Zhu, Xiaolu Zhang, Jun Zhou |
+| 359 | RIBAC: Towards Robust and Imperceptible Backdoor Attack against Compact DNN | ECCV (4) 2022: 708-724 | 2022 | Huy Phan, Cong Shi, Yi Xie, Tianfang Zhang, Zhuohang Li, Tianming Zhao, Jian Liu, Yan Wang, Yingying Chen, Bo Yuan |
+| 360 | An Invisible Black-Box Backdoor Attack Through Frequency Domain | ECCV (13) 2022: 396-413 | 2022 | Tong Wang, Yuan Yao, Feng Xu, Shengwei An, Hanghang Tong, Ting Wang |
+| 361 | Data-Free Backdoor Removal Based on Channel Lipschitzness | ECCV (5) 2022: 175-191 | 2022 | Runkai Zheng, Rongjun Tang, Jianze Li, Li Liu |
+| 362 | Textual Backdoor Attacks Can Be More Harmful via Two Simple Tricks | EMNLP 2022: 11215-11221 | 2022 | Yangyi Chen, Fanchao Qi, Hongcheng Gao, Zhiyuan Liu, Maosong Sun |
+| 363 | Expose Backdoors on the Way: A Feature-Based Efficient Defense against Textual Backdoor Attacks | EMNLP (Findings) 2022: 668-683 | 2022 | Sishuo Chen, Wenkai Yang, Zhiyuan Zhang, Xiaohan Bi, Xu Sun |
+| 364 | WeDef: Weakly Supervised Backdoor Defense for Text Classification | EMNLP 2022: 11614-11626 | 2022 | Lesheng Jin, Zihan Wang, Jingbo Shang |
+| 365 | SAT Backdoors: Depth Beats Size | ESA 2022: 46:1-46:18 | 2022 | Jan Dreier, Sebastian Ordyniak, Stefan Szeider |
+| 366 | The Devil Is in the GAN: Backdoor Attacks and Defenses in Deep Generative Models | ESORICS (3) 2022: 776-783 | 2022 | Ambrish Rawat, Killian Levacher, Mathieu Sinn |
+| 367 | TrojanZoo: Towards Unified, Holistic, and Practical Evaluation of Neural Backdoors | EuroS&P 2022: 684-702 | 2022 | Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, Xiapu Luo, Ting Wang |
+| 368 | A Pragmatic Label-Specific Backdoor Attack | FCS 2022: 149-162 | 2022 | Yu Wang, Haomiao Yang, Jiasheng Li, Mengyu Ge |
+| 369 | Backdoor Sets on Nowhere Dense SAT | ICALP 2022: 91:1-91:20 | 2022 | Daniel Lokshtanov, Fahad Panolan, M. S. Ramanujan |
+| 370 | Test-Time Detection of Backdoor Triggers for Poisoned Deep Neural Networks | ICASSP 2022: 3333-3337 | 2022 | Xi Li, Zhen Xiang, David J. Miller, George Kesidis |
+| 371 | Invisible and Efficient Backdoor Attacks for Compressed Deep Neural Networks | ICASSP 2022: 96-100 | 2022 | Huy Phan, Yi Xie, Jian Liu, Yingying Chen, Bo Yuan |
+| 372 | When Does Backdoor Attack Succeed in Image Reconstruction? A Study of Heuristics vs | Bi-Level Solution. ICASSP 2022: 4398-4402 | 2022 | Vardaan Taneja, Pin-Yu Chen, Yuguang Yao, Sijia Liu |
+| 373 | Detecting Backdoor Attacks against Point Cloud Classifiers | ICASSP 2022: 3159-3163 | 2022 | Zhen Xiang, David J. Miller, Siheng Chen, Xi Li, George Kesidis |
+| 374 | Towards Backdoor Attack on Deep Learning based Time Series Classification | ICDE 2022: 1274-1287 | 2022 | Daizong Ding, Mi Zhang, Yuanmin Huang, Xudong Pan, Fuli Feng, Erling Jiang, Min Yang |
+| 375 | Data Leakage Attack via Backdoor Misclassification Triggers of Deep Learning Models | ICDIS 2022: 61-66 | 2022 | Xiangkai Yang, Wenjian Luo, Licai Zhang, Zhijian Chen, Jiahai Wang |
+| 376 | Backdoor Poisoning of Encrypted Traffic Classifiers | ICDM (Workshops) 2022: 577-585 | 2022 | John T. Holodnak, Olivia M. Brown, Jason Matterer, Andrew Lemke |
+| 377 | Fooling a Face Recognition System with a Marker-Free Label-Consistent Backdoor Attack | ICIAP (2) 2022: 176-185 | 2022 | Nino Cauli, Alessandro Ortis, Sebastiano Battiato |
+| 378 | CRAB: Certified Patch Robustness Against Poisoning-Based Backdoor Attacks | ICIP 2022: 2486-2490 | 2022 | Huxiao Ji, Jie Li, Chentao Wu |
+| 379 | Poisoning and Backdooring Contrastive Learning | ICLR 2022 | 2022 | Nicholas Carlini, Andreas Terzis |
+| 380 | Backdoor Defense via Decoupling the Training Process | ICLR 2022 | 2022 | Kunzhe Huang, Yiming Li, Baoyuan Wu, Zhan Qin, Kui Ren |
+| 381 | Post-Training Detection of Backdoor Attacks for Two-Class and Multi-Attack Scenarios | ICLR 2022 | 2022 | Zhen Xiang, David J. Miller, George Kesidis |
+| 382 | How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data | ICLR 2022 | 2022 | Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun |
+| 383 | Unlabeled Backdoor Poisoning in Semi-Supervised Learning | ICME 2022: 1-6 | 2022 | Le Feng, Sheng Li, Zhenxing Qian, Xinpeng Zhang |
+| 384 | A Generic Enhancer for Backdoor Attacks on Deep Neural Networks | ICONIP (7) 2022: 296-307 | 2022 | Bilal Hussain Abbasi, Qi Zhong, Leo Yu Zhang, Shang Gao, Antonio Robles-Kelly, Robin Doss |
+| 385 | Detecting and Mitigating Backdoor Attacks with Dynamic and Invisible Triggers | ICONIP (3) 2022: 216-227 | 2022 | Zhibin Zheng, Zhongyun Hua, Leo Yu Zhang |
+| 386 | Backdoors in Neural Models of Source Code | ICPR 2022: 2892-2899 | 2022 | Goutham Ramakrishnan, Aws Albarghouthi |
+| 387 | Detecting Backdoor Attacks on Deep Neural Networks Based on Model Parameters Analysis | ICTAI 2022: 630-637 | 2022 | Mingyuan Ma, Hu Li, Xiaohui Kuang |
+| 388 | PPT: Backdoor Attacks on Pre-trained Models via Poisoned Prompt Tuning | IJCAI 2022: 680-686 | 2022 | Wei Du, Yichun Zhao, Boqun Li, Gongshen Liu, Shilin Wang |
+| 389 | Membership Inference via Backdooring | IJCAI 2022: 3832-3838 | 2022 | Hongsheng Hu, Zoran Salcic, Gillian Dobbie, Jinjun Chen, Lichao Sun, Xuyun Zhang |
+| 390 | Data-Efficient Backdoor Attacks | IJCAI 2022: 3992-3998 | 2022 | Pengfei Xia, Ziqiang Li, Wei Zhang, Bin Li |
+| 391 | Imperceptible Backdoor Attack: From Input Space to Feature Representation | IJCAI 2022: 1736-1742 | 2022 | Nan Zhong, Zhenxing Qian, Xinpeng Zhang |
+| 392 | Latent Space-Based Backdoor Attacks Against Deep Neural Networks | IJCNN 2022: 1-10 | 2022 | Adrian Kristanto, Shuo Wang, Carsten Rudolph |
+| 393 | ACTSS: Input Detection Defense against Backdoor Attacks via Activation Subset Scanning | IJCNN 2022: 1-8 | 2022 | Yuexin Xuan, Xiaojun Chen, Zhendong Zhao, Yangyang Ding, Jianming Lv |
+| 394 | TrojanFlow: A Neural Backdoor Attack to Deep Learning-based Network Traffic Classifiers | INFOCOM 2022: 1429-1438 | 2022 | Rui Ning, Chunsheng Xin, Hongyi Wu |
+| 395 | An Improved Method for Making CNN Immune to Backdoor Attack by Activating Clustering | ISCSIC 2022: 1-6 | 2022 | Yuang Zhou, Yichen Lei, Limin Yu, Xianyao Li, Dingding Chen, Tongpo Zhang |
+| 396 | Practical Backdoor Attack Against Speaker Recognition System | ISPEC 2022: 468-484 | 2022 | Yuxiao Luo, Jianwei Tai, Xiaoqi Jia, Shengzhi Zhang |
+| 397 | Energy-Based Learning for Preventing Backdoor Attack | KSEM (3) 2022: 706-721 | 2022 | Xiangyu Gao, Meikang Qiu |
+| 398 | I Know Your Triggers: Defending Against Textual Backdoor Attacks with Benign Backdoor Augmentation | MILCOM 2022: 442-449 | 2022 | Yue Gao, Jack W. Stokes, Manoj Ajith Prasad, Andrew T. Marshall, Kassem Fawaz, Emre Kiciman |
+| 399 | BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label | ACM Multimedia 2022: 678-686 | 2022 | Shengshan Hu, Ziqi Zhou, Yechao Zhang, Leo Yu Zhang, Yifeng Zheng, Yuanyuan He, Hai Jin |
+| 400 | Backdoor Attacks on Crowd Counting | ACM Multimedia 2022: 5351-5360 | 2022 | Yuhua Sun, Tailai Zhang, Xingjun Ma, Pan Zhou, Jian Lou, Zichuan Xu, Xing Di, Yu Cheng, Lichao Sun |
+| 401 | Purifier: Plug-and-play Backdoor Mitigation for Pre-trained Models Via Anomaly Activation Suppression | ACM Multimedia 2022: 4291-4299 | 2022 | Xiaoyu Zhang, Yulin Jin, Tao Wang, Jian Lou, Xiaofeng Chen |
+| 402 | ATTEQ-NN: Attention-based QoE-aware Evasive Backdoor Attacks | NDSS 2022 | 2022 | Xueluan Gong, Yanjiao Chen, Jianshuo Dong, Qian Wang |
+| 403 | Handcrafted Backdoors in Deep Neural Networks | NeurIPS 2022 | 2022 | Sanghyun Hong, Nicholas Carlini, Alexey Kurakin |
+| 404 | BadPrompt: Backdoor Attacks on Continuous Prompts | NeurIPS 2022 | 2022 | Xiangrui Cai, Haidong Xu, Sihan Xu, Ying Zhang, Xiaojie Yuan |
+| 405 | Randomized Channel Shuffling: Minimal-Overhead Backdoor Attack Detection without Clean Datasets | NeurIPS 2022 | 2022 | Ruisi Cai, Zhenyu Zhang, Tianlong Chen, Xiaohan Chen, Zhangyang Wang |
+| 406 | Effective Backdoor Defense by Exploiting Sensitivity of Poisoned Samples | NeurIPS 2022 | 2022 | Weixin Chen, Baoyuan Wu, Haoqian Wang |
+| 407 | A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks | NeurIPS 2022 | 2022 | Ganqu Cui, Lifan Yuan, Bingxiang He, Yangyi Chen, Zhiyuan Liu, Maosong Sun |
+| 408 | Marksman Backdoor: Backdoor Attacks with Arbitrary Target Class | NeurIPS 2022 | 2022 | Khoa D. Doan, Yingjie Lao, Ping Li |
+| 409 | Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection | NeurIPS 2022 | 2022 | Yiming Li, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, Bo Li |
+| 410 | Sleeper Agent: Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch | NeurIPS 2022 | 2022 | Hossein Souri, Liam Fowl, Rama Chellappa, Micah Goldblum, Tom Goldstein |
+| 411 | Training with More Confidence: Mitigating Injected and Natural Backdoors During Training | NeurIPS 2022 | 2022 | Zhenting Wang, Hailun Ding, Juan Zhai, Shiqing Ma |
+| 412 | Trap and Replace: Defending Backdoor Attacks by Trapping Them into an Easy-to-Replace Subnetwork | NeurIPS 2022 | 2022 | Haotao Wang, Junyuan Hong, Aston Zhang, Jiayu Zhou, Zhangyang Wang |
+| 413 | BackdoorBench: A Comprehensive Benchmark of Backdoor Learning | NeurIPS 2022 | 2022 | Baoyuan Wu, Hongrui Chen, Mingda Zhang, Zihao Zhu, Shaokui Wei, Danni Yuan, Chao Shen |
+| 414 | Pre-activation Distributions Expose Backdoor Neurons | NeurIPS 2022 | 2022 | Runkai Zheng, Rongjun Tang, Jianze Li, Li Liu |
+| 415 | How to Backdoor (Classic) McEliece and How to Guard Against Backdoors | PQCrypto 2022: 24-44 | 2022 | Tobias Hemmert, Alexander May, Johannes Mittmann, Carl Richard Theodor Schneider |
+| 416 | Un-Fair Trojan: Targeted Backdoor Attacks Against Model Fairness | SDS 2022: 1-9 | 2022 | Nicholas Furth, Abdallah Khreishah, Guanxiong Liu, NhatHai Phan, Yaser Jararweh |
+| 417 | Towards Backdoor Attacks against LiDAR Object Detection in Autonomous Driving | SenSys 2022: 533-547 | 2022 | Yan Zhang, Yi Zhu, Zihao Liu, Chenglin Miao, Foad Hajiaghajani, Lu Su, Chunming Qiao |
+| 418 | Energy-Based Learning for Polluted Outlier Detection in Backdoor | SmartCloud 2022: 47-52 | 2022 | Xiangyu Gao, Meikang Qiu |
+| 419 | Inconspicuous Data Augmentation Based Backdoor Attack on Deep Neural Networks | SOCC 2022: 1-6 | 2022 | Chaohui Xu, Wenye Liu, Yue Zheng, Si Wang, Chip-Hong Chang |
+| 420 | Patch-Based Backdoors Detection and Mitigation with Feature Masking | SocialSec 2022: 229-246 | 2022 | Tao Wang, Xiaoyu Zhang, Yulin Jin, Chenyang Chen, Fei Zhu |
+| 421 | BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning | SP 2022: 2043-2059 | 2022 | Jinyuan Jia, Yupei Liu, Neil Zhenqiang Gong |
+| 422 | Big Brother Is Watching You: A Closer Look at Backdoor Construction | SPACE 2022: 81-96 | 2022 | Anubhab Baksi, Arghya Bhattacharjee, Jakub Breier, Takanori Isobe, Mridul Nandi |
+| 423 | Big Brother Is Watching You: A Closer Look At Backdoor Construction | IACR Cryptol. ePrint Arch. 2022: 953 (2022) | 2022 | Anubhab Baksi, Arghya Bhattacharjee, Jakub Breier, Takanori Isobe, Mridul Nandi |
+| 424 | A Novel Backdoor Attack Adapted to Transfer Learning | SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta 2022: 1730-1735 | 2022 | Peihao Li, Jie Huang, Shuaishuai Zhang, Chunyang Qi, Chuang Liang, Yang Peng |
+| 425 | Low-Poisoning Rate Invisible Backdoor Attack Based on Important Neurons | WASA (2) 2022: 375-383 | 2022 | Xiugui Yang, Xiangyun Qian, Rui Zhang, Ning Huang, Hui Xia |
+| 426 | Extracting a Minimal Trigger for an Efficient Backdoor Poisoning Attack Using the Activation Values of a Deep Neural Network | WDC@AsiaCCS 2022: 3-6 | 2022 | Hyunsik Na, Daeseon Choi |
+| 427 | Can You Hear It?: Backdoor Attacks via Ultrasonic Triggers | WiseML@WiSec 2022: 57-62 | 2022 | Stefanos Koffas, Jing Xu, Mauro Conti, Stjepan Picek |
+| 428 | Deep Learning Backdoors | Security and Artificial Intelligence 2022: 313-334 | 2022 | Shaofeng Li, Shiqing Ma, Minhui Xue, Benjamin Zi Hao Zhao |
+| 429 | Hiding Behind Backdoors: Self-Obfuscation Against Generative Models | CoRR abs/2201.09774 (2022) | 2022 | Siddhartha Datta, Nigel Shadbolt |
+| 430 | Backdoors Stuck At The Frontdoor: Multi-Agent Backdoor Attacks That Backfire | CoRR abs/2201.12211 (2022) | 2022 | Siddhartha Datta, Nigel Shadbolt |
+| 431 | Imperceptible and Multi-channel Backdoor Attack against Deep Neural Networks | CoRR abs/2201.13164 (2022) | 2022 | Mingfu Xue, Shifeng Ni, Yinghao Wu, Yushu Zhang, Jian Wang, Weiqiang Liu |
+| 432 | False Memory Formation in Continual Learners Through Imperceptible Backdoor Trigger | CoRR abs/2202.04479 (2022) | 2022 | Muhammad Umer, Robi Polikar |
+| 433 | Resurrecting Trust in Facial Recognition: Mitigating Backdoor Attacks in Face Recognition to Prevent Potential Privacy Breaches | CoRR abs/2202.10320 (2022) | 2022 | Reena Zelenkova, Jack Swallow, M. A. P. Chamikara, Dongxi Liu, Mohan Baruwal Chhetri, Seyit Camtepe, Marthie Grobler, Mahathir Almashor |
+| 434 | Label-Smoothed Backdoor Attack | CoRR abs/2202.11203 (2022) | 2022 | Minlong Peng, Zidi Xiong, Mingming Sun, Ping Li |
+| 435 | Clean-Annotation Backdoor Attack against Lane Detection Systems in the Wild | CoRR abs/2203.00858 (2022) | 2022 | Xingshuo Han, Guowen Xu, Yuan Zhou, Xuehuan Yang, Jiwei Li, Tianwei Zhang |
+| 436 | Low-Loss Subspace Compression for Clean Gains against Multi-Agent Backdoor Attacks | CoRR abs/2203.03692 (2022) | 2022 | Siddhartha Datta, Nigel Shadbolt |
+| 437 | PiDAn: A Coherence Optimization Approach for Backdoor Attack Detection and Mitigation in Deep Neural Networks | CoRR abs/2203.09289 (2022) | 2022 | Yue Wang, Wenqing Li, Esha Sarkar, Muhammad Shafique, Michail Maniatakos, Saif Eddin Jabari |
+| 438 | Trojan Horse Training for Breaking Defenses against Backdoor Attacks in Deep Learning | CoRR abs/2203.15506 (2022) | 2022 | Arezoo Rajabi, Bhaskar Ramasubramanian, Radha Poovendran |
+| 439 | An Adaptive Black-box Backdoor Detection Method for Deep Neural Networks | CoRR abs/2204.04329 (2022) | 2022 | Xinqiao Zhang, Huili Chen, Ke Huang, Farinaz Koushanfar |
+| 440 | Towards A Critical Evaluation of Robustness for Deep Learning Backdoor Countermeasures | CoRR abs/2204.06273 (2022) | 2022 | Huming Qiu, Hua Ma, Zhi Zhang, Alsharif Abuadbba, Wei Kang, Anmin Fu, Yansong Gao |
+| 441 | Detecting Backdoor Poisoning Attacks on Deep Neural Networks by Heatmap Clustering | CoRR abs/2204.12848 (2022) | 2022 | Lukas Schulth, Christian Berghoff, Matthias Neu |
+| 442 | Model-Contrastive Learning for Backdoor Defense | CoRR abs/2205.04411 (2022) | 2022 | Zhihao Yue, Jun Xia, Zhiwei Ling, Ming Hu, Ting Wang, Xian Wei, Mingsong Chen |
+| 443 | Backdoor Attacks on Bayesian Neural Networks using Reverse Distribution | CoRR abs/2205.09167 (2022) | 2022 | Zhixin Pan, Prabhat Mishra |
+| 444 | Textual Backdoor Attacks with Iterative Trigger Injection | CoRR abs/2205.12700 (2022) | 2022 | Jun Yan, Vansh Gupta, Xiang Ren |
+| 445 | Circumventing Backdoor Defenses That Are Based on Latent Separability | CoRR abs/2205.13613 (2022) | 2022 | Xiangyu Qi, Tinghao Xie, Saeed Mahloujifar, Prateek Mittal |
+| 446 | Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations | CoRR abs/2205.13616 (2022) | 2022 | Xiangyu Qi, Tinghao Xie, Saeed Mahloujifar, Prateek Mittal |
+| 447 | Defending Against Stealthy Backdoor Attacks | CoRR abs/2205.14246 (2022) | 2022 | Sangeet Sagar, Abhinav Bhatt, Abhijith Srinivas Bidaralli |
+| 448 | CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Backdoor Defences | CoRR abs/2206.00145 (2022) | 2022 | Shang Wang, Yansong Gao, Anmin Fu, Zhi Zhang, Yuqing Zhang, Willy Susilo |
+| 449 | Can Backdoor Attacks Survive Time-Varying Models | CoRR abs/2206.04677 (2022) | 2022 | Huiying Li, Arjun Nitin Bhagoji, Ben Y. Zhao, Haitao Zheng |
+| 450 | Enhancing Clean Label Backdoor Attack with Two-phase Specific Triggers | CoRR abs/2206.04881 (2022) | 2022 | Nan Luo, Yuanzhang Li, Yajie Wang, Shangbo Wu, Yu-An Tan, Quanxin Zhang |
+| 451 | DECK: Model Hardening for Defending Pervasive Backdoors | CoRR abs/2206.09272 (2022) | 2022 | Guanhong Tao, Yingqi Liu, Siyuan Cheng, Shengwei An, Zhuo Zhang, Qiuling Xu, Guangyu Shen, Xiangyu Zhang |
+| 452 | Natural Backdoor Datasets | CoRR abs/2206.10673 (2022) | 2022 | Emily Wenger, Roma Bhattacharjee, Arjun Nitin Bhagoji, Josephine Passananti, Emilio Andere, Haitao Zheng, Ben Y. Zhao |
+| 453 | Invisible Backdoor Attacks Using Data Poisoning in the Frequency Domain | CoRR abs/2207.04209 (2022) | 2022 | Chang Yue, Peizhuo Lv, Ruigang Liang, Kai Chen |
+| 454 | FRIB: Low-poisoning Rate Invisible Backdoor Attack based on Feature Repair | CoRR abs/2207.12863 (2022) | 2022 | Hui Xia, Xiugui Yang, Xiangyun Qian, Rui Zhang |
+| 455 | Defense against Backdoor Attacks via Identifying and Purifying Bad Neurons | CoRR abs/2208.06537 (2022) | 2022 | Mingyuan Fan, Yang Liu, Cen Chen, Ximeng Liu, Wenzhong Guo |
+| 456 | Confidence Matters: Inspecting Backdoors in Deep Neural Networks via Distribution Transfer | CoRR abs/2208.06592 (2022) | 2022 | Tong Wang, Yuan Yao, Feng Xu, Miao Xu, Shengwei An, Ting Wang |
+| 457 | MACAB: Model-Agnostic Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World | CoRR abs/2209.02339 (2022) | 2022 | Hua Ma, Yinshan Li, Yansong Gao, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said F. Al-Sarawi, Surya Nepal, Derek Abbott |
+| 458 | Adaptive Perturbation Generation for Multiple Backdoors Detection | CoRR abs/2209.05244 (2022) | 2022 | Yuhang Wang, Huafeng Shi, Rui Min, Ruijia Wu, Siyuan Liang, Yichao Wu, Ding Liang, Aishan Liu |
+| 459 | Augmentation Backdoors | CoRR abs/2209.15139 (2022) | 2022 | Joseph Rance, Yiren Zhao, Ilia Shumailov, Robert D. Mullins |
+| 460 | ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks | CoRR abs/2210.00108 (2022) | 2022 | Tim Clifford, Ilia Shumailov, Yiren Zhao, Ross J. Anderson, Robert D. Mullins |
+| 461 | Backdoor Attacks in the Supply Chain of Masked Image Modeling | CoRR abs/2210.01632 (2022) | 2022 | Xinyue Shen, Xinlei He, Zheng Li, Yun Shen, Michael Backes, Yang Zhang |
+| 462 | Understanding Impacts of Task Similarity on Backdoor Attack and Detection | CoRR abs/2210.06509 (2022) | 2022 | Di Tang, Rui Zhu, XiaoFeng Wang, Haixu Tang, Yi Chen |
+| 463 | Apple of Sodom: Hidden Backdoors in Superior Sentence Embeddings via Contrastive Learning | CoRR abs/2210.11082 (2022) | 2022 | Xiaoyi Chen, Baisong Xin, Shengfang Zhai, Shiqing Ma, Qingni Shen, Zhonghai Wu |
+| 464 | Detecting Backdoors in Deep Text Classifiers | CoRR abs/2210.11264 (2022) | 2022 | You Guo, Jun Wang, Trevor Cohn |
+| 465 | M-to-N Backdoor Paradigm: A Stealthy and Fuzzy Attack to Deep Learning Models | CoRR abs/2211.01875 (2022) | 2022 | Linshan Hou, Zhongyun Hua, Yuhong Li, Leo Yu Zhang |
+| 466 | Rickrolling the Artist: Injecting Invisible Backdoors into Text-Guided Image Generation Models | CoRR abs/2211.02408 (2022) | 2022 | Lukas Struppek, Dominik Hintersdorf, Kristian Kersting |
+| 467 | Physics-Constrained Backdoor Attacks on Power System Fault Localization | CoRR abs/2211.04445 (2022) | 2022 | Jianing Bai, Ren Wang, Zuyi Li |
+| 468 | Backdoor Attacks on Time Series: A Generative Approach | CoRR abs/2211.07915 (2022) | 2022 | Yujing Jiang, Xingjun Ma, Sarah Monazam Erfani, James Bailey |
+| 469 | CorruptEncoder: Data Poisoning based Backdoor Attacks to Contrastive Learning | CoRR abs/2211.08229 (2022) | 2022 | Jinghuai Zhang, Hongbin Liu, Jinyuan Jia, Neil Zhenqiang Gong |
+| 470 | PBSM: Backdoor attack against Keyword spotting based on pitch boosting and sound masking | CoRR abs/2211.08697 (2022) | 2022 | Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Shunhui Ji |
+| 471 | Backdoor Attacks on Multiagent Collaborative Systems | CoRR abs/2211.11455 (2022) | 2022 | Shuo Chen, Yue Qiu, Jie Zhang |
+| 472 | Backdoor Vulnerabilities in Normally Trained Deep Learning Models | CoRR abs/2211.15929 (2022) | 2022 | Guanhong Tao, Zhenting Wang, Siyuan Cheng, Shiqing Ma, Shengwei An, Yingqi Liu, Guangyu Shen, Zhuo Zhang, Yunshu Mao, Xiangyu Zhang |
+| 473 | Rethinking Backdoor Data Poisoning Attacks in the Context of Semi-Supervised Learning | CoRR abs/2212.02582 (2022) | 2022 | Marissa Connor, Vincent Emanuele |
+| 474 | Fine-Tuning Is All You Need to Mitigate Backdoor Attacks | CoRR abs/2212.09067 (2022) | 2022 | Zeyang Sha, Xinlei He, Pascal Berrang, Mathias Humbert, Yang Zhang |
+| 475 | Flareon: Stealthy any2any Backdoor Injection via Poisoned Augmentation | CoRR abs/2212.09979 (2022) | 2022 | Tianrui Qin, Xianghuan He, Xitong Gao, Yiren Zhao, Kejiang Ye, Cheng-Zhong Xu |
+| 476 | How to backdoor LWE-like cryptosystems | IACR Cryptol. ePrint Arch. 2022: 1381 (2022) | 2022 | Tobias Hemmert |
+| 477 | How to Backdoor (Classical) McEliece and How to Guard Against Backdoors | IACR Cryptol. ePrint Arch. 2022: 362 (2022) | 2022 | Alexander May, Carl Richard Theodor Schneider |
+| 478 | Use Procedural Noise to Achieve Backdoor Attack | IEEE Access 9: 127204-127216 (2021) | 2021 | Xuan Chen, Yuena Ma, Shiwei Lu |
+| 479 | BDDR: An Effective Defense Against Textual Backdoor Attacks | Comput. Secur. 110: 102433 (2021) | 2021 | Kun Shao, Junan Yang, Yang Ai, Hui Liu, Yu Zhang |
+| 480 | Reverse engineering imperceptible backdoor attacks on deep neural networks for detection and training set cleansing | Comput. Secur. 106: 102280 (2021) | 2021 | Zhen Xiang, David J. Miller, George Kesidis |
+| 481 | Internet of Things backdoors: Resource management issues, security challenges, and detection methods | Trans. Emerg. Telecommun. Technol. 32(2) (2021) | 2021 | Soheil Hashemi, Mani Zarei |
+| 482 | Study of scale-free structures in feed-forward neural networks against backdoor attacks | ICT Express 7(2): 265-268 (2021) | 2021 | Sara Kaviani, Insoo Sohn |
+| 483 | Mitigating backdoor attacks in LSTM-based text classification systems by Backdoor Keyword Identification | Neurocomputing 452: 253-262 (2021) | 2021 | Chuanshuai Chen, Jiazhu Dai |
+| 484 | Defense-Resistant Backdoor Attacks Against Deep Neural Networks in Outsourced Cloud Environment | IEEE J. Sel. Areas Commun. 39(8): 2617-2631 (2021) | 2021 | Xueluan Gong, Yanjiao Chen, Qian Wang, Huayang Huang, Lingshuo Meng, Chao Shen, Qian Zhang |
+| 485 | Detecting Scene-Plausible Perceptible Backdoors in Trained DNNs Without Access to the Training Set | Neural Comput. 33(5): 1329-1371 (2021) | 2021 | Zhen Xiang, David J. Miller, Hang Wang, George Kesidis |
+| 486 | Stability-Based Analysis and Defense against Backdoor Attacks on Edge Computing Services | IEEE Netw. 35(1): 163-169 (2021) | 2021 | Yi Zhao, Ke Xu, Haiyang Wang, Bo Li, Ruoxi Jia |
+| 487 | Existence versus exploitation: the opacity of backdoors and backbones | Prog. Artif. Intell. 10(3): 297-308 (2021) | 2021 | Lane A. Hemaspaandra, David E. Narváez |
+| 488 | Backdoors hidden in facial features: a novel invisible backdoor attack against face recognition systems | Peer-to-Peer Netw. Appl. 14(3): 1458-1474 (2021) | 2021 | Mingfu Xue, Can He, Jian Wang, Weiqiang Liu |
+| 489 | PBDT: Python Backdoor Detection Model Based on Combined Features | Secur. Commun. Networks 2021: 9923234:1-9923234:13 (2021) | 2021 | Yong Fang, Mingyu Xie, Cheng Huang |
+| 490 | Text Backdoor Detection Using an Interpretable RNN Abstract Model | IEEE Trans. Inf. Forensics Secur. 16: 4117-4132 (2021) | 2021 | Ming Fan, Ziliang Si, Xiaofei Xie, Yang Liu, Ting Liu |
+| 491 | Deep Neural Backdoor in Semi-Supervised Learning: Threats and Countermeasures | IEEE Trans. Inf. Forensics Secur. 16: 4827-4842 (2021) | 2021 | Zhicong Yan, Jun Wu, Gaolei Li, Shenghong Li, Mohsen Guizani |
+| 492 | Backdoor Decomposable Monotone Circuits and Propagation Complete Encodings | AAAI 2021: 3832-3840 | 2021 | Petr Kucera, Petr Savický |
+| 493 | Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger | ACL/IJCNLP (1) 2021: 443-453 | 2021 | Fanchao Qi, Mukai Li, Yangyi Chen, Zhengyan Zhang, Zhiyuan Liu, Yasheng Wang, Maosong Sun |
+| 494 | Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution | ACL/IJCNLP (1) 2021: 4873-4883 | 2021 | Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu, Maosong Sun |
+| 495 | MP-BADNet: A Backdoor-Attack Detection and Identification Protocol among Multi-Participants in Private Deep Neural Networks | ACM TUR-C 2021: 104-109 | 2021 | Congcong Chen, Lifei Wei, Lei Zhang, Jianting Ning |
+| 496 | DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation | AsiaCCS 2021: 363-377 | 2021 | Han Qiu, Yi Zeng, Shangwei Guo, Tianwei Zhang, Meikang Qiu, Bhavani Thuraisingham |
+| 497 | Covid-19 digital Contact-tracing: a doorway to well-being or a backdoor to security vulnerabilities | IEEE BigData 2021: 4297-4302 | 2021 | Nishit Patel, David Cancel, Moitrayee Chatterjee, Md Shahinoor Rahman |
+| 498 | Countermeasures Against Backdoor Attacks Towards Malware Detectors | CANS 2021: 295-314 | 2021 | Shintaro Narisada, Yuki Matsumoto, Seira Hidano, Toshihiro Uchibayashi, Takuo Suganuma, Masahiro Hiji, Shinsaku Kiyomoto |
+| 499 | Backdoor Pre-trained Models Can Transfer to All | CCS 2021: 3141-3158 | 2021 | Lujia Shen, Shouling Ji, Xuhong Zhang, Jinfeng Li, Jing Chen, Jie Shi, Chengfang Fang, Jianwei Yin, Ting Wang |
+| 500 | A Trigger Exploration Method for Backdoor Attacks on Deep Learning-Based Traffic Control Systems | CDC 2021: 4394-4399 | 2021 | Yue Wang, Michail Maniatakos, Saif Eddin Jabari |
+| 501 | Reasoning Short Cuts in Infinite Domain Constraint Satisfaction: Algorithms and Lower Bounds for Backdoors | CP 2021: 32:1-32:20 | 2021 | Peter Jonsson, Victor Lagerkvist, Sebastian Ordyniak |
+| 502 | Protecting Deep Cerebrospinal Fluid Cell Image Processing Models with Backdoor and Semi-Distillation | DICTA 2021: 1-7 | 2021 | Fang-Qi Li, Shi-Lin Wang, Zhen-Hai Wang |
+| 503 | A Random Multi-target Backdooring Attack on Deep Neural Networks | DMBD (2) 2021: 45-52 | 2021 | Xinrui Liu, Xiao Yu, Zhibin Zhang, Quanxin Zhang, Yuanzhang Li, Yu-an Tan |
+| 504 | Backdoor Filter: Mitigating Visible Backdoor Triggers in Dataset | DTPI 2021: 102-105 | 2021 | Ziqi Wei, Junjian Shi, Yihe Duan, Ranyang Liu, Ye Han, Zheli Liu |
+| 505 | BFClass: A Backdoor-free Text Classification Framework | EMNLP (Findings) 2021: 444-453 | 2021 | Zichao Li, Dheeraj Mekala, Chengyu Dong, Jingbo Shang |
+| 506 | Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning | EMNLP (1) 2021: 3023-3032 | 2021 | Linyang Li, Demin Song, Xiaonan Li, Jiehang Zeng, Ruotian Ma, Xipeng Qiu |
+| 507 | ONION: A Simple and Effective Defense Against Textual Backdoor Attacks | EMNLP (1) 2021: 9558-9566 | 2021 | Fanchao Qi, Yangyi Chen, Mukai Li, Yuan Yao, Zhiyuan Liu, Maosong Sun |
+| 508 | Pixdoor: A Pixel-space Backdoor Attack on Deep Learning Models | EUSIPCO 2021: 681-685 | 2021 | Iram Arshad, Mamoona Naveed Asghar, Yuansong Qiao, Brian Lee, Yuhang Ye |
+| 509 | Stand-in Backdoor: A Stealthy and Powerful Backdoor Attack | GLOBECOM 2021: 1-6 | 2021 | Shuang Li, Hongwei Li, Hanxiao Chen |
+| 510 | Why is Your Trojan NOT Responding? A Quantitative Analysis of Failures in Backdoor Attacks of Neural Networks | ICA3PP (3) 2021: 754-771 | 2021 | Xingbo Hu, Yibing Lan, Ruimin Gao, Guozhu Meng, Kai Chen |
+| 511 | Strong Data Augmentation Sanitizes Poisoning and Backdoor Attacks Without an Accuracy Tradeoff | ICASSP 2021: 3855-3859 | 2021 | Eitan Borgnia, Valeriia Cherepanova, Liam Fowl, Amin Ghiasi, Jonas Geiping, Micah Goldblum, Tom Goldstein, Arjun Gupta |
+| 512 | L-Red: Efficient Post-Training Detection of Imperceptible Backdoor Attacks Without Access to the Training Set | ICASSP 2021: 3745-3749 | 2021 | Zhen Xiang, David J. Miller, George Kesidis |
+| 513 | Backdoor Attack Against Speaker Verification | ICASSP 2021: 2560-2564 | 2021 | Tongqing Zhai, Yiming Li, Ziqi Zhang, Baoyuan Wu, Yong Jiang, Shu-Tao Xia |
+| 514 | LIRA: Learnable, Imperceptible and Robust Backdoor Attacks | ICCV 2021: 11946-11956 | 2021 | Khoa D. Doan, Yingjie Lao, Weijie Zhao, Ping Li |
+| 515 | Black-box Detection of Backdoor Attacks with Limited Information and Data | ICCV 2021: 16462-16471 | 2021 | Yinpeng Dong, Xiao Yang, Zhijie Deng, Tianyu Pang, Zihao Xiao, Hang Su, Jun Zhu |
+| 516 | Invisible Backdoor Attack with Sample-Specific Triggers | ICCV 2021: 16443-16452 | 2021 | Yuezun Li, Yiming Li, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu |
+| 517 | Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective | ICCV 2021: 16453-16461 | 2021 | Yi Zeng, Won Park, Z. Morley Mao, Ruoxi Jia |
+| 518 | CLEAR: Clean-up Sample-Targeted Backdoor in Neural Networks | ICCV 2021: 16433-16442 | 2021 | Liuwan Zhu, Rui Ning, Chunsheng Xin, Chonggang Wang, Hongyi Wu |
+| 519 | Backdoor Investigation and Incident Response: From Zero to Profit | ICDF2C 2021: 229-247 | 2021 | Anthony Cheuk Tung Lai, Ken Wai Kin Wong, Johnny Tsz Wun Wong, Austin Tsz Wai Lau, Alan Po Lun Ho, Shuai Wang, Jogesh Muppala |
+| 520 | Simtrojan: Stealthy Backdoor Attack | ICIP 2021: 819-823 | 2021 | Yankun Ren, Longfei Li, Jun Zhou |
+| 521 | Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks | ICLR 2021 | 2021 | Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, Xingjun Ma |
+| 522 | WaNet - Imperceptible Warping-based Backdoor Attack | ICLR 2021 | 2021 | Tuan Anh Nguyen, Anh Tuan Tran |
+| 523 | Defense against backdoor attacks via robust covariance estimation | ICML 2021: 4129-4139 | 2021 | Jonathan Hayase, Weihao Kong, Raghav Somani, Sewoong Oh |
+| 524 | Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks | ICML 2021: 9389-9398 | 2021 | Avi Schwarzschild, Micah Goldblum, Arjun Gupta, John P. Dickerson, Tom Goldstein |
+| 525 | Backdoor Scanning for Deep Neural Networks through K-Arm Optimization | ICML 2021: 9525-9536 | 2021 | Guangyu Shen, Yingqi Liu, Guanhong Tao, Shengwei An, Qiuling Xu, Siyuan Cheng, Shiqing Ma, Xiangyu Zhang |
+| 526 | DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection | ICSE 2021: 263-274 | 2021 | Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, Yunxin Liu |
+| 527 | Backdoor DNFs | IJCAI 2021: 1403-1409 | 2021 | Sebastian Ordyniak, André Schidler, Stefan Szeider |
+| 528 | Invisible Poison: A Blackbox Clean Label Backdoor Attack to Deep Neural Networks | INFOCOM 2021: 1-10 | 2021 | Rui Ning, Jiang Li, Chunsheng Xin, Hongyi Wu |
+| 529 | TridentShell: a Covert and Scalable Backdoor Injection Attack on Web Applications | ISC 2021: 177-194 | 2021 | Xiaobo Yu, Weizhi Meng, Lei Zhao, Yining Liu |
+| 530 | On-line Functional Testing of Memristor-mapped Deep Neural Networks using Backdoored Checksums | ITC 2021: 83-92 | 2021 | Ching-Yuan Chen, Krishnendu Chakrabarty |
+| 531 | The Design and Development of a Game to Study Backdoor Poisoning Attacks: The Backdoor Game | IUI 2021: 423-433 | 2021 | Zahra Ashktorab, Casey Dugan, James Johnson, Aabhas Sharma, Dustin Ramsey Torres, Ingrid Lange, Benjamin Hoover, Heiko Ludwig, Bryant Chen, Nathalie Baracaldo, Werner Geyer, Qian Pan |
+| 532 | What Do You See?: Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors | KDD 2021: 1027-1035 | 2021 | Yi-Shan Lin, Wen-Chuan Lee, Z. Berkay Celik |
+| 533 | Recursive Backdoors for SAT | MFCS 2021: 73:1-73:18 | 2021 | Nikolas Mählmann, Sebastian Siebertz, Alexandre Vigny |
+| 534 | Anti-Distillation Backdoor Attacks: Backdoors Can Really Survive in Knowledge Distillation | ACM Multimedia 2021: 826-834 | 2021 | Yunjie Ge, Qian Wang, Baolin Zheng, Xinlu Zhuang, Qi Li, Chao Shen, Cong Wang |
+| 535 | Backdoor Attack with Imperceptible Input and Latent Modification | NeurIPS 2021: 18944-18957 | 2021 | Khoa D. Doan, Yingjie Lao, Ping Li |
+| 536 | Anti-Backdoor Learning: Training Clean Models on Poisoned Data | NeurIPS 2021: 14900-14912 | 2021 | Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, Xingjun Ma |
+| 537 | Excess Capacity and Backdoor Poisoning | NeurIPS 2021: 20373-20384 | 2021 | Naren Manoj, Avrim Blum |
+| 538 | Identifying and blocking the backdoors in Linux | RTA-CSIT 2021: 193-197 | 2021 | Enkli Ylli, Julian Fejzaj, Igli Tafa |
+| 539 | A Backdoor Embedding Method for Backdoor Detection in Deep Neural Networks | UbiSec 2021: 1-12 | 2021 | Meirong Liu, Hong Zheng, Qin Liu, Xiaofei Xing, Yinglong Dai |
+| 540 | Blind Backdoors in Deep Learning Models | USENIX Security Symposium 2021: 1505-1521 | 2021 | Eugene Bagdasaryan, Vitaly Shmatikov |
+| 541 | Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers | USENIX Security Symposium 2021: 1487-1504 | 2021 | Giorgio Severi, Jim Meyer, Scott E. Coull, Alina Oprea |
+| 542 | Demon in the Variant: Statistical Analysis of DNNs for Robust Backdoor Contamination Detection | USENIX Security Symposium 2021: 1541-1558 | 2021 | Di Tang, XiaoFeng Wang, Haixu Tang, Kehuan Zhang |
+| 543 | Explainability Matters: Backdoor Attacks on Medical Imaging | CoRR abs/2101.00008 (2021) | 2021 | Munachiso Nwadike, Takumi Miyawaki, Esha Sarkar, Michail Maniatakos, Farah Shamout |
+| 544 | On Provable Backdoor Defense in Collaborative Learning | CoRR abs/2101.08177 (2021) | 2021 | Ximing Qiao, Yuhua Bai, Siping Hu, Ang Li, Yiran Chen, Hai Li |
+| 545 | DP-InstaHide: Provably Defusing Poisoning and Backdoor Attacks with Differentially Private Data Augmentations | CoRR abs/2103.02079 (2021) | 2021 | Eitan Borgnia, Jonas Geiping, Valeriia Cherepanova, Liam Fowl, Arjun Gupta, Amin Ghiasi, Furong Huang, Micah Goldblum, Tom Goldstein |
+| 546 | EX-RAY: Distinguishing Injected Backdoor from Natural Features in Neural Networks by Examining Differential Feature Symmetry | CoRR abs/2103.08820 (2021) | 2021 | Yingqi Liu, Guangyu Shen, Guanhong Tao, Zhenting Wang, Shiqing Ma, Xiangyu Zhang |
+| 547 | TOP: Backdoor Detection in Neural Networks via Transferability of Perturbation | CoRR abs/2103.10274 (2021) | 2021 | Todd Huster, Emmanuel Ekwedike |
+| 548 | RABA: A Robust Avatar Backdoor Attack on Deep Neural Network | CoRR abs/2104.01026 (2021) | 2021 | Ying He, Zhili Shen, Chang Xia, Jingyu Hua, Wei Tong, Sheng Zhong |
+| 549 | SPECTRE: Defending Against Backdoor Attacks Using Robust Statistics | CoRR abs/2104.11315 (2021) | 2021 | Jonathan Hayase, Weihao Kong, Raghav Somani, Sewoong Oh |
+| 550 | Backdoor Learning Curves: Explaining Backdoor Poisoning Beyond Influence Functions | CoRR abs/2106.07214 (2021) | 2021 | Antonio Emanuele Cinà, Kathrin Grosse, Sebastiano Vascon, Ambra Demontis, Battista Biggio, Fabio Roli, Marcello Pelillo |
+| 551 | Subnet Replacement: Deployment-stage backdoor attack against deep neural networks in gray-box setting | CoRR abs/2107.07240 (2021) | 2021 | Xiangyu Qi, Jifeng Zhu, Chulin Xie, Yong Yang |
+| 552 | Can You Hear It? Backdoor Attacks via Ultrasonic Triggers | CoRR abs/2107.14569 (2021) | 2021 | Stefanos Koffas, Jing Xu, Mauro Conti, Stjepan Picek |
+| 553 | The Devil is in the GAN: Defending Deep Generative Models Against Backdoor Attacks | CoRR abs/2108.01644 (2021) | 2021 | Ambrish Rawat, Killian Levacher, Mathieu Sinn |
+| 554 | Quantization Backdoors to Deep Learning Models | CoRR abs/2108.09187 (2021) | 2021 | Hua Ma, Huming Qiu, Yansong Gao, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said F. Al-Sarawi, Derek Abbott |
+| 555 | Backdoor Attacks on Network Certification via Data Poisoning | CoRR abs/2108.11299 (2021) | 2021 | Tobias Lorenz, Marta Kwiatkowska, Mario Fritz |
+| 556 | Backdoor Attack and Defense for Deep Regression | CoRR abs/2109.02381 (2021) | 2021 | Xi Li, George Kesidis, David J. Miller, Vladimir Lucic |
+| 557 | Check Your Other Door! Establishing Backdoor Attacks in the Frequency Domain | CoRR abs/2109.05507 (2021) | 2021 | Hasan Abed Al Kader Hammoud, Bernard Ghanem |
+| 558 | Widen The Backdoor To Let More Attackers In | CoRR abs/2110.04571 (2021) | 2021 | Siddhartha Datta, Giulio Lovisotto, Ivan Martinovic, Nigel Shadbolt |
+| 559 | An Optimization Perspective on Realizing Backdoor Injection Attacks on Deep Neural Networks in Hardware | CoRR abs/2110.07683 (2021) | 2021 | M. Caner Tol, Saad Islam, Berk Sunar, Ziming Zhang |
+| 560 | A Statistical Difference Reduction Method for Escaping Backdoor Detection | CoRR abs/2111.05077 (2021) | 2021 | Pengfei Xia, Hongjing Niu, Ziqiang Li, Bin Li |
+| 561 | An Overview of Backdoor Attacks Against Deep Neural Networks and Possible Defences | CoRR abs/2111.08429 (2021) | 2021 | Wei Guo, Benedetta Tondi, Mauro Barni |
+| 562 | Backdoor Attack through Frequency Domain | CoRR abs/2111.10991 (2021) | 2021 | Tong Wang, Yuan Yao, Feng Xu, Shengwei An, Hanghang Tong, Ting Wang |
+| 563 | NTD: Non-Transferability Enabled Backdoor Detection | CoRR abs/2111.11157 (2021) | 2021 | Yinshan Li, Hua Ma, Zhi Zhang, Yansong Gao, Alsharif Abuadbba, Anmin Fu, Yifeng Zheng, Said F. Al-Sarawi, Derek Abbott |
+| 564 | How to Backdoor a Cipher | IACR Cryptol. ePrint Arch. 2021: 442 (2021) | 2021 | Raluca Posteuca, Tomer Ashur |
+| 565 | Factoring Primes to Factor Moduli: Backdooring and Distributed Generation of Semiprimes | IACR Cryptol. ePrint Arch. 2021: 1610 (2021) | 2021 | Giuseppe Vitto |
+| 566 | (Withdrawn) Spinning Sequence-to-Sequence Models with Meta-Backdoors | CoRR abs/2107.10443 (2021) | 2021 | Eugene Bagdasaryan, Vitaly Shmatikov |
+| 567 | (Withdrawn) CatchBackdoor: Backdoor Testing by Critical Trojan Neural Path Identification via Differential Fuzzing | CoRR abs/2112.13064 (2021) | 2021 | Haibo Jin, Ruoxi Chen, Jinyin Chen, Yao Cheng, Chong Fu, Ting Wang, Yue Yu, Zhaoyan Ming |
+| 568 | Detecting Backdoor Attacks via Class Difference in Deep Neural Networks | IEEE Access 8: 191049-191056 (2020) | 2020 | Hyun Kwon |
+| 569 | Backdoor Suppression in Neural Networks using Input Fuzzing and Majority Voting | IEEE Des. Test 37(2): 103-110 (2020) | 2020 | Esha Sarkar, Yousif Alkindi, Michail Maniatakos |
+| 570 | Trembling triggers: exploring the sensitivity of backdoors in DNN-based face recognition | EURASIP J. Inf. Secur. 2020: 12 (2020) | 2020 | Cecilia Pasquini, Rainer Böhme |
+| 571 | Multi-Targeted Backdoor: Indentifying Backdoor Attack for Multiple Deep Neural Networks | IEICE Trans. Inf. Syst. 103-D(4): 883-887 (2020) | 2020 | Hyun Kwon, Hyunsoo Yoon, Ki-Woong Park |
+| 572 | Backdoors into Two Occurrences | J. Satisf. Boolean Model. Comput. 12(1): 1-15 (2020) | 2020 | Jan Johannsen |
+| 573 | Backdoor Attacks and Defenses for Deep Neural Networks in Outsourced Cloud Environments | IEEE Netw. 34(5): 141-147 (2020) | 2020 | Yanjiao Chen, Xueluan Gong, Qian Wang, Xing Di, Huayang Huang |
+| 574 | Hidden Trigger Backdoor Attacks | AAAI 2020: 11957-11965 | 2020 | Aniruddha Saha, Akshayvarun Subramanya, Hamed Pirsiavash |
+| 575 | Embedding Backdoors as the Facial Features: Invisible Backdoor Attacks Against Face Recognition Systems | ACM TUR-C 2020: 231-235 | 2020 | Can He, Mingfu Xue, Jian Wang, Weiqiang Liu |
+| 576 | Differentiable Causal Backdoor Discovery | AISTATS 2020: 3970-3979 | 2020 | Limor Gultchin, Matt J. Kusner, Varun Kanade, Ricardo Silva |
+| 577 | Composite Backdoor Attack for Deep Neural Network by Mixing Existing Benign Features | CCS 2020: 113-131 | 2020 | Junyu Lin, Lei Xu, Yingqi Liu, Xiangyu Zhang |
+| 578 | Disabling Backdoor and Identifying Poison Data by using Knowledge Distillation in Backdoor Attacks on Deep Neural Networks | AISec@CCS 2020: 117-127 | 2020 | Kota Yoshida, Takeshi Fujino |
+| 579 | Backdoor Embedding in Convolutional Neural Network Models via Invisible Perturbation | CODASPY 2020: 97-108 | 2020 | Haoti Zhong, Cong Liao, Anna Cinzia Squicciarini, Sencun Zhu, David J. Miller |
+| 580 | The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers | CRYPTO (3) 2020: 249-278 | 2020 | Thomas Peyrin, Haoyang Wang |
+| 581 | The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers | IACR Cryptol. ePrint Arch. 2020: 986 (2020) | 2020 | Thomas Peyrin, Haoyang Wang |
+| 582 | Systematic Evaluation of Backdoor Data Poisoning Attacks on Image Classifiers | CVPR Workshops 2020: 3422-3431 | 2020 | Loc Truong, Chace Jones, Brian Hutchinson, Andrew August, Brenda Praggastis, Robert Jasper, Nicole Nichols, Aaron Tuor |
+| 583 | One-Pixel Signature: Characterizing CNN Models for Backdoor Detection | ECCV (27) 2020: 326-341 | 2020 | Shanjiaoyang Huang, Weiqi Peng, Zhiwei Jia, Zhuowen Tu |
+| 584 | Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks | ECCV (10) 2020: 182-199 | 2020 | Yunfei Liu, Xingjun Ma, James Bailey, Feng Lu |
+| 585 | Interpretability Derived Backdoor Attacks Detection in Deep Neural Networks: Work-in-Progress | EMSOFT 2020: 13-14 | 2020 | Xiangyu Wen, Wei Jiang, Jinyu Zhan, Xupeng Wang, Zhiyuan He |
+| 586 | Biometric Backdoors: A Poisoning Attack Against Unsupervised Template Updating | EuroS&P 2020: 184-197 | 2020 | Giulio Lovisotto, Simon Eberz, Ivan Martinovic |
+| 587 | Bypassing Backdoor Detection Algorithms in Deep Learning | EuroS&P 2020: 175-183 | 2020 | Te Juin Lester Tan, Reza Shokri |
+| 588 | Revealing Backdoors, Post-Training, in DNN Classifiers via Novel Inference on Optimized Perturbations Inducing Group Misclassification | ICASSP 2020: 3827-3831 | 2020 | Zhen Xiang, David J. Miller, George Kesidis |
+| 589 | Backdooring Convolutional Neural Networks via Targeted Weight Perturbations | IJCB 2020: 1-9 | 2020 | Jacob Dumford, Walter J. Scheirer |
+| 590 | Towards Inspecting and Eliminating Trojan Backdoors in Deep Neural Networks | ICDM 2020: 162-171 | 2020 | Wenbo Guo, Lun Wang, Yan Xu, Xinyu Xing, Min Du, Dawn Song |
+| 591 | TargetNet Backdoor: Attack on Deep Neural Network with Use of Different Triggers | ICIIT 2020: 140-145 | 2020 | Hyun Kwon, Jungmin Roh, Hyunsoo Yoon, Ki-Woong Park |
+| 592 | A Defence Against Input-Agnostic Backdoor Attacks on Deep Neural Networks | ICISS 2020: 69-80 | 2020 | Yansong Gao, Surya Nepal |
+| 593 | Backdooring Deep Learning Architectures: Threats and (some) Opportunities | ICISSP 2020: 15-16 | 2020 | Mauro Barni |
+| 594 | Robust anomaly detection and backdoor attack detection via differential privacy | ICLR 2020 | 2020 | Min Du, Ruoxi Jia, Dawn Song |
+| 595 | FriendNet Backdoor: Indentifying Backdoor Attack that is safe for Friendly Deep Neural Network | ICSIM 2020: 53-57 | 2020 | Hyun Kwon, Hyunsoo Yoon, Ki-Woong Park |
+| 596 | Application of complex systems in neural networks against Backdoor attacks | ICTC 2020: 57-59 | 2020 | Sara Kaviani, Insoo Sohn, Huaping Liu |
+| 597 | A Causally Formulated Hazard Ratio Estimation through Backdoor Adjustment on Structural Causal Model | MLHC 2020: 376-396 | 2020 | Riddhiman Adib, Paul M. Griffin, Sheikh Iqbal Ahamed, Mohammad Adibuzzaman |
+| 598 | Revealing Perceptible Backdoors in DNNs, Without the Training Set, via the Maximum Achievable Misclassification Fraction Statistic | MLSP 2020: 1-6 | 2020 | Zhen Xiang, David J. Miller, Hang Wang, George Kesidis |
+| 599 | GangSweep: Sweep out Neural Backdoors by GAN | ACM Multimedia 2020: 3173-3181 | 2020 | Liuwan Zhu, Rui Ning, Cong Wang, Chunsheng Xin, Hongyi Wu |
+| 600 | Input-Aware Dynamic Backdoor Attack | NeurIPS 2020 | 2020 | Tuan Anh Nguyen, Anh Tuan Tran |
+| 601 | Scalable Backdoor Detection in Neural Networks | ECML/PKDD (2) 2020: 289-304 | 2020 | Haripriya Harikumar, Vuong Le, Santu Rana, Sourangshu Bhattacharya, Sunil Gupta, Svetha Venkatesh |
+| 602 | Escaping Backdoor Attack Detection of Deep Learning | SEC 2020: 431-445 | 2020 | Yayuan Xiong, Fengyuan Xu, Sheng Zhong, Qun Li |
+| 603 | Backdooring and Poisoning Neural Networks with Image-Scaling Attacks | SP (Workshops) 2020: 41-47 | 2020 | Erwin Quiring, Konrad Rieck |
+| 604 | Towards Defeating Backdoored Random Oracles: Indifferentiability with Bounded Adaptivity | TCC (3) 2020: 241-273 | 2020 | Yevgeniy Dodis, Pooya Farshim, Sogol Mazaheri, Stefano Tessaro |
+| 605 | Towards Defeating Backdoored Random Oracles: Indifferentiability with Bounded Adaptivity | IACR Cryptol. ePrint Arch. 2020: 1199 (2020) | 2020 | Yevgeniy Dodis, Pooya Farshim, Sogol Mazaheri, Stefano Tessaro |
+| 606 | Detecting acoustic backdoor transmission of inaudible messages using deep learning | WiseML@WiSec 2020: 80-85 | 2020 | Silvija Kokalj-Filipovic, Morriel Kasher, Michael Zhao, Predrag Spasojevic |
+| 607 | NNoculation: Broad Spectrum and Targeted Treatment of Backdoored DNNs | CoRR abs/2002.08313 (2020) | 2020 | Akshaj Kumar Veldanda, Kang Liu, Benjamin Tan, Prashanth Krishnamurthy, Farshad Khorrami, Ramesh Karri, Brendan Dolan-Gavitt, Siddharth Garg |
+| 608 | On Certifying Robustness against Backdoor Attacks via Randomized Smoothing | CoRR abs/2002.11750 (2020) | 2020 | Binghui Wang, Xiaoyu Cao, Jinyuan Jia, Neil Zhenqiang Gong |
+| 609 | Defending against Backdoor Attack on Deep Neural Networks | CoRR abs/2002.12162 (2020) | 2020 | Hao Cheng, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Pu Zhao, Xue Lin |
+| 610 | Exploring Backdoor Poisoning Attacks Against Malware Classifiers | CoRR abs/2003.01031 (2020) | 2020 | Giorgio Severi, Jim Meyer, Scott E. Coull, Alina Oprea |
+| 611 | Rethinking the Trigger of Backdoor Attack | CoRR abs/2004.04692 (2020) | 2020 | Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, Shutao Xia |
+| 612 | A new measure for overfitting and its implications for backdooring of deep learning | CoRR abs/2006.06721 (2020) | 2020 | Kathrin Grosse, Taesung Lee, Youngja Park, Michael Backes, Ian M. Molloy |
+| 613 | FaceHack: Triggering backdoored facial recognition systems using facial characteristics | CoRR abs/2006.11623 (2020) | 2020 | Esha Sarkar, Hadjer Benkraouda, Michail Maniatakos |
+| 614 | Natural Backdoor Attack on Text Data | CoRR abs/2006.16176 (2020) | 2020 | Lichao Sun |
+| 615 | Backdoor attacks and defenses in feature-partitioned collaborative learning | CoRR abs/2007.03608 (2020) | 2020 | Yang Liu, Zhihao Yi, Tianjian Chen |
+| 616 | Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review | CoRR abs/2007.10760 (2020) | 2020 | Yansong Gao, Bao Gia Doan, Zhi Zhang, Siqi Ma, Jiliang Zhang, Anmin Fu, Surya Nepal, Hyoungshick Kim |
+| 617 | Towards a Backdoorless Network Architecture Based on Remote Attestation and Backdoor Inspection | CoRR abs/2007.14748 (2020) | 2020 | Takayuki Sasaki, Yusuke Shimada |
+| 618 | Noise-response Analysis for Rapid Detection of Backdoors in Deep Neural Networks | CoRR abs/2008.00123 (2020) | 2020 | N. Benjamin Erichson, Dane Taylor, Qixuan Wu, Michael W. Mahoney |
+| 619 | Light Can Hack Your Face! Black-box Backdoor Attack on Face Recognition Systems | CoRR abs/2009.06996 (2020) | 2020 | Haoliang Li, Yufei Wang, Xiaofei Xie, Yang Liu, Shiqi Wang, Renjie Wan, Lap-Pui Chau, Alex C. Kot |
+| 620 | What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors | CoRR abs/2009.10639 (2020) | 2020 | Yi-Shan Lin, Wen-Chuan Lee, Z. Berkay Celik |
+| 621 | Don't Trigger Me! A Triggerless Backdoor Attack Against Deep Neural Networks | CoRR abs/2010.03282 (2020) | 2020 | Ahmed Salem, Michael Backes, Yang Zhang |
+| 622 | Poisoned classifiers are not only backdoored, they are fundamentally broken | CoRR abs/2010.09080 (2020) | 2020 | Mingjie Sun, Siddhant Agarwal, J. Zico Kolter |
+| 623 | On Evaluating Neural Network Backdoor Defenses | CoRR abs/2010.12186 (2020) | 2020 | Akshaj Kumar Veldanda, Siddharth Garg |
+| 624 | EEG-Based Brain-Computer Interfaces Are Vulnerable to Backdoor Attacks | CoRR abs/2011.00101 (2020) | 2020 | Lubin Meng, Jian Huang, Zhigang Zeng, Xue Jiang, Shan Yu, Tzyy-Ping Jung, Chin-Teng Lin, Ricardo Chavarriaga, Dongrui Wu |
+| 625 | Detecting Backdoors in Neural Networks Using Novel Feature-Based Anomaly Detection | CoRR abs/2011.02526 (2020) | 2020 | Hao Fu, Akshaj Kumar Veldanda, Prashanth Krishnamurthy, Siddharth Garg, Farshad Khorrami |
+| 626 | Effect of backdoor attacks over the complexity of the latent space distribution | CoRR abs/2012.01931 (2020) | 2020 | Henry D. Chacon, Paul Rad |
+| 627 | Backdoor Attack with Sample-Specific Triggers | CoRR abs/2012.03816 (2020) | 2020 | Yuezun Li, Yiming Li, Baoyuan Wu, Longkang Li, Ran He, Siwei Lyu |
+| 628 | HaS-Nets: A Heal and Select Mechanism to Defend DNNs Against Backdoor Attacks for Data Collection Scenarios | CoRR abs/2012.07474 (2020) | 2020 | Hassan Ali, Surya Nepal, Salil S. Kanhere, Sanjay Jha |
+| 629 | TROJANZOO: Everything you ever wanted to know about neural backdoors (but were afraid to ask) | CoRR abs/2012.09302 (2020) | 2020 | Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, Ting Wang |
+| 630 | A Backdoor Attack Against LSTM-Based Text Classification Systems | IEEE Access 7: 138872-138878 (2019) | 2019 | Jiazhu Dai, Chuanshuai Chen, Yufeng Li |
+| 631 | BadNets: Evaluating Backdooring Attacks on Deep Neural Networks | IEEE Access 7: 47230-47244 (2019) | 2019 | Tianyu Gu, Kang Liu, Brendan Dolan-Gavitt, Siddharth Garg |
+| 632 | Backdoors to planning | Artif. Intell. 269: 49-75 (2019) | 2019 | Martin Kronegger, Sebastian Ordyniak, Andreas Pfandler |
+| 633 | Backdoors to Planning | AAAI 2014: 2300-2307 | 2014 | Martin Kronegger, Sebastian Ordyniak, Andreas Pfandler |
+| 634 | Backdoors for Linear Temporal Logic | Algorithmica 81(2): 476-496 (2019) | 2019 | Arne Meier, Sebastian Ordyniak, M. S. Ramanujan, Irena Schindler |
+| 635 | Backdoors for Linear Temporal Logic | IPEC 2016: 23:1-23:17 | 2016 | Arne Meier, Sebastian Ordyniak, Ramanujan Sridharan, Irena Schindler |
+| 636 | Testing the Human Backdoor: Organizational Response to a Phishing Campaign | J. Univers. Comput. Sci. 25(11): 1458-1477 (2019) | 2019 | Anze Mihelic, Matej Jevscek, Simon Vrhovec, Igor Bernik |
+| 637 | Interbank Networks and Backdoor Bailouts: Benefiting from Other Banks' Government Guarantees | Manag. Sci. 65(8): 3673-3693 (2019) | 2019 | Tim Eisert, Christian Eufinger |
+| 638 | Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering | SafeAI@AAAI 2019 | 2019 | Bryant Chen, Wilka Carvalho, Nathalie Baracaldo, Heiko Ludwig, Benjamin Edwards, Taesung Lee, Ian M. Molloy, Biplav Srivastava |
+| 639 | Latent Backdoor Attacks on Deep Neural Networks | CCS 2019: 2041-2055 | 2019 | Yuanshun Yao, Huiying Li, Haitao Zheng, Ben Y. Zhao |
+| 640 | Backdoor Attacks in Neural Networks - A Systematic Evaluation on Multiple Traffic Sign Datasets | CD-MAKE 2019: 285-300 | 2019 | Huma Rehman, Andreas Ekelhart, Rudolf Mayer |
+| 641 | Walling up Backdoors in Intrusion Detection Systems | Big-DAMA@CoNEXT 2019: 8-13 | 2019 | Maximilian Bachl, Alexander Hartl, Joachim Fabini, Tanja Zseby |
+| 642 | A New Backdoor Attack in CNNS by Training Set Corruption Without Label Poisoning | ICIP 2019: 101-105 | 2019 | Mauro Barni, Kassem Kallas, Benedetta Tondi |
+| 643 | Is Backside the New Backdoor in Modern SoCs?: Invited Paper | ITC 2019: 1-10 | 2019 | Nidish Vashistha, M. Tanjidur Rahman, Olivia P. Paradis, Navid Asadizanjani |
+| 644 | Towards Leveraging Backdoors in Qualitative Constraint Networks | KI 2019: 308-315 | 2019 | Michael Sioutis, Tomi Janhunen |
+| 645 | A Benchmark Study Of Backdoor Data Poisoning Defenses For Deep Neural Network Classifiers And A Novel Defense | MLSP 2019: 1-6 | 2019 | Zhen Xiang, David J. Miller, George Kesidis |
+| 646 | Defending Neural Backdoors via Generative Distribution Modeling | NeurIPS 2019: 14004-14013 | 2019 | Ximing Qiao, Yukun Yang, Hai Li |
+| 647 | Existence Versus Exploitation: The Opacity of Backdoors and Backbones Under a Weak Assumption | SOFSEM 2019: 247-259 | 2019 | Lane A. Hemaspaandra, David E. Narváez |
+| 648 | True2F: Backdoor-Resistant Authentication Tokens | IEEE Symposium on Security and Privacy 2019: 398-416 | 2019 | Emma Dauterman, Henry Corrigan-Gibbs, David Mazières, Dan Boneh, Dominic Rizzo |
+| 649 | Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks | IEEE Symposium on Security and Privacy 2019: 707-723 | 2019 | Bolun Wang, Yuanshun Yao, Shawn Shan, Huiying Li, Bimal Viswanath, Haitao Zheng, Ben Y. Zhao |
+| 650 | Design of intentional backdoors in sequential models | CoRR abs/1902.09972 (2019) | 2019 | Zhaoyuan Yang, Naresh Iyer, Johan Reimann, Nurali Virani |
+| 651 | BSEA-1 - A Stream Cipher Backdooring Technique | CoRR abs/1903.11063 (2019) | 2019 | Eric Filiol |
+| 652 | Regula Sub-rosa: Latent Backdoor Attacks on Deep Neural Networks | CoRR abs/1905.10447 (2019) | 2019 | Yuanshun Yao, Huiying Li, Haitao Zheng, Ben Y. Zhao |
+| 653 | TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems | CoRR abs/1908.01763 (2019) | 2019 | Wenbo Guo, Lun Wang, Xinyu Xing, Min Du, Dawn Song |
+| 654 | Invisible Backdoor Attacks Against Deep Neural Networks | CoRR abs/1909.02742 (2019) | 2019 | Shaofeng Li, Benjamin Zi Hao Zhao, Jiahao Yu, Minhui Xue, Dali Kaafar, Haojin Zhu |
+| 655 | NeuronInspect: Detecting Backdoors in Neural Networks via Output Explanations | CoRR abs/1911.07399 (2019) | 2019 | Xijie Huang, Moustafa Alzantot, Mani B. Srivastava |
+| 656 | Revealing Perceptible Backdoors, without the Training Set, via the Maximum Achievable Misclassification Fraction Statistic | CoRR abs/1911.07970 (2019) | 2019 | Zhen Xiang, David J. Miller, George Kesidis |
+| 657 | Poison as a Cure: Detecting & Neutralizing Variable-Sized Backdoor Attacks in Deep Neural Networks | CoRR abs/1911.08040 (2019) | 2019 | Alvin Chan, Yew-Soon Ong |
+| 658 | Label-Consistent Backdoor Attacks | CoRR abs/1912.02771 (2019) | 2019 | Alexander Turner, Dimitris Tsipras, Aleksander Madry |
+| 659 | Backdoor detection systems for embedded devices | University of Birmingham, UK, 2018 | 2018 | Sam L. Thomas |
+| 660 | Technical perspective: Backdoor engineering | Commun. ACM 61(11): 147 (2018) | 2018 | Markus G. Kuhn |
+| 661 | Real-time Detection of Passive Backdoor Behaviors on Android System | CNS 2018: 1-9 | 2018 | Yao Yao, Lipeng Zhu, He Wang |
+| 662 | Learning-Sensitive Backdoors with Restarts | CP 2018: 453-469 | 2018 | Edward Zulkoski, Ruben Martins, Christoph M. Wintersteiger, Robert Robere, Jia Hui Liang, Krzysztof Czarnecki, Vijay Ganesh |
+| 663 | From Backdoor Key to Backdoor Completability: Improving a Known Measure of Hardness for the Satisfiable CSP | CPAIOR 2018: 198-214 | 2018 | Guillaume Escamocher, Mohamed Siala, Barry O'Sullivan |
+| 664 | Combiners for Backdoored Random Oracles | CRYPTO (2) 2018: 272-302 | 2018 | Balthazar Bauer, Pooya Farshim, Sogol Mazaheri |
+| 665 | Combiners for Backdoored Random Oracles | IACR Cryptol. ePrint Arch. 2018: 770 (2018) | 2018 | Balthazar Bauer, Pooya Farshim, Sogol Mazaheri |
+| 666 | Backdoored Hash Functions: Immunizing HMAC and HKDF | CSF 2018: 105-118 | 2018 | Marc Fischlin, Christian Janson, Sogol Mazaheri |
+| 667 | Backdoored Hash Functions: Immunizing HMAC and HKDF | IACR Cryptol. ePrint Arch. 2018: 362 (2018) | 2018 | Marc Fischlin, Christian Janson, Sogol Mazaheri |
+| 668 | Remote Desktop Backdoor Implementation with Reverse TCP Payload Using Open Source Tools for Instructional Use | EIT 2018: 249-254 | 2018 | Yaswanth Kolli, Tauheed Khan Mohd, Ahmad Y. Javaid |
+| 669 | Backdoor Attacks on Neural Network Operations | GlobalSIP 2018: 1154-1158 | 2018 | Joseph Clements, Yingjie Lao |
+| 670 | UFO - Hidden Backdoor Discovery and Security Verification in IoT Device Firmware | ISSRE Workshops 2018: 18-23 | 2018 | Chin-Wei Tien, Tsung-Ta Tsai, Ing-Yi Chen, Sy-Yen Kuo |
+| 671 | Spectral Signatures in Backdoor Attacks | NeurIPS 2018: 8011-8021 | 2018 | Brandon Tran, Jerry Li, Aleksander Madry |
+| 672 | Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks | RAID 2018: 273-294 | 2018 | Kang Liu, Brendan Dolan-Gavitt, Siddharth Garg |
+| 673 | Backdoors: Definition, Deniability and Detection | RAID 2018: 92-113 | 2018 | Sam L. Thomas, Aurélien Francillon |
+| 674 | ALIAS: A Modular Tool for Finding Backdoors for SAT | SAT 2018: 419-427 | 2018 | Stepan Kochemazov, Oleg Zaikin |
+| 675 | Backdoor Decomposable Monotone Circuits and their Propagation Complete Encodings | CoRR abs/1811.09435 (2018) | 2018 | Petr Kucera, Petr Savický |
+| 676 | How a simple bug in ML compiler could be exploited for backdoors | CoRR abs/1811.10851 (2018) | 2018 | Baptiste David |
+| 677 | On the Existence of Non-Linear Invariants and Algebraic Polynomial Constructive Approach to Backdoors in Block Ciphers | IACR Cryptol. ePrint Arch. 2018: 807 (2018) | 2018 | Nicolas T. Courtois |
+| 678 | Backdoors into heterogeneous classes of SAT and CSP | J. Comput. Syst. Sci. 85: 38-56 (2017) | 2017 | Serge Gaspers, Neeldhara Misra, Sebastian Ordyniak, Stefan Szeider, Stanislav Zivný |
+| 679 | Backdoors into Heterogeneous Classes of SAT and CSP | AAAI 2014: 2652-2658 | 2014 | Serge Gaspers, Neeldhara Misra, Sebastian Ordyniak, Stefan Szeider, Stanislav Zivný |
+| 680 | Open Sesame! Design and Implementation of Backdoor to Secretly Unlock Android Devices | J. Internet Serv. Inf. Secur. 7(4): 35-44 (2017) | 2017 | Junsung Cho, Geumhwan Cho, Sangwon Hyun, Hyoungshick Kim |
+| 681 | BackDoor: Sounds that a microphone can record, but that humans can't hear | GetMobile Mob. Comput. Commun. 21(4): 25-29 (2017) | 2017 | Nirupam Roy, Haitham Hassanieh, Romit Roy Choudhury |
+| 682 | Backdoor attacks against learning systems | CNS 2017: 1-9 | 2017 | Yujie Ji, Xinyang Zhang, Ting Wang |
+| 683 | Stringer: Measuring the Importance of Static Data Comparisons to Detect Backdoors and Undocumented Functionality | ESORICS (2) 2017: 513-531 | 2017 | Sam L. Thomas, Tom Chothia, Flavio D. Garcia |
+| 684 | Mathematical Backdoors in Symmetric Encryption Systems - Proposal for a Backdoored AES-like Block Cipher | ICISSP 2017: 622-631 | 2017 | Arnaud Bannier, Eric Filiol |
+| 685 | Low-cost detection of backdoor malware | ICITST 2017: 197-198 | 2017 | Huicong Loi, Aspen Olmsted |
+| 686 | Backdoor Trees for Answer Set Programming | ASPOCP@LPNMR 2017 | 2017 | Johannes Klaus Fichte, Stefan Szeider |
+| 687 | BackDoor: Making Microphones Hear Inaudible Sounds | MobiSys 2017: 2-14 | 2017 | Nirupam Roy, Haitham Hassanieh, Romit Roy Choudhury |
+| 688 | Indiscreet Logs: Diffie-Hellman Backdoors in TLS | NDSS 2017 | 2017 | Kristen Dorey, Nicholas Chang-Fong, Aleksander Essex |
+| 689 | Backdoor Treewidth for SAT | SAT 2017: 20-37 | 2017 | Robert Ganian, M. S. Ramanujan, Stefan Szeider |
+| 690 | Combining Treewidth and Backdoors for CSP | STACS 2017: 36:1-36:17 | 2017 | Robert Ganian, M. S. Ramanujan, Stefan Szeider |
+| 691 | Backdoor Sets for CSP | The Constraint Satisfaction Problem 2017: 137-157 | 2017 | Serge Gaspers, Sebastian Ordyniak, Stefan Szeider |
+| 692 | The Opacity of Backbones and Backdoors Under a Weak Assumption | CoRR abs/1706.04582 (2017) | 2017 | Lane A. Hemaspaandra, David E. Narváez |
+| 693 | Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning | CoRR abs/1712.05526 (2017) | 2017 | Xinyun Chen, Chang Liu, Bo Li, Kimberly Lu, Dawn Song |
+| 694 | Backdoors to q-Horn | Algorithmica 74(1): 540-557 (2016) | 2016 | Serge Gaspers, Sebastian Ordyniak, M. S. Ramanujan, Saket Saurabh, Stefan Szeider |
+| 695 | Backdoors to q-Horn | STACS 2013: 67-79 | 2013 | Serge Gaspers, Sebastian Ordyniak, M. S. Ramanujan, Saket Saurabh, Stefan Szeider |
+| 696 | No backdoor required or expected | Commun. ACM 59(6): 8-9 (2016) | 2016 | CACM Staff |
+| 697 | Detecting Stealthy Backdoors and Port Knocking Sequences through Flow Analysis | Prax. Inf.verarb. Kommun. 38(3-4): 97-104 (2016) | 2016 | Felix von Eye, Michael Grabatin, Wolfgang Hommel |
+| 698 | Backdoors to Tractable Valued CSP | CP 2016: 233-250 | 2016 | Robert Ganian, M. S. Ramanujan, Stefan Szeider |
+| 699 | Backdoors in Pseudorandom Number Generators: Possibility and Impossibility Results | CRYPTO (1) 2016: 403-432 | 2016 | Jean Paul Degabriele, Kenneth G. Paterson, Jacob C. N. Schuldt, Joanne Woodage |
+| 700 | Backdoors in Pseudorandom Number Generators: Possibility and Impossibility Results | IACR Cryptol. ePrint Arch. 2016: 577 (2016) | 2016 | Jean Paul Degabriele, Kenneth G. Paterson, Jacob C. N. Schuldt, Joanne Woodage |
+| 701 | Strong Backdoors for Default Logic | SAT 2016: 45-59 | 2016 | Johannes Klaus Fichte, Arne Meier, Irina Schindler |
+| 702 | Backdoors to SAT | Encyclopedia of Algorithms 2016: 167-170 | 2016 | Serge Gaspers |
+| 703 | Strong Backdoors for Linear Temporal Logic | CoRR abs/1602.04934 (2016) | 2016 | Arne Meier, Sebastian Ordyniak, M. S. Ramanujan, Irena Schindler |
+| 704 | A Formal Treatment of Backdoored Pseudorandom Generators | IACR Cryptol. ePrint Arch. 2016: 306 (2016) | 2016 | Yevgeniy Dodis, Chaya Ganesh, Alexander Golovnev, Ari Juels, Thomas Ristenpart |
+| 705 | A Formal Treatment of Backdoored Pseudorandom Generators | EUROCRYPT (1) 2015: 101-126 | 2015 | Yevgeniy Dodis, Chaya Ganesh, Alexander Golovnev, Ari Juels, Thomas Ristenpart |
+| 706 | Indiscreet Logs: Persistent Diffie-Hellman Backdoors in TLS | IACR Cryptol. ePrint Arch. 2016: 999 (2016) | 2016 | Kristen Dorey, Nicholas Chang-Fong, Aleksander Essex |
+| 707 | DEcryption Contract ENforcement Tool (DECENT): A Practical Alternative to Government Decryption Backdoors | IACR Cryptol. ePrint Arch. 2016: 245 (2016) | 2016 | Peter Linder |
+| 708 | How to Backdoor Diffie-Hellman | IACR Cryptol. ePrint Arch. 2016: 644 (2016) | 2016 | David Wong |
+| 709 | Backdoors to tractable answer set programming | Artif. Intell. 220: 64-103 (2015) | 2015 | Johannes Klaus Fichte, Stefan Szeider |
+| 710 | Backdoors to Normality for Disjunctive Logic Programs | ACM Trans. Comput. Log. 17(1): 7 (2015) | 2015 | Johannes Klaus Fichte, Stefan Szeider |
+| 711 | Backdoors to Normality for Disjunctive Logic Programs | AAAI 2013: 320-327 | 2013 | Johannes Klaus Fichte, Stefan Szeider |
+| 712 | Variable-Deletion Backdoors to Planning | AAAI 2015: 3305-3312 | 2015 | Martin Kronegger, Sebastian Ordyniak, Andreas Pfandler |
+| 713 | Internet-facing PLCs as a network backdoor | CNS 2015: 524-532 | 2015 | Johannes Klick, Stephan Lau, Daniel Marzin, Jan-Ole Malchow, Volker Roth |
+| 714 | Netzbasierte Erkennung von mittels Port Knocking verstecksten Dienstern und Backdoors | DFN-Forum Kommunikationstechnologien 2015: 57-67 | 2015 | Felix von Eye, Michael Grabatin, Wolfgang Hommel |
+| 715 | Integrated Sensor: A Backdoor for Hardware Trojan Insertions | DSD 2015: 415-422 | 2015 | Xuan Thuy Ngo, Zakaria Najm, Shivam Bhasin, Debapriya Basu Roy, Jean-Luc Danger, Sylvain Guilley |
+| 716 | Covert remote syscall communication at kernel level: A SPOOKY backdoor | MALWARE 2015: 74-81 | 2015 | Florian Kerber, Dominik Teubert, Ulrike Meyer |
+| 717 | Devil in a box: Installing backdoors in electronic door locks | PST 2015: 139-144 | 2015 | Seongyeol Oh, Joon-Sung Yang, Andrea Bianchi, Hyoungshick Kim |
+| 718 | Solving d-SAT via Backdoors to Small Treewidth | SODA 2015: 630-641 | 2015 | Fedor V. Fomin, Daniel Lokshtanov, Neeldhara Misra, M. S. Ramanujan, Saket Saurabh |
+| 719 | Tradeoffs in the complexity of backdoors to satisfiability: dynamic sub-solvers and learning during search | Ann. Math. Artif. Intell. 70(4): 399-431 (2014) | 2014 | Bistra Dilkina, Carla P. Gomes, Ashish Sabharwal |
+| 720 | Backdoor | Datenschutz und Datensicherheit 38(2): 119 (2014) | 2014 | Dirk Fox |
+| 721 | Answer Set Solver Backdoors | JELIA 2014: 674-683 | 2014 | Emilia Oikarinen, Matti Järvisalo |
+| 722 | Backdoor Branching | INFORMS J. Comput. 25(4): 693-700 (2013) | 2013 | Matteo Fischetti, Michele Monaci |
+| 723 | Backdoor Branching | IPCO 2011: 183-191 | 2011 | Matteo Fischetti, Michele Monaci |
+| 724 | Backdoors to the Tractability of Answer Set Programming | Theory Pract. Log. Program. 13(4-5-Online-Supplement) (2013) | 2013 | Johannes Klaus Fichte |
+| 725 | Backdoors to Tractability of Answer-Set Programming | AAAI 2013: 1662-1663 | 2013 | Johannes Klaus Fichte |
+| 726 | Implementation and implications of a stealth hard-drive backdoor | ACSAC 2013: 279-288 | 2013 | Jonas Zaddach, Anil Kurmus, Davide Balzarotti, Erik-Oliver Blass, Aurélien Francillon, Travis Goodspeed, Moitrayee Gupta, Ioannis Koltsidas |
+| 727 | Towards reducing the attack surface of software backdoors | CCS 2013: 851-862 | 2013 | Felix Schuster, Thorsten Holz |
+| 728 | Preventing Backdoors in Server Applications with a Separated Software Architecture - (Short Paper) | DIMVA 2013: 197-206 | 2013 | Felix Schuster, Stefan Rüster, Thorsten Holz |
+| 729 | Strong Backdoors to Bounded Treewidth SAT | FOCS 2013: 489-498 | 2013 | Serge Gaspers, Stefan Szeider |
+| 730 | Crowdsourcing Backdoor Identification for Combinatorial Optimization | IJCAI 2013: 2840-2847 | 2013 | Ronan LeBras, Richard Bernstein, Carla P. Gomes, Bart Selman, R. Bruce van Dover |
+| 731 | Backdoors to Abduction | IJCAI 2013: 1046-1052 | 2013 | Andreas Pfandler, Stefan Rümmele, Stefan Szeider |
+| 732 | Upper and Lower Bounds for Weak Backdoor Set Detection | SAT 2013: 394-402 | 2013 | Neeldhara Misra, Sebastian Ordyniak, Venkatesh Raman, Stefan Szeider |
+| 733 | Vulnerability-Based Backdoors: Threats from Two-step Trojans | SERE 2013: 169-177 | 2013 | Kai Chen, Yingjun Zhang, Yifeng Lian |
+| 734 | A generalized backdoor criterion | CoRR abs/1307.5636 (2013) | 2013 | Marloes H. Maathuis, Diego Colombo |
+| 735 | Backdoors to Satisfaction | The Multivariate Algorithmic Revolution and Beyond 2012: 287-317 | 2012 | Serge Gaspers, Stefan Szeider |
+| 736 | Breakthrough Silicon Scanning Discovers Backdoor in Military Chip | CHES 2012: 23-40 | 2012 | Sergei Skorobogatov, Christopher Woods |
+| 737 | Backdoors to Acyclic SAT | ICALP (1) 2012: 363-374 | 2012 | Serge Gaspers, Stefan Szeider |
+| 738 | Detecting Stealthy Backdoors with Association Rule Mining | Networking (2) 2012: 161-171 | 2012 | Stefan Hommes, Radu State, Thomas Engel |
+| 739 | Strong Backdoors to Nested Satisfiability | SAT 2012: 72-85 | 2012 | Serge Gaspers, Stefan Szeider |
+| 740 | A Framework to Eliminate Backdoors from Response-Computable Authentication | IEEE Symposium on Security and Privacy 2012: 3-17 | 2012 | Shuaifu Dai, Tao Wei, Chao Zhang, Tielei Wang, Yu Ding, Zhenkai Liang, Wei Zou |
+| 741 | Finding Small Backdoors in SAT Instances | Canadian AI 2011: 269-280 | 2011 | Zijie Li, Peter van Beek |
+| 742 | Trusting the open latent IC backdoors | STC@CCS 2011: 1-2 | 2011 | Farinaz Koushanfar |
+| 743 | TorusDesktop: pointing via the backdoor is sometimes shorter | CHI 2011: 829-838 | 2011 | Stéphane Huot, Olivier Chapuis, Pierre Dragicevic |
+| 744 | Backdoors to Tractable Answer-Set Programming | IJCAI 2011: 863-868 | 2011 | Johannes Klaus Fichte, Stefan Szeider |
+| 745 | Silencing Hardware Backdoors | IEEE Symposium on Security and Privacy 2011: 49-63 | 2011 | Adam Waksman, Simha Sethumadhavan |
+| 746 | Static detection of application backdoors - Detecting both malicious software behavior and malicious indicators from the static analysis of executable code | Datenschutz und Datensicherheit 34(3): 149-155 (2010) | 2010 | Chris Wysopal, Chris Eng, Tyler Shields |
+| 747 | Backdoor Sets of Quantified Boolean Formulas | J. Autom. Reason. 42(1): 77-97 (2009) | 2009 | Marko Samer, Stefan Szeider |
+| 748 | Backdoor Sets of Quantified Boolean Formulas | SAT 2007: 230-243 | 2007 | Marko Samer, Stefan Szeider |
+| 749 | Matched Formulas and Backdoor Sets | J. Satisf. Boolean Model. Comput. 6(1-3): 1-12 (2009) | 2009 | Stefan Szeider |
+| 750 | Matched Formulas and Backdoor Sets | SAT 2007: 94-99 | 2007 | Stefan Szeider |
+| 751 | CPU bugs, CPU backdoors and consequences on security | J. Comput. Virol. 5(2): 91-104 (2009) | 2009 | Loïc Duflot |
+| 752 | CPU Bugs, CPU Backdoors and Consequences on Security | ESORICS 2008: 580-599 | 2008 | Loïc Duflot |
+| 753 | A chipset level network backdoor: bypassing host-based firewall & IDS | AsiaCCS 2009: 125-134 | 2009 | Sherri Sparks, Shawn Embleton, Cliff Changchun Zou |
+| 754 | Backdoors to Combinatorial Optimization: Feasibility and Optimality | CPAIOR 2009: 56-70 | 2009 | Bistra Dilkina, Carla P. Gomes, Yuri Malitsky, Ashish Sabharwal, Meinolf Sellmann |
+| 755 | A study on intrusion protection techniques against Linux kernel backdoor | ICHIT 2009: 86-90 | 2009 | Jin Taek Kim, Jeong-Ho Kho, Min-Seok Hong, Choul Woong Son, Do-Won Lee, Sang-Jo Youk, Geuk Lee |
+| 756 | Backdoors in the Context of Learning | SAT 2009: 73-79 | 2009 | Bistra Dilkina, Carla P. Gomes, Ashish Sabharwal |
+| 757 | Backdoor Trees | AAAI 2008: 363-368 | 2008 | Marko Samer, Stefan Szeider |
+| 758 | A New Empirical Study of Weak Backdoors | CP 2008: 618-623 | 2008 | Peter Gregory, Maria Fox, Derek Long |
+| 759 | Tradeoffs in Backdoors: Inconsistency Detection, Dynamic Simplification, and Preprocessing | ISAIM 2008 | 2008 | Bistra Dilkina, Carla P. Gomes, Ashish Sabharwal |
+| 760 | Computation of Renameable Horn Backdoors | SAT 2008: 154-160 | 2008 | Stephan Kottler, Michael Kaufmann, Carsten Sinz |
+| 761 | A New Bound for an NP-Hard Subclass of 3-SAT Using Backdoors | SAT 2008: 161-167 | 2008 | Stephan Kottler, Michael Kaufmann, Carsten Sinz |
+| 762 | Detecting and Guarding against Kernel Backdoors through Packet Flow Differentials | IEICE Trans. Commun. 90-B(10): 2638-2645 (2007) | 2007 | Cheolho Lee, Kiwook Sohn |
+| 763 | Tradeoffs in the Complexity of Backdoor Detection | CP 2007: 256-270 | 2007 | Bistra Dilkina, Carla P. Gomes, Ashish Sabharwal |
+| 764 | From Horn Strong Backdoor Sets to Ordered Strong Backdoor Sets | MICAI 2007: 105-117 | 2007 | Lionel Paris, Richard Ostrowski, Pierre Siegel, Lakhdar Sais |
+| 765 | COTS and other electronic voting backdoors | Commun. ACM 49(11): 112 (2006) | 2006 | Rebecca T. Mercuri, Vincent J. Lipsio, Beth Feehan |
+| 766 | Computing Horn Strong Backdoor Sets Thanks to Local Search | ICTAI 2006: 139-143 | 2006 | Lionel Paris, Richard Ostrowski, Pierre Siegel, Lakhdar Sais |
+| 767 | Backdoor Sets for DLL Subsolvers | J. Autom. Reason. 35(1-3): 73-88 (2005) | 2005 | Stefan Szeider |
+| 768 | Backbones and Backdoors in Satisfiability | AAAI 2005: 1368-1373 | 2005 | Philip Kilby, John K. Slaney, Sylvie Thiébaux, Toby Walsh |
+| 769 | A self-checking signature scheme for checking backdoor security attacks in Internet | J. High Speed Networks 13(4): 309-317 (2004) | 2004 | Mohammed Fadle Abdulla, C. P. Ravikumar |
+| 770 | The Backdoor Key: A Path to Understanding Problem Hardness | AAAI 2004: 124-130 | 2004 | Yongshao Ruan, Henry A. Kautz, Eric Horvitz |
+| 771 | Backdoor Creativity: Collaborative Creativity in Technology Supported Teams | COOP 2004: 99-114 | 2004 | Hillevi Sundholm, Henrik Artman, Robert Ramberg |
+| 772 | Remote Repair of Operating System State Using Backdoors | ICAC 2004: 256-263 | 2004 | Aniruddha Bohra, Iulian Neamtiu, Pascal Gallard, Florin Sultan, Liviu Iftode |
+| 773 | Detecting Backdoor Sets with Respect to Horn and Binary Clauses | SAT 2004 | 2004 | Naomi Nishimura, Prabhakar Ragde, Stefan Szeider |
+| 774 | Backdoor Attacks on Black-Box Ciphers Exploiting Low-Entropy Plaintexts | ACISP 2003: 297-311 | 2003 | Adam L. Young, Moti Yung |
+| 775 | Automatic Backdoor Analysis with Network Intrusion Detection System and Integrated Service Checker | IAW 2003: 122-126 | 2003 | Jukka Juslin, Teemupekka Virtanen |
+| 776 | Backdoors To Typical Case Complexity | IJCAI 2003: 1173-1178 | 2003 | Ryan Williams, Carla P. Gomes, Bart Selman |
+| 777 | Detecting Backdoors | USENIX Security Symposium 2000 | 2000 | Yin Zhang, Vern Paxson |
