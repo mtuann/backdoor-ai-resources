@@ -1,4 +1,4 @@
-This 
+This Github repository contains a list of Backdoor Stuff resources in AI/ ML/ FL domain.
 
 # Reference
 If our repo or survey is useful for your research, please cite our work as follows:
