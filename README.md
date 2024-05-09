@@ -1234,7 +1234,7 @@ If our repo or survey is useful for your research, please cite our work as follo
 | 479 | Combining Treewidth and Backdoors for CSP | STACS 2017: 36:1-36:17 | 2017 | Robert Ganian, M. S. Ramanujan, Stefan Szeider |
 | 480 | Backdoor Sets for CSP | The Constraint Satisfaction Problem 2017: 137-157 | 2017 | Serge Gaspers, Sebastian Ordyniak, Stefan Szeider |
 | 481 | The Opacity of Backbones and Backdoors Under a Weak Assumption | CoRR abs/1706.04582 (2017) | 2017 | Lane A. Hemaspaandra, David E. Narváez |
-# Irrelevant
+# Irrelevance
 |No. | Title | Venue | Year | Author |
 |----|-------|-------|------|--------|
 | 1 | Backdoors to Planning | AAAI 2014: 2300-2307 | 2014 | Martin Kronegger, Sebastian Ordyniak, Andreas Pfandler |
