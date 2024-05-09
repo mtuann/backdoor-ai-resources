@@ -2,15 +2,16 @@ This
 
 # Reference
 If our repo or survey is useful for your research, please cite our work as follows:
+```
 @misc{nguyen2024,
   author = {Tuan, Nguyen},
   title = {Backdoor Machine Learning Resources},
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/charlespwd/project-title}},
-  <!-- commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679} -->
-}
+  howpublished = {\url{https://github.com/mtuann/backdoor-ai-resources}},
+```
+<!-- commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679} -->
 
 
 # Survey
