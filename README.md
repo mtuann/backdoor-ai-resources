@@ -10,9 +10,9 @@ If our repo or survey is useful for your research, please cite our work as follo
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/mtuann/backdoor-ai-resources}},
+  commit = {8f69fd712c05740ebc082b2d2477bf50033f4691}
 }
 ```
-<!-- commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679} -->
 
 
 # Survey
