@@ -24,7 +24,7 @@ def convert_pp_to_csv(all_papers):
     pp_dict = {k: [] for k in keys_dict}
 
     for title, papers in group_by_title.items():
-        paper = papers[-1]['info']
+        paper = papers[0]['info']
         try:
             authors = paper['authors']['author']
             authors = [a['text'] for a in authors]
@@ -118,7 +118,7 @@ print(f"Number of papers: {len(all_papers)}")
 
 df_pp = convert_pp_to_csv(all_papers)
 
-# categorize_papers(df_pp)
+categorize_papers(df_pp)
 
 
 
