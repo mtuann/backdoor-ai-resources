@@ -1,3 +1,6 @@
 bd_paper.md
-backdoor_dblp*
+backdoor_papers.md
 *.ipynb
+.DS_Store
+backdoor_papers_240511.csv
+filter_papers.py
