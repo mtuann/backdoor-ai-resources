@@ -16,12 +16,27 @@ If our repo or survey is useful for your research, please cite our work as follo
 
 In this repository, we provide updated papers on backdoor learning. The papers are collected from the dblp database (all venues) and are updated until September 11th, 2024.
 
+For Federated Learning (FL) papers, please visit the [**FL repository**](https://github.com/mtuann/federated-learning-updated-papers).
+
 <!-- To search for papers, you can visit the full list on [shinyapps's website](https://mtuann.shinyapps.io/research-papers/). -->
 
-If you find this useful, please give us a **star** or support me by buying me a coffee [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/AIsmylife).
+<!-- If you find this useful, please give us a **star** or support me by buying me a coffee [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/AIsmylife).
+ -->
+
+---
+If you find this useful, please give us a **star** or support me by buying me a coffee.
+
+<div style="text-align: center;">
+    <a href="https://paypal.me/AIsmylife" target="_blank">
+        <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
+    </a>
+</div>
 
 
+--- 
 Due to GitHub repository limitations, we only include papers that provide accompanying code and sorted by the publish date. If you want to access the full list of papers, please visit the [shinyapps's website](https://mtuann.shinyapps.io/research-papers/).
+
+---
 
 |No.|Title|Authors|Publish Date|Venue|Code|URL|
 |---|---|---|---|---|---|---|
