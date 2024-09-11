@@ -1,4 +1,8 @@
-This Github repository contains a list of Backdoor Stuff resources in AI/ ML/ Federated Learning (FL) domain. The resources include papers, datasets, tools, and tutorials. The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ ML/ FL conferences and journals.
+This Github repository contains a list of Backdoor Stuff resources in AI/ ML/ Federated Learning (FL) domain. 
+
+- The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ ML conferences and journals.
+
+- The papers are updated until **September 11th, 2024**.
 
 # Reference
 If our repo or survey is useful for your research, please cite our work as follows:
@@ -14,9 +18,9 @@ If our repo or survey is useful for your research, please cite our work as follo
 }
 ```
 
-In this repository, we provide updated papers on backdoor learning. The papers are collected from the dblp database (all venues) and are updated until September 11th, 2024.
 
-For Federated Learning (FL) papers, please visit the [**FL repository**](https://github.com/mtuann/federated-learning-updated-papers).
+
+For **Federated Learning** (FL) papers, please visit the [**FL Repository**](https://github.com/mtuann/federated-learning-updated-papers).
 
 <!-- To search for papers, you can visit the full list on [shinyapps's website](https://mtuann.shinyapps.io/research-papers/). -->
 
