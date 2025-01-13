@@ -5,7 +5,7 @@
 
 
 ## Backdoor Learning Papers
-This GitHub repository contains an updated list of Federated Learning papers as of **January 09, 2025**. 
+This GitHub repository contains an updated list of Federated Learning papers as of **January 13, 2025**. 
 
 - The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ML conferences and journals.
 - For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
@@ -38,7 +38,7 @@ Due to GitHub repository limitations, this section includes only those papers th
 
 |No.|Title|Authors|Publish Date|Venue|Code|URL|
 |---|---|---|---|---|---|---|
-|1|Backdoor Token Unlearning: Exposing and Defending Backdoors in Pretrained Language Models|Peihai Jiang, Xixiang Lyu, Yige Li, Jing Ma|2025-01-05|arXiv|https://github.com/XDJPH/BTU|http://arxiv.org/abs/2501.03272v1|
+|1|Backdoor Token Unlearning: Exposing and Defending Backdoors in Pretrained Language Models|Peihai Jiang, Xixiang Lyu, Yige Li, Jing Ma|2025-01-06|arXiv:2501.03272, 2025|https://github.com/XDJPH/BTU|http://arxiv.org/abs/2501.03272v1|
 |2|Vertical Federated Unlearning via Backdoor Certification|Mengde Han, Tianqing Zhu, Lefeng Zhang, Huan Huo, Wanlei Zhou|2024-12-16|arXiv|https://github.com/mengde-han/VFL-unlearn|http://arxiv.org/abs/2412.11476v1|
 |3|Backdoor Attacks against No-Reference Image Quality Assessment Models via A Scalable Trigger|Yi Yu, Song Xia, Xun Lin, Wenhan Yang, Shijian Lu, Yap-peng Tan, Alex Kot|2024-12-12|arXiv …, 2024|https://github.com/yuyi-sd/BAIQA|http://arxiv.org/abs/2412.07277v1|
 |4|PBP: Post-training Backdoor Purification for Malware Classifiers|Dung Thuy Nguyen, Ngoc N. Tran, Taylor T. Johnson, Kevin Leach|2024-12-06|arXiv …, 2024|https://github.com/judydnguyen/pbp-backdoor-purification-official|http://arxiv.org/abs/2412.03441v3|
