@@ -5,7 +5,7 @@
 
 
 ## Backdoor Learning Papers
-This GitHub repository contains an updated list of Federated Learning papers as of **January 17, 2025**. 
+This GitHub repository contains an updated list of Federated Learning papers as of **January 21, 2025**. 
 
 - The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ML conferences and journals.
 - For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
@@ -38,7 +38,7 @@ Due to GitHub repository limitations, this section includes only those papers th
 
 |No.|Title|Authors|Publish Date|Venue|Code|URL|
 |---|---|---|---|---|---|---|
-|1|Energy Backdoor Attack to Deep Neural Networks|Hanene F. Z. Brachemi Meftah, Wassim Hamidouche, Sid Ahmed Fezza, Olivier Déforges, Kassem Kallas|2025-01-14|arXiv|https://github.com/hbrachemi/energy_backdoor|http://arxiv.org/abs/2501.08152v1|
+|1|Energy Backdoor Attack to Deep Neural Networks|Hanene F. Z. Brachemi Meftah, Wassim Hamidouche, Sid Ahmed Fezza, Olivier Déforges, Kassem Kallas|2025-01-17|arXiv e …, 2025|https://github.com/hbrachemi/energy_backdoor|http://arxiv.org/abs/2501.08152v1|
 |2|Backdoor Token Unlearning: Exposing and Defending Backdoors in Pretrained Language Models|Peihai Jiang, Xixiang Lyu, Yige Li, Jing Ma|2025-01-06|arXiv:2501.03272, 2025|https://github.com/XDJPH/BTU|http://arxiv.org/abs/2501.03272v1|
 |3|Vertical Federated Unlearning via Backdoor Certification|Mengde Han, Tianqing Zhu, Lefeng Zhang, Huan Huo, Wanlei Zhou|2024-12-16|arXiv|https://github.com/mengde-han/VFL-unlearn|http://arxiv.org/abs/2412.11476v1|
 |4|Backdoor Attacks against No-Reference Image Quality Assessment Models via A Scalable Trigger|Yi Yu, Song Xia, Xun Lin, Wenhan Yang, Shijian Lu, Yap-peng Tan, Alex Kot|2024-12-12|arXiv …, 2024|https://github.com/yuyi-sd/BAIQA|http://arxiv.org/abs/2412.07277v1|
