@@ -5,7 +5,7 @@
 
 
 ## Backdoor Learning Papers
-This GitHub repository contains an updated list of Federated Learning papers as of **March 13, 2025**. 
+This GitHub repository contains an updated list of Federated Learning papers as of **March 17, 2025**. 
 
 - The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ML conferences and journals.
 - For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
@@ -38,7 +38,7 @@ Due to GitHub repository limitations, this section includes only those papers th
 
 |No.|Title|Authors|Publish Date|Venue|Code|URL|
 |---|---|---|---|---|---|---|
-|1|Detecting Backdoor Attacks in Federated Learning via Direction Alignment Inspection|Jiahao Xu, Zikai Zhang, Rui Hu|2025-03-11|arXiv|https://github.com/JiiahaoXU/AlignIns|http://arxiv.org/abs/2503.07978v1|
+|1|Detecting Backdoor Attacks in Federated Learning via Direction Alignment Inspection|Jiahao Xu, Zikai Zhang, Rui Hu|2025-03-13|arXiv:2503.07978, 2025|https://github.com/JiiahaoXU/AlignIns|http://arxiv.org/abs/2503.07978v1|
 |2|CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking|Yiming Li, Kaiying Yan, Shuo Shao, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao|2025-03-02|arXiv …, 2025|https://github.com/Radiant0726/CBW|http://arxiv.org/abs/2503.05794v2|
 |3|BadRefSR: Backdoor Attacks Against Reference-based Image Super Resolution|Xue Yang, Tao Chen, Lei Guo, Wenbo Jiang, Ji Guo, Yongming Li, Jiaming He|2025-03-01|arXiv …, 2025|https://github.com/xuefusiji/BadRefSR|http://arxiv.org/abs/2502.20943v1|
 |4|Gungnir: Exploiting Stylistic Features in Images for Backdoor Attacks on Diffusion Models|Yu Pan, Bingrong Dai, Jiahao Chen, Lin Wang, Yi Du, Jiao Liu|2025-03-01|arXiv …, 2025|https://github.com/paoche11/Gungnir|http://arxiv.org/abs/2502.20650v1|
