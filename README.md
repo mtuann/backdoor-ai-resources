@@ -5,7 +5,7 @@
 
 
 ## Backdoor Learning Papers
-This GitHub repository contains an updated list of Federated Learning papers as of **March 17, 2025**. 
+This GitHub repository contains an updated list of Federated Learning papers as of **March 24, 2025**. 
 
 - The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ML conferences and journals.
 - For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
@@ -40,13 +40,13 @@ Due to GitHub repository limitations, this section includes only those papers th
 |---|---|---|---|---|---|---|
 |1|Detecting Backdoor Attacks in Federated Learning via Direction Alignment Inspection|Jiahao Xu, Zikai Zhang, Rui Hu|2025-03-13|arXiv:2503.07978, 2025|https://github.com/JiiahaoXU/AlignIns|http://arxiv.org/abs/2503.07978v1|
 |2|CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking|Yiming Li, Kaiying Yan, Shuo Shao, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao|2025-03-02|arXiv …, 2025|https://github.com/Radiant0726/CBW|http://arxiv.org/abs/2503.05794v2|
-|3|BadRefSR: Backdoor Attacks Against Reference-based Image Super Resolution|Xue Yang, Tao Chen, Lei Guo, Wenbo Jiang, Ji Guo, Yongming Li, Jiaming He|2025-03-01|arXiv …, 2025|https://github.com/xuefusiji/BadRefSR|http://arxiv.org/abs/2502.20943v1|
-|4|Gungnir: Exploiting Stylistic Features in Images for Backdoor Attacks on Diffusion Models|Yu Pan, Bingrong Dai, Jiahao Chen, Lin Wang, Yi Du, Jiao Liu|2025-03-01|arXiv …, 2025|https://github.com/paoche11/Gungnir|http://arxiv.org/abs/2502.20650v1|
-|5|Char-mander Use mBackdoor! A Study of Cross-lingual Backdoor Attacks in Multilingual LLMs|Himanshu Beniwal, Sailesh Panda, Mayank Singh|2025-02-25|arXiv:2502.16901, 2025|https://github.com/himanshubeniwal/X-BAT|http://arxiv.org/abs/2502.16901v1|
+|3|Gungnir: Exploiting Stylistic Features in Images for Backdoor Attacks on Diffusion Models|Yu Pan, Bingrong Dai, Jiahao Chen, Lin Wang, Yi Du, Jiao Liu|2025-03-01|arXiv|https://github.com/paoche11/Gungnir|https://doi.org/10.48550/arXiv.2502.20650|
+|4|BadRefSR: Backdoor Attacks Against Reference-based Image Super Resolution|Xue Yang, Tao Chen, Lei Guo, Wenbo Jiang, Ji Guo, Yongming Li, Jiaming He|2025-03-01|arXiv …, 2025|https://github.com/xuefusiji/BadRefSR|http://arxiv.org/abs/2502.20943v1|
+|5|Char-mander Use mBackdoor! A Study of Cross-lingual Backdoor Attacks in Multilingual LLMs|Himanshu Beniwal, Sailesh Panda, Mayank Singh|2025-02-25|arXiv|https://github.com/himanshubeniwal/X-BAT|https://doi.org/10.48550/arXiv.2502.16901|
 |6|REFINE: Inversion-Free Backdoor Defense via Model Reprogramming|Yukun Chen, Shuo Shao, Enhao Huang, Yiming Li, Pin-Yu Chen, Zhan Qin, Kui Ren|2025-02-22|arXiv|https://github.com/THUYimingLi/BackdoorBox|http://arxiv.org/abs/2502.18508v1|
-|7|DemonAgent: Dynamically Encrypted Multi-Backdoor Implantation Attack on LLM-based Agent|Pengyu Zhu, Zhenhong Zhou, Yuanhe Zhang, Shilinlu Yan, Kun Wang, Sen Su|2025-02-20|arXiv …, 2025|https://github.com/whfeLingYu/DemonAgent|http://arxiv.org/abs/2502.12575v1|
+|7|DemonAgent: Dynamically Encrypted Multi-Backdoor Implantation Attack on LLM-based Agent|Pengyu Zhu, Zhenhong Zhou, Yuanhe Zhang, Shilinlu Yan, Kun Wang, Sen Su|2025-02-20|arXiv|https://github.com/whfeLingYu/DemonAgent|https://doi.org/10.48550/arXiv.2502.12575|
 |8|BackdoorDM: A Comprehensive Benchmark for Backdoor Learning in Diffusion Model|Weilin Lin, Nanjun Zhou, Yanyun Wang, Jianze Li, Hui Xiong, Li Liu|2025-02-19|arXiv …, 2025|https://github.com/linweiii/BackdoorDM|http://arxiv.org/abs/2502.11798v1|
-|9|BoT: Breaking Long Thought Processes of o1-like Large Language Models through Backdoor Attack|Zihao Zhu, Hongbao Zhang, Mingda Zhang, Ruotong Wang, Guanzong Wu, Ke Xu, Baoyuan Wu|2025-02-17|arXiv …, 2025|https://github.com/zihao-ai/BoT|http://arxiv.org/abs/2502.12202v1|
+|9|BoT: Breaking Long Thought Processes of o1-like Large Language Models through Backdoor Attack|Zihao Zhu, Hongbao Zhang, Mingda Zhang, Ruotong Wang, Guanzong Wu, Ke Xu, Baoyuan Wu|2025-02-17|arXiv|https://github.com/zihao-ai/BoT|https://doi.org/10.48550/arXiv.2502.12202|
 |10|Revisiting the Auxiliary Data in Backdoor Purification|Shaokui Wei, Shanchao Yang, Jiayin Liu, Hongyuan Zha|2025-02-13|arXiv:2502.07231, 2025|https://github.com/shawkui/BackdoorBenchER|http://arxiv.org/abs/2502.07231v1|
 |11|Detecting Backdoor Samples in Contrastive Language Image Pretraining|Hanxun Huang, Sarah Erfani, Yige Li, Xingjun Ma, James Bailey|2025-02-05|arXiv:2502.01385, 2025|https://github.com/HanxunH/Detect-CLIP-Backdoor-Samples|http://arxiv.org/abs/2502.01385v1|
 |12|Model Supply Chain Poisoning: Backdooring Pre-trained Models via Embedding Indistinguishability|Hao Wang, Shangwei Guo, Jialing He, Hangcheng Liu, Tianwei Zhang, Tao Xiang|2025-01-30|THE WEB CONFERENCE …|https://github.com/haowang-cqu/TransTroj|http://arxiv.org/abs/2401.15883v2|
