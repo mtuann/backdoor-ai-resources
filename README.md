@@ -5,7 +5,7 @@
 
 
 ## Backdoor Learning Papers
-This GitHub repository contains an updated list of Federated Learning papers as of **April 08, 2025**. 
+This GitHub repository contains an updated list of Federated Learning papers as of **April 14, 2025**. 
 
 - The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ML conferences and journals.
 - For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
@@ -40,7 +40,7 @@ Due to GitHub repository limitations, this section includes only those papers th
 |---|---|---|---|---|---|---|
 |1|Prototype Guided Backdoor Defense|Venkat Adithya Amula, Sunayana Samavedam, Saurabh Saini, Avani Gupta, Narayanan P J|2025-03-27|arXiv …, 2025|https://venkatadithya9.github.io/pgbd.github.io/|http://arxiv.org/abs/2503.20925v1|
 |2|Towards Invisible Backdoor Attack on Text-to-Image Diffusion Model|Jie Zhang, Zhongqi Wang, Shiguang Shan, Xilin Chen|2025-03-23|arXiv:2503.17724, 2025|https://github.com/Robin-WZQ/IBA|http://arxiv.org/abs/2503.17724v1|
-|3|Detecting Backdoor Attacks in Federated Learning via Direction Alignment Inspection|Jiahao Xu, Zikai Zhang, Rui Hu|2025-03-13|arXiv:2503.07978, 2025|https://github.com/JiiahaoXU/AlignIns|http://arxiv.org/abs/2503.07978v1|
+|3|Detecting Backdoor Attacks in Federated Learning via Direction Alignment Inspection|Jiahao Xu, Zikai Zhang, Rui Hu|2025-03-13|arXiv|https://github.com/JiiahaoXU/AlignIns|https://doi.org/10.48550/arXiv.2503.07978|
 |4|CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking|Yiming Li, Kaiying Yan, Shuo Shao, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao|2025-03-02|arXiv …, 2025|https://github.com/Radiant0726/CBW|http://arxiv.org/abs/2503.05794v2|
 |5|BadRefSR: Backdoor Attacks Against Reference-based Image Super Resolution|Xue Yang, Tao Chen, Lei Guo, Wenbo Jiang, Ji Guo, Yongming Li, Jiaming He|2025-03-01|arXiv|https://github.com/xuefusiji/BadRefSR|https://doi.org/10.48550/arXiv.2502.20943|
 |6|Gungnir: Exploiting Stylistic Features in Images for Backdoor Attacks on Diffusion Models|Yu Pan, Bingrong Dai, Jiahao Chen, Lin Wang, Yi Du, Jiao Liu|2025-03-01|arXiv|https://github.com/paoche11/Gungnir|https://doi.org/10.48550/arXiv.2502.20650|
@@ -227,7 +227,7 @@ Due to GitHub repository limitations, this section includes only those papers th
 |187|RAP: Robustness-Aware Perturbations for Defending against Backdoor Attacks on NLP Models|Wenkai Yang, Yankai Lin, Peng Li, Jie Zhou, Xu Sun|2021-10-15|EMNLP|https://github.com/lancopku/RAP|https://doi.org/10.18653/v1/2021.emnlp-main.659|
 |188|Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer|Fanchao Qi, Yangyi Chen, Xurui Zhang, Mukai Li, Zhiyuan Liu, Maosong Sun|2021-10-14|EMNLP|https://github.com/thunlp/StyleAttack|https://doi.org/10.18653/v1/2021.emnlp-main.374|
 |189|Excess Capacity and Backdoor Poisoning|Naren Sarayu Manoj, Avrim Blum|2021-09-02|NeurIPS 2021 Spotlight|https://github.com/narenmanoj/mnist-adv-training|http://arxiv.org/abs/2109.00685v3|
-|190|Sleeper Agent: Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch|Hossein Souri, Liam H Fowl, Rama Chellappa, Micah Goldblum, Tom Goldstein|2021-06-16|OpenReview|https://github.com/hsouri/Sleeper-Agent|http://arxiv.org/abs/2106.08970v3|
+|190|Sleeper Agent: Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch|Hossein Souri, Liam H Fowl, Rama Chellappa, Micah Goldblum, Tom Goldstein|2021-06-16|NeurIPS 2022 Accept|https://github.com/hsouri/Sleeper-Agent|http://arxiv.org/abs/2106.08970v3|
 |191|CRFL: Certifiably Robust Federated Learning against Backdoor Attacks|Chulin Xie, Minghao Chen, Pin-Yu Chen, Bo Li|2021-06-15|ICML|https://github.com/AI-secure/CRFL|http://proceedings.mlr.press/v139/xie21a.html|
 |192|Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution|Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu, Maosong Sun|2021-06-11|ACL/IJCNLP|https://github.com/thunlp/BkdAtk-LWS|https://doi.org/10.18653/v1/2021.acl-long.377|
 |193|Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger|Fanchao Qi, Mukai Li, Yangyi Chen, Zhengyan Zhang, Zhiyuan Liu, Yasheng Wang, Maosong Sun|2021-05-26|ACL/IJCNLP|https://github.com/thunlp/HiddenKiller|https://doi.org/10.18653/v1/2021.acl-long.37|
