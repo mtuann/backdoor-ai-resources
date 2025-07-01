@@ -5,7 +5,7 @@
 
 
 ## Backdoor Learning Papers
-This GitHub repository contains an updated list of Federated Learning papers as of **June 23, 2025**. 
+This GitHub repository contains an updated list of Federated Learning papers as of **July 01, 2025**. 
 
 - The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ML conferences and journals.
 - For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
@@ -41,8 +41,8 @@ Due to GitHub repository limitations, this section includes only those papers th
 |1|TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning|Songze Li, Mingxuan Zhang, Kang Wei, Shouling Ji|2025-06-11|arXiv|https://github.com/S3IC-Lab/TooBadRL|http://arxiv.org/abs/2506.09562v2|
 |2|Circumventing Backdoor Space via Weight Symmetry|Jie Peng, Hongwei Yang, Jing Zhao, Hengji Dong, Hui He, Weizhe Zhang, Haoyu He|2025-06-09|arXiv|https://github.com/JiePeng104/TSC|http://arxiv.org/abs/2506.07467v1|
 |3|Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking|Yu-Feng Chen, Tzuhsuan Huang, Pin-Yen Chiu, Jun-Cheng Chen|2025-06-05|arXiv|https://github.com/aiiu-lab/BackdoorImageEditing|http://arxiv.org/abs/2506.04879v1|
-|4|BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization|Xueyang Zhou, Guiyao Tie, Guowen Zhang, Hechang Wang, Pan Zhou, Lichao Sun|2025-05-22|arXiv|https://badvla-project.github.io/|http://arxiv.org/abs/2505.16640v1|
-|5|The Ripple Effect: On Unforeseen Complications of Backdoor Attacks|Rui Zhang, Yun Shen, Hongwei Li, Wenbo Jiang, Hanxiao Chen, Yuan Zhang, Guowen Xu, Yang Zhang|2025-05-16|arXiv|https://github.com/zhangrui4041/Backdoor_Complications|http://arxiv.org/abs/2505.11586v1|
+|4|BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization|Xueyang Zhou, Guiyao Tie, Guowen Zhang, Hechang Wang, Pan Zhou, Lichao Sun|2025-05-22|arXiv|https://badvla-project.github.io/|https://doi.org/10.48550/arXiv.2505.16640|
+|5|The Ripple Effect: On Unforeseen Complications of Backdoor Attacks|Rui Zhang, Yun Shen, Hongwei Li, Wenbo Jiang, Hanxiao Chen, Yuan Zhang, Guowen Xu, Yang Zhang|2025-05-16|arXiv|https://github.com/zhangrui4041/Backdoor_Complications|https://doi.org/10.48550/arXiv.2505.11586|
 |6|Cert-SSB: Toward Certified Sample-Specific Backdoor Defense|Ting Qiao, Yingjia Wang, Xing Liu, Sixing Wu, Jianbing Li, Yiming Li|2025-04-30|arXiv|https://github.com/NcepuQiaoTing/Cert-SSB|http://arxiv.org/abs/2504.21730v1|
 |7|Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models|Zhongqi Wang, Jie Zhang, Shiguang Shan, Xilin Chen|2025-04-29|arXiv|https://github.com/Robin-WZQ/DAA|http://arxiv.org/abs/2504.20518v1|
 |8|BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation|Ruotong Wang, Mingli Zhu, Jiarong Ou, Rui Chen, Xin Tao, Pengfei Wan, Baoyuan Wu|2025-04-23|arXiv|https://wrt2000.github.io/BadVideo2025/|https://doi.org/10.48550/arXiv.2504.16907|
