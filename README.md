@@ -1,39 +1,126 @@
 # Table of Contents
 1. [Backdoor Learning Papers](#backdoor-learning-papers)
-2. [Other topics](#other-topics)
+2. [Other Research Topics](#other-research-topics)
 3. [Backdoor Learning Papers with Code](#backdoor-learning-papers-with-code)
-
+4. [Data Sources](#data-sources)
+5. [Contributing](#contributing)
+6. [Support](#support)
 
 ## Backdoor Learning Papers
-This GitHub repository contains an updated list of Federated Learning papers as of **July 27, 2025**. 
+This GitHub repository contains an updated list of Backdoor Learning papers as of **July 27, 2025**. 
 
-- The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ML conferences and journals.
-- For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
+### Overview
+- **Total Papers**: Updated regularly with latest publications
+- **Coverage**: Papers from 2016 to present
+- **Sources**: Collected from arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, IEEE, ACM, Springer, ScienceDirect, Nature, and other top AI/ML conferences and journals
+- **Interactive Search**: For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/)
+
+### Key Features
+- 📊 **Comprehensive Coverage**: Papers from major AI/ML venues
+- 🔍 **Advanced Search**: Filter by title, author, venue, year
+- 📅 **Regular Updates**: Automated collection of new papers
+- 💻 **Code Availability**: Identifies papers with available code
+- 📈 **Trending Research**: Focus on cutting-edge developments
 
 ---
-# Other Topics
+
+## Other Research Topics
 Explore additional research papers on the following topics:
-- For **Large Language Models** papers, please visit the [**LLM Repository**](https://github.com/mtuann/llm-updated-papers).
-- For **Backdoor Learning** papers, please visit the [**Backdoor Learning Repository**](https://github.com/mtuann/backdoor-ai-resources).
-- For **Federated Learning** papers, please visit the [**Federated Learning Repository**](https://github.com/mtuann/federated-learning-updated-papers).
-- For **Machine Unlearning** papers, please visit the [**Machine Unlearning Repository**](https://github.com/mtuann/machine-unlearning-papers).
+
+### Machine Learning & AI
+- **[Large Language Models](https://github.com/mtuann/llm-updated-papers)** - LLM research and applications
+- **[Federated Learning](https://github.com/mtuann/federated-learning-updated-papers)** - Distributed machine learning
+- **[Backdoor Learning](https://github.com/mtuann/backdoor-ai-resources)** - Adversarial machine learning
+- **[Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers)** - Data removal and privacy
+
+### Computing & Systems
+- **[Serverless Computing](https://github.com/mtuann/serverless-computing-papers)** - Cloud computing architectures
+- **[Multi-Modal Learning](https://github.com/mtuann/multi-modal-papers)** - Multi-modal AI systems
+
+### Interactive Platforms
+- **[Research Papers App](https://mtuann.shinyapps.io/research-papers/)** - Search and explore all papers
+- **[Paper Collections](https://github.com/mtuann/research-papers)** - Main repository with all datasets
 
 ---
 
-For contributions, inquiries, or suggestions, feel free to reach out via [email](mailto:tuannm0312@gmail.com).
+## Data Sources
+The papers are collected from the following sources:
 
----
+### Academic Databases
+- **arXiv** (1991-present) - Preprints and published papers
+- **OpenReview** - Conference submissions and peer reviews
+- **ACM Digital Library** - Computer science publications
+- **Springer** - Academic journals and conferences
+- **ScienceDirect** - Elsevier publications
+- **Nature** - High-impact research papers
+- **DBLP** - Computer science bibliography
+- **Google Scholar** - Academic search engine
+- **CrossRef** - DOI registration agency
+- **OpenAlex** - Open scholarly data
 
-If you find this application helpful and would like to support its development, you can buy me a coffee using one of the following methods:
-- **Techcombank (Vietnam):** 5877 5555 55 (Nguyen Thi Lan Phuong)
-- **PayPal or Credit/Debit Card:** [https://ko-fi.com/miutheladycat](https://ko-fi.com/miutheladycat)
+### Major Conferences & Journals
+- **Machine Learning**: NeurIPS, ICML, ICLR, JMLR, TMLR
+- **Natural Language Processing**: ACL, EMNLP, NAACL, COLING
+- **Computer Vision**: CVPR, ICCV, ECCV, PAMI, IJCV
+- **Artificial Intelligence**: AAAI, IJCAI, AAMAS
+- **Data Mining**: KDD, ICDM, SDM, TKDD
+- **Security & Privacy**: CCS, USENIX Security, NDSS
+- **And many more...**
 
 ---
 
 ## Backdoor Learning Papers with Code
-Due to GitHub repository limitations, this section includes only those papers that provide accompanying code, sorted by publish date. For access to the full list of papers, please visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
+Due to GitHub repository limitations, this section includes only those papers that provide accompanying code, sorted by publication date. For access to the full list of papers, please visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
+
+
+### Summary Statistics
+- **Total Papers in Dataset**: 2,830
+- **Papers with Available Code**: 264
+- **Code Availability Rate**: 9.3%
+- **Last Updated**: July 27, 2025
+
+### Paper Statistics
+- **Total Papers**: 2830
+- **Papers with Code**: 2830
+- **Latest Update**: 2830
+- **Coverage Period**: 2016 - Present
 
 ---
+
+## Contributing
+We welcome contributions to improve this paper collection:
+
+### How to Contribute
+1. **Add Missing Papers**: Submit papers that should be included
+2. **Improve Metadata**: Help enhance paper information
+3. **Report Issues**: Identify bugs or missing features
+4. **Suggest Improvements**: Propose new features or enhancements
+
+### Contact Information
+- **Email**: [tuannm0312@gmail.com](mailto:tuannm0312@gmail.com)
+- **GitHub Issues**: [Create an issue](https://github.com/mtuann/research-papers/issues)
+- **Discussions**: [Join the discussion](https://github.com/mtuann/research-papers/discussions)
+
+---
+
+## Support
+If you find this application helpful and would like to support its development, you can buy me a coffee using one of the following methods:
+
+### Payment Methods
+- **Techcombank (Vietnam)**: 5877 5555 55 (Nguyen Thi Lan Phuong)
+- **PayPal or Credit/Debit Card**: [https://ko-fi.com/miutheladycat](https://ko-fi.com/miutheladycat)
+
+### Why Support?
+Your support helps maintain and improve:
+- 🤖 Automated paper collection pipeline
+- 🌐 Interactive web application
+- 📊 Regular data updates
+- 🔧 System maintenance and improvements
+- 📚 New research area coverage
+
+---
+
+**Note**: This repository is regularly updated with new papers. For the most current data, check the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/) or the individual topic repositories linked above.
 
 
 |No.|Title|Authors|Publish Date|Venue|Code|URL|
