@@ -34,8 +34,8 @@ Explore additional research papers on the following topics:
 - **[Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers)** - Data removal and privacy
 
 ### Computing & Systems
-- **[Serverless Computing](https://github.com/mtuann/serverless-computing-papers)** - Cloud computing architectures
-- **[Multi-Modal Learning](https://github.com/mtuann/multi-modal-papers)** - Multi-modal AI systems
+- **[Serverless Computing](https://mtuann.shinyapps.io/research-papers/)** - Cloud computing architectures
+- **[Multi-Modal Learning](https://mtuann.shinyapps.io/research-papers/)** - Multi-modal AI systems
 
 ### Interactive Platforms
 - **[Research Papers App](https://mtuann.shinyapps.io/research-papers/)** - Search and explore all papers
@@ -72,7 +72,7 @@ The papers are collected from the following sources:
 ## Backdoor Learning Papers with Code
 Due to GitHub repository limitations, this section includes only those papers that provide accompanying code, sorted by publication date. For access to the full list of papers, please visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
 
-
+<!-- 
 ### Summary Statistics
 - **Total Papers in Dataset**: 2,830
 - **Papers with Available Code**: 264
@@ -83,7 +83,7 @@ Due to GitHub repository limitations, this section includes only those papers th
 - **Total Papers**: 2830
 - **Papers with Code**: 2830
 - **Latest Update**: 2830
-- **Coverage Period**: 2016 - Present
+- **Coverage Period**: 2016 - Present -->
 
 ---
 
