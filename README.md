@@ -7,7 +7,7 @@
 6. [Support](#support)
 
 ## Backdoor Learning Papers
-This GitHub repository contains an updated list of Backdoor Learning papers as of **September 08, 2025**. 
+This GitHub repository contains an updated list of Backdoor Learning papers as of **September 14, 2025**. 
 
 ### Overview
 - **Total Papers**: Updated regularly with latest publications
@@ -74,15 +74,15 @@ Due to GitHub repository limitations, this section includes only those papers th
 
 <!-- 
 ### Summary Statistics
-- **Total Papers in Dataset**: 2,872
+- **Total Papers in Dataset**: 2,904
 - **Papers with Available Code**: 267
-- **Code Availability Rate**: 9.3%
-- **Last Updated**: September 08, 2025
+- **Code Availability Rate**: 9.2%
+- **Last Updated**: September 14, 2025
 
 ### Paper Statistics
-- **Total Papers**: 2872
-- **Papers with Code**: 2872
-- **Latest Update**: 2872
+- **Total Papers**: 2904
+- **Papers with Code**: 2904
+- **Latest Update**: 2904
 - **Coverage Period**: 2016 - Present -->
 
 ---
@@ -194,7 +194,7 @@ Your support helps maintain and improve:
 |67|IPA-NeRF: Illusory Poisoning Attack Against Neural Radiance Fields|Wenxiang Jiang, Hanwei Zhang, Shuo Zhao, Zhongwen Guo, Hao Wang|2024-07-01|arXiv|https://github.com/jiang-wenxiang/IPA-NeRF.|http://arxiv.org/abs/2407.11921v2|
 |68|Defending Against Repetitive-based Backdoor Attacks on Semi-supervised   Learning through Lens of Rate-Distortion-Perception Trade-off|Cheng-Yi Lee, Ching-Chia Kao, Cheng-Han Yeh, Chun-Shien Lu, Chia-Mu Yu, Chu-Song Chen|2024-07-01|2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)|https://github.com/chengyi-chris/UPure|https://doi.org/10.1109/WACV61041.2025.00630|
 |69|Clean-Label Physical Backdoor Attacks with Data Distillation|Thinh Dao, Khoa D Doan, Kok-Seng Wong|2024-07-01|arXiv|https://github.com/thinh-dao/Clean-Label-Physical-Backdoor-Attacks.|http://arxiv.org/abs/2407.19203v4|
-|70|Backdoor Graph Condensation|Jiahao Wu, Ning Lu, Zeiyu Dai, Kun Wang, Wenqi Fan, Shengcai Liu, Qing Li, Ke Tang|2024-07-01|arXiv|https://github.com/JiahaoWuGit/BGC.|https://doi.org/10.48550/arXiv.2407.11025|
+|70|Backdoor Graph Condensation|Jiahao Wu, Ning Lu, Zeiyu Dai, Kun Wang, Wenqi Fan, Shengcai Liu, Qing Li, Ke Tang|2024-07-01|arXiv|https://github.com/JiahaoWuGit/BGC.|https://doi.org/10.1109/ICDE65448.2025.00172|
 |71|A Whole-Process Certifiably Robust Aggregation Method Against Backdoor   Attacks in Federated Learning|Anqi Zhou, Yezheng Liu, Yidong Chai, Hongyi Zhu, Xinyue Ge, Yuanchun Jiang, Meng Wang|2024-06-30|arXiv|https://github.com/brick-brick/WPCRAM.|https://doi.org/10.48550/arXiv.2407.00719|
 |72|Lotus: Evasive and Resilient Backdoor Attacks through Sub-Partitioning|Siyuan Cheng, Guanhong Tao, Yingqi Liu, Guangyu Shen, Shengwei An, Shiwei Feng, Xiangzhe Xu, Kaiyuan Zhang, Shiqing Ma, ...|2024-06-16|2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)|https://github.com/Megum1/LOTUS.|https://doi.org/10.1109/cvpr52733.2024.02342|
 |73|BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents|Yifei Wang, Dizhan Xue, Shengjie Zhang, Shengsheng Qian|2024-06-05|OpenAlex|https://github.com/DPamK/BadAgent|https://doi.org/10.18653/v1/2024.acl-long.530|
