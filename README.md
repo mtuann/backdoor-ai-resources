@@ -7,7 +7,7 @@
 6. [Support](#support)
 
 ## Backdoor Learning Papers
-This GitHub repository contains an updated list of Backdoor Learning papers as of **November 18, 2025**. 
+This GitHub repository contains an updated list of Backdoor Learning papers as of **November 19, 2025**. 
 
 ### Overview
 - **Total Papers**: Updated regularly with latest publications
@@ -77,7 +77,7 @@ Due to GitHub repository limitations, this section includes only those papers th
 - **Total Papers in Dataset**: 2,995
 - **Papers with Available Code**: 274
 - **Code Availability Rate**: 9.1%
-- **Last Updated**: November 18, 2025
+- **Last Updated**: November 19, 2025
 
 ### Paper Statistics
 - **Total Papers**: 2995
