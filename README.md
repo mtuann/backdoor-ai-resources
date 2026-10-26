@@ -2,7 +2,7 @@
 
 Backdoor (trojan) attacks on machine-learning models and defenses against them, including federated and LLM settings.
 
-**399 papers with code** out of 4,640 indexed · updated **October 20, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=backdoor_attack)**
+**400 papers with code** out of 4,663 indexed · updated **October 25, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=backdoor_attack)**
 
 **More lists:** [LLM Serving](https://github.com/mtuann/llm-serving-papers) · [RAG](https://github.com/mtuann/rag-papers) · [Agent CDN](https://github.com/mtuann/agent-cdn-papers) · [Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers) · [Federated Learning](https://github.com/mtuann/federated-learning-updated-papers)
 
@@ -10,6 +10,7 @@ Backdoor (trojan) attacks on machine-learning models and defenses against them, 
 
 | Date | Paper | Venue | Code |
 |---|---|---|---|
+| 2026-10-19 | [Selective Transfer through Sequence Distillation: From Benchmark Knowledge to Backdoor Behaviour](https://arxiv.org/abs/2610.26311)<br><sub>Jonibek Mansurov, Sholpan Bolatzhanova, Filbert Aurelian Tjiaranta et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/MJonibek/kd-leakage?style=flat&label=%E2%98%85)](https://github.com/MJonibek/kd-leakage) |
 | 2026-10-14 | [Beyond Static Cues: Unified Dynamic Detection of MLLM Backdoors via Dual-Flow Trajectory Analysis](https://arxiv.org/abs/2610.20319)<br><sub>Yinzhen Huang, Jiahe Xie, Yitong Sun et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/kaoru0822-kitauji/EVO_Detect?style=flat&label=%E2%98%85)](https://github.com/kaoru0822-kitauji/EVO_Detect) |
 | 2026-10-07 | [Beyond Owls: Subliminal Learning Can Transfer Learned Capabilities and Backdoors](https://arxiv.org/abs/2610.10657)<br><sub>Jan Dubiński, Anna Sztyber, Jan Betley et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/TruthfulAI-research/beyond_owls?style=flat&label=%E2%98%85)](https://github.com/TruthfulAI-research/beyond_owls) |
 | 2026-10-05 | [Understanding and Enhancing Backdoor Persistency in LLM Agent Post-Training](https://arxiv.org/abs/2610.07510)<br><sub>Qiusi Zhan, Nian Lyu, Stephanie Ding et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/uiuc-kang-lab/PersistBD?style=flat&label=%E2%98%85)](https://github.com/uiuc-kang-lab/PersistBD) |
@@ -209,7 +210,6 @@ Backdoor (trojan) attacks on machine-learning models and defenses against them, 
 | 2024-07-11 | [Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses](https://doi.org/10.48550/arXiv.2407.08935)<br><sub>Yuxin Yang, Qiang Li, Jinyuan Jia et al.</sub> | CCS 2024 | [![stars](https://img.shields.io/github/stars/Yuxin104/Opt-GDBA?style=flat&label=%E2%98%85)](https://github.com/Yuxin104/Opt-GDBA) |
 | 2024-07-05 | [T2IShield: Defending Against Backdoors on Text-to-Image Diffusion Models](https://doi.org/10.1007/978-3-031-73013-9_7)<br><sub>Zhongqi Wang, Jie Zhang, Shiguang Shan et al.</sub> | Lecture Notes in Computer Science | [![stars](https://img.shields.io/github/stars/Robin-WZQ/T2IShield?style=flat&label=%E2%98%85)](https://github.com/Robin-WZQ/T2IShield) |
 | 2024-07-04 | [Future Events as Backdoor Triggers: Investigating Temporal Vulnerabilities in LLMs](https://doi.org/10.48550/arXiv.2407.04108)<br><sub>Sara Price, Arjun Panickssery, Samuel R. Bowman et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/sbp354/Future_triggered_backdoors?style=flat&label=%E2%98%85)](https://github.com/sbp354/Future_triggered_backdoors) |
-| 2024-07-01 | [Venomancer: Towards Imperceptible and Target-on-Demand Backdoor Attacks in Federated Learning](https://doi.org/10.48550/arXiv.2407.03144)<br><sub>Son Nguyen, Thinh Viet Nguyen, Khoa D. Doan et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/nguyenhongson1902/Venomancer?style=flat&label=%E2%98%85)](https://github.com/nguyenhongson1902/Venomancer) |
 
 ---
 
