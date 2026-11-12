@@ -2,7 +2,7 @@
 
 Backdoor (trojan) attacks on machine-learning models and defenses against them, including federated and LLM settings.
 
-**439 papers with code** out of 4,505 indexed · updated **November 11, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=backdoor_attack)**
+**439 papers with code** out of 4,505 indexed · updated **November 12, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=backdoor_attack)**
 
 **More lists:** [LLM Serving](https://github.com/mtuann/llm-serving-papers) · [RAG](https://github.com/mtuann/rag-papers) · [Agent CDN](https://github.com/mtuann/agent-cdn-papers) · [Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers) · [Federated Learning](https://github.com/mtuann/federated-learning-updated-papers)
 
